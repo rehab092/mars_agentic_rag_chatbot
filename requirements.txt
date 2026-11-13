@@ -1,0 +1,15 @@
+# Install PyTorch with CUDA first, e.g.:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+torch>=2.10
+docling==2.150.0
+pymupdf==2.1
+sentence-transformers==6.2.0
+transformers==5.22.2
+chromadb==1.5.9
+numpy==2.4.6
+openai==3.49.0
+python-dotenv==1.2.4
+pillow==13.0.0
+fastapi==0.162.5
+uvicorn==0.54.0
+requests==2.34.2

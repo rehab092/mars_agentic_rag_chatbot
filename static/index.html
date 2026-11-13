@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Perseverance Guide</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.1.6/purify.min.js"></script>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<div class="app">
+
+  <aside class="sidebar" id="sidebar">
+    <div class="brand">
+      <div class="planet"></div>
+      <div>
+        <div class="brand-name">Perseverance Guide</div>
+        <div class="brand-sub">Mars 2020 mission assistant</div>
+      </div>
+    </div>
+    <button class="new-chat" id="newChat">
+      <svg viewBox="0 0 24 24" width="16" height="16"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      New conversation
+    </button>
+    <div class="sessions-label">Conversations</div>
+    <nav class="sessions" id="sessions"></nav>
+    <div class="sidebar-foot" id="status">Connecting…</div>
+  </aside>
+
+  <main class="main">
+    <header class="topbar">
+      <button class="icon-btn menu" id="menuBtn" aria-label="Menu">
+        <svg viewBox="0 0 24 24" width="20" height="20"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      </button>
+      <div class="topbar-title" id="chatTitle">New conversation</div>
+      <label class="toggle"><input type="checkbox" id="showSteps" checked> Show reasoning steps</label>
+    </header>
+
+    <section class="chat" id="chat">
+      <div class="empty" id="empty">
+        <div class="hero-planet"></div>
+        <h1>Ask anything about Mars 2020</h1>
+        <p>Answers are grounded in NASA mission documents, with sources you can inspect.</p>
+        <div class="suggestions">
+          <button>What does MOXIE do and how does it work?</button>
+          <button>How did Perseverance land on Mars?</button>
+          <button>What instruments are on the rover's mast?</button>
+          <button>Tell me about the Ingenuity helicopter</button>
+        </div>
+      </div>
+    </section>
+
+    <form class="composer" id="composer">
+      <div class="composer-box">
+        <textarea id="input" rows="1" placeholder="Ask about the mission, rover, instruments…" required></textarea>
+        <button type="submit" id="send" aria-label="Send">
+          <svg viewBox="0 0 24 24" width="18" height="18"><path d="M5 12h13M13 6l6 6-6 6" stroke="currentColor" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+      </div>
+      <div class="hint">Enter to send · Shift+Enter for a new line</div>
+    </form>
+  </main>
+</div>
+
+<div class="lightbox" id="lightbox"><img alt=""></div>
+<script src="/static/app.js"></script>
+</body>
+</html>
