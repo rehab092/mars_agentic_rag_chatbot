@@ -1,0 +1,11 @@
+MAVEN will provide a recording of this landing data in a less processed file format. MAVEN is scheduled to transmit its data several hours after touchdown and its data also takes more time to process once it is on the ground. More detail on the transmission time table is available in the Confirmation of Landing Milestones section.
+
+# Surface
+
+Image credit: NASA/JPL-Caltech
+
+Once Perseverance is wheels-down on Mars, it will begin communicating using antennas on its deck. Communication will resume through the cylindrical, paint-can-shaped UHF low-gain antenna at the back of the rover. During surface operations, 99.9% of science data is communicated through this antenna to passing orbiters, including MAVEN and MRO, as well as ESA's (European Space Agency's) Trace Gas Orbiter.
+
+Commands sent from Earth will routinely be received by Perseverance's X-band high-gain antenna, the rotatable hexagonal paddle toward the back of the rover. While the antenna is also capable of transmitting data back to Earth, it is limited.
+
+If the views and distance to the Earth are favorable, Perseverance can also use an X-band low-gain antenna (a chess-piece-shaped antenna behind the high-gain antenna).

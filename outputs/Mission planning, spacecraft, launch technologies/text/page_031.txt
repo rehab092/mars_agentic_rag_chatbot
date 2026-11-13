@@ -1,0 +1,15 @@
+Perseverance also has a six-wheel, rocker-bogie design derived from all of NASA's Mars rovers to date that helps to maintain a relatively constant weight on each of the rover's wheels and minimizes tilt. The wheels are slightly narrower and taller than Curiosity's but are similarly machined out of a rigid, lightweight aluminum alloy. Both Curiosity and Perseverance have wheels lined with grousers - raised treads that are specially designed for the Martian desert. Curiosity's have a pointed chevron
+
+pattern for climbing rocks, a shape that made them more vulnerable to wheel damage.
+
+Perseverance's grousers are nearly straight with a gentle curve, and each wheel has twice the number of treads as Curiosity's (48 versus 24). The wheel skin is also twice as thick as Curiosity's. During testing, the mobility team found this improved both damage tolerance and wheel performance over rocks and sand. For more on the distinctions between Curiosity and Perseverance, read the feature story Two Rovers to Roll on Mars Again.
+
+For more on the rover's science instruments, visit the Science section of this press kit.
+
+# Sample Caching System
+
+The Perseverance rover's Sampling and Caching Subsystem is three robots that will work in concert to collect rock and regolith (dust, soil, broken rock) samples, seal them in sample tubes and deposit those tubes on the surface for retrieval by a later mission.
+
+# Robotic Arm
+
+The first robot involved with the Sample Caching System is the 7-foot-long (2-meter-long) robotic arm with its drill and instrument-laden turret. Bolted to the front of the rover's chassis, the five-jointed arm can be manipulated so that the turret is placed in close proximity to interesting geologic features on the surface. The turret contains the coring tool, a rotary-percussive device designed to acquire rock core and regolith samples. A small tank of pressurized nitrogen can be used to blow dust and other particles off targets prior to analysis by the ultraviolet Raman spectrometer SHERLOC and the X-ray fluorescence spectrometer PIXL - two science instruments also located on the turret.

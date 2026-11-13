@@ -1,0 +1,11 @@
+6. Perseverance carries instruments and technology that will pave the way for future human missions to the Moon and Mars.
+
+Among the future-looking technologies on the Mars 2020 Perseverance mission that will benefit human exploration is the rover's Terrain-Relative Navigation
+
+system. Part of the landing system, Terrain-Relative Navigation is the main reason Perseverance can explore a place as interesting as Jezero Crater. It will enable the rover to quickly and autonomously comprehend its location over the Martian surface and modify its trajectory during descent. This technology will be able to provide invaluable assistance for both robotic and crewed missions landing on the Moon and is a must for future robotic and crewed exploration of Mars.
+
+Engineers have also given Perseverance more self-driving smarts than any other rover, allowing it to cover more ground in a day's operations without having to wait for engineers on Earth to send up instructions. Calculated over the length of the mission, this fast pace can translate into more science. This fast-traverse capability (courtesy of upgraded sensors, computers and algorithms) will make exploration of the Moon, Mars and other celestial bodies more efficient for other spacecraft.
+
+Perseverance also carries a technology demonstration - a proof-of-concept experiment - called MOXIE (Mars Oxygen In-Situ Resource Utilization Experiment). This instrument will produce oxygen from Mars' carbon dioxide atmosphere, demonstrating a way that future explorers might produce oxygen for rocket propellant as well as for breathing.
+
+The Mars Environmental Dynamics Analyzer (MEDA) instrument suite will also be key for future human exploration, providing information about the current weather and climate, as well as the nature of the dust on the surface. The Mars Science Laboratory Entry, Descent and Landing Instrumentation 2 (MEDLI2) package, a next-generation version of what flew on the Mars Science Laboratory mission that delivered the Curiosity rover, will help human exploration, too, providing data about the entry and descent of the spacecraft through the atmosphere.

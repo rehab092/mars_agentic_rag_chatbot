@@ -1,0 +1,17 @@
+Two of them will play a particularly important role in the search for potential signs of past life: SHERLOC (short for Scanning Habitable Environments with Raman & Luminescence for Organics & Chemicals), which can detect organic matter and minerals, and PIXL (short for Planetary Instrument for X-ray Lithochemistry), which maps the chemical composition of rocks and sediments. The instruments will allow scientists to analyze these features together at a higher level of detail than any Mars rover has done before.
+
+Perseverance will also be able to use some instruments to gather science data from a distance: Mastcam-Z's cameras can zoom in on rock textures from as far away as a soccer field, while SuperCam will use a laser to zap rock and regolith (broken rock and dust) to study their composition in the resulting vapor. RIMFAX (short for Radar Imager for Mars' Subsurface Experiment) will use radar waves to probe geological features underground.
+
+# 2. The rover is landing in a place with a high potential for finding these signs of past microbial life.
+
+Image credit: ESA/DLR/FU-Berlin
+
+Terrain that is interesting to scientists can be challenging to land on. Thanks to new technologies that enable Perseverance to target its landing site more accurately and avoid landing hazards autonomously, the spacecraft can safely touch down in an intriguing ancient river delta with steep cliffs, sand dunes, and boulder fields.
+
+Jezero Crater is a 28-mile-wide (45-kilometer-wide) basin located in the Martian northern hemisphere. Sometime around 3.5 billion years ago, a river there flowed into a body of water about the size of Lake Tahoe, depositing sediments in a fan shape known as a delta. The Perseverance science team believes this ancient river delta and lake deposits could have collected and preserved organic molecules and other potential signs of microbial life.
+
+# 3. Perseverance is also collecting important data about Mars' geology and climate.
+
+Image credit: NASA/JPL-Caltech
+
+Context is everything. Mars orbiters have been collecting images and data from Jezero Crater from about 200 miles (322 kilometers) above, but finding signs of ancient life on the surface requires much closer inspection. It requires a rover like Perseverance. Understanding Mars' past climate conditions and reading the geological history embedded in its rocks will give scientists a richer sense of what the planet was like in its distant past. Studying the Red Planet's geology and climate could also give us a sense of why Earth and Mars - despite some early similarities - ended up so different.

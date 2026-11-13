@@ -1,0 +1,45 @@
+{
+  "source_pdf": "Mars 2020 Perseverance Fact Sheet.pdf",
+  "document_id": "Mars 2020 Perseverance Fact Sheet",
+  "extraction_engine": "docling",
+  "pages": [
+    {
+      "page_number": 1,
+      "text_file": "outputs/Mars 2020 Perseverance Fact Sheet/text/page_001.txt",
+      "character_count": 1775,
+      "images": [
+        {
+          "filename": "page_001_img_001.jpeg",
+          "path": "outputs/Mars 2020 Perseverance Fact Sheet/images/page_001_img_001.jpeg",
+          "bbox": [
+            45.36000061035156,
+            352.08001708984375,
+            467.47998046875,
+            584.9409790039062
+          ],
+          "sha256": "5db75344e4bac2a8427e94ec1208d00e247aa4e6de8ae359414c33bcba39eb15"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text_file": "outputs/Mars 2020 Perseverance Fact Sheet/text/page_002.txt",
+      "character_count": 4045,
+      "images": [
+        {
+          "filename": "page_002_img_001.jpeg",
+          "path": "outputs/Mars 2020 Perseverance Fact Sheet/images/page_002_img_001.jpeg",
+          "bbox": [
+            314.5,
+            199.44000244140625,
+            565.9129638671875,
+            348.09100341796875
+          ],
+          "sha256": "ee2bdfbb891ff2637197ff5e9ddb9b2d30e177f8d7e160a1db462752e57d86d6"
+        }
+      ],
+      "tables": []
+    }
+  ]
+}

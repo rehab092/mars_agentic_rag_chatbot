@@ -1,0 +1,25 @@
+Mars Exploration Rover-A (Spirit): U.S.; June 10, 2003; rover; landed Jan. 4, 2004 for three-month prime mission inside Gusev Crater, completed several extended missions, last communicated March 22, 2010, mission declared complete May 25, 2011
+
+Mars Exploration Rover-B (Opportunity): U.S.; July 7, 2003; rover; landed Jan. 25, 2004 for three-month prime mission in Meridiani Planum region, completed several extended missions, last communicated June 10, 2018, mission declared complete on Feb. 13, 2019
+
+Mars Reconnaissance Orbiter: U.S.; Aug. 12, 2005; orbiter; entered orbit March 12, 2006, completed prime mission Sept. 26, 2010, currently conducting extended mission of science collection and communication relay
+
+Phoenix Mars Lander: U.S.; Aug. 4, 2007; lander; landed May 25, 2008, completed prime mission and began extended mission Aug. 26, 2008, last communicated Nov. 2, 2008
+
+Phobos-Grunt/Yinghuo 1: Russia/China; Nov. 8, 2011; Phobos lander with sample return and Mars orbiter; achieved Earth orbit only
+
+Mars Science Laboratory (Curiosity rover): U.S.; Nov. 26, 2011; rover; landed Aug. 6, 2012, completed prime mission, currently conducting extended science mission
+
+Mars Atmosphere and Volatile Evolution MissioN (MAVEN): U.S.; Nov. 18, 2013; orbiter; entered orbit Sept. 21, 2014; completed prime mission, currently conducting extended science mission
+
+Mars Orbiter Mission (Mangalyaan): India; Nov. 5, 2013; orbiter; entered orbit Sept. 14, 2014, completed prime mission, currently conducting extended mission
+
+ExoMars 2016 (Trace Gas Orbiter and Schiaparelli module): Europe; March 14, 2016; orbiter and landingdemonstration module; entered orbit Oct. 19, 2016, currently conducting prime mission; unsuccessful Mars impact of Schiaparelli module Oct. 19, 2016
+
+InSight Lander: U.S., May 5, 2018; lander; landed Nov. 26, 2018; completed prime mission, currently conducting extended science mission
+
+Mars Cube One: U.S.; May 5, 2018; two-CubeSat data relay for InSight Lander; flew by Mars and completed relay Nov. 26, 2018, concluded operations Feb. 2, 2020
+
+Emirates Mars Mission (Hope probe): United Arab Emirates; July 19, 2020; orbiter; expected to enter orbit February 2021
+
+Mars Global Remote Sensing Orbiter and Small Rover (Tianwen-1): China; July 23, 2020; orbiter and rover; expected to enter orbit February 2021 and land the rover April 2021

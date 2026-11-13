@@ -1,0 +1,9 @@
+The image displays a full-body illustration of the Perseverance rover positioned on a rocky, reddish-brown terrain that resembles the Martian surface. The rover is shown in a side profile view with its six wheels and suspension system clearly visible. Several scientific instruments are labeled with text boxes and lines pointing to their specific locations on the vehicle.
+
+At the top of the rover's mast, a large camera assembly is labeled "Mastcam-Z" and is associated with the Italian flag. To the left of this camera, a smaller box labeled "Supercam" is indicated, accompanied by the French flag. Further to the left, near the top of the mast structure, a device labeled "Laser Retroreflector" is marked with the Italian flag. Below the main mast, a component labeled "Rimfax" is pointed out, associated with the Norwegian flag.
+
+The rover's body features a label for the "Caching System" located centrally on the chassis. On the left side of the rover, near the rear wheels, a device labeled "Moxie" is identified. On the right side of the rover, near the front wheels, a sensor labeled "Pixl" is visible.
+
+The rover's robotic arm is extended forward, with its end effector resting on a large rock. The tool currently engaged with the rock is labeled "Coring Drill." The entire robotic arm assembly is labeled "Sherloc."
+
+The background depicts a hazy, orange-tinted sky and a landscape of scattered rocks and boulders, consistent with a desert environment. The image serves as a visual guide identifying the primary science instruments mounted on the Perseverance rover.

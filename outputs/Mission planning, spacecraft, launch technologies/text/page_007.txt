@@ -1,0 +1,19 @@
+# 7. You will get to ride along.
+
+The Mars 2020 Perseverance mission carries more cameras than any interplanetary mission in history. The Perseverance rover itself has 19 cameras that will deliver images of the landscape in breathtaking detail. The other parts of the spacecraft involved in entry, descent and landing carry four additional
+
+cameras, potentially allowing engineers to put together a high-definition view of the landing process after the rover safely touches down on Mars. As with previous Mars missions, the Mars 2020 Perseverance mission plans to make raw and processed images available on the mission's website.
+
+In this spirit of bringing the public along, the Perseverance rover carries an anodized plate with the words "Explore as one" in Morse code and three silicon chips with the names of approximately 10.9 million people who signed up to ride along on Perseverance's journey to Mars.
+
+You can also follow Perseverance's adventure on social media @NASAPersevere and @NASAMars.
+
+# Six Things to Know About Ingenuity
+
+Ingenuity, NASA's Mars Helicopter, may weigh only about 4 pounds (1.8 kilograms), but it has some outsized ambitions. As the Wright Brothers were the first to achieve powered, controlled flight on our world with their Flyer, Ingenuity's team at JPL expects its helicopter to be the first flyer on another world. Here are six things you should know about the first helicopter going to another planet:
+
+# 1. Ingenuity is an experimental flight test.
+
+Ingenuity is what is known as a technology demonstration - a project that seeks to test a new capability for the first time, with limited scope. Previous groundbreaking technology demonstrations include the Mars Pathfinder rover Sojourner and the Mars Cube One (MarCO) CubeSats that flew by Mars.
+
+Ingenuity features four specially made carbon-fiber blades arranged into two 4-foot-long (1.2-meter-long) counter-rotating rotors that spin at around 2,400 rpm - about eight times as fast as a standard helicopter on Earth - plus innovative solar cells, battery, avionics, sensors, telecommunications, and other designs and algorithms. But many of its other components are commercial, off-the-shelf parts from the world of smart phones, including two cameras, an inertial measurement unit (measuring movement), an altimeter (measuring altitude), an inclinometer (measuring tilt angles) and computer processors. The helicopter does not carry science instruments and is a separate experiment from the Mars 2020 Perseverance mission.

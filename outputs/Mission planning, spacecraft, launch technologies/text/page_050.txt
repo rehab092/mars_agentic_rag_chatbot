@@ -1,0 +1,33 @@
+# Science Goals
+
+# Perseverance will contribute to the overarching goals of NASA's Mars Exploration Program:
+
+GOAL 1 Determine whether life ever existed
+
+GOAL 2 Characterize the climate
+
+To reach the first three of these goals, NASA has determined the following more specific science objectives for Perseverance:
+
+Understand the geology of the field site explored by the Perseverance rover.
+
+Determine whether Perseverance's landing site, Jezero Crater, could have supported microbial life in the distant past, and search for evidence that such ancient life may have left behind.
+
+Select and collect samples representing the geologic diversity of the Perseverance field site, focusing on materials with the highest potential to preserve signs of life and planetary evolution. Keep these samples pristine, isolating them from Earth-sourced contaminants.
+
+GOAL 3
+
+Characterize the geology
+
+GOAL 4
+
+Prepare for human exploration
+
+NASA has also tasked the Mars 2020 team with a mission objective to prepare for future human exploration by conducting the following investigations:
+
+Demonstrate a technology that converts carbon dioxide in the Martian atmosphere into oxygen. In the future, oxygen generated this way could be used by astronauts as rocket propellant and for breathing (more on MOXIE below).
+
+Study how atmospheric dust could affect future technology, including human life support systems.
+
+Study how Mars weather could affect human explorers (more on MEDA below).
+
+Use sensors in the rover's descent stage and back shell to better understand entry into the Martian atmosphere. This can help spacecraft engineers design safe landings for future astronauts traveling to Mars (more information on MEDLI2 is here).

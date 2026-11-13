@@ -1,0 +1,25 @@
+# Payload Instruments
+
+Science instruments are state-ofthe-art tools for acquiring information about Martian geology, atmosphere, environmental conditions and potential signs of life (biosignatures). The mission's science supports the field of astrobiology, which aims to understand the origin, evolution and distribution of life in the universe.
+
+Perseverance has seven primary science instruments.
+
+# Mastcam-Z
+
+Several instruments on Perseverance involve international partners. Image credit: NASAS/JPL-Caltech
+
+# Principal Investigator:
+
+Jim Bell, Arizona State University
+
+Mastcam-Z is a pair of next-generation science cameras that sit on Perseverance's Remote Sensing Mast, or "head." This pair of zoomable cameras can be used to shoot video and to create high-resolution, color stereo/3D panoramas of the Martian landscape. These images help rover
+
+operators drive and place the rover's arm instruments. Analysis of the geology and colors of the landscape help scientists determine the composition and past history of the landing site region.
+
+# Mastcam-Z
+
+Serves as Perseverance's primary scientific "eyes."
+
+At maximum zoom, can see a feature as small as a house fly from as far away as the length of a soccer field.
+
+Can build 360-degree color and stereo panoramas for rover driving and science.

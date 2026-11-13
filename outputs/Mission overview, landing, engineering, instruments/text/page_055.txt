@@ -1,0 +1,17 @@
+# Mastcam-Z
+
+# Principal Investigator:
+
+# Jim Bell, Arizona State University, Tempe
+
+Mastcam-Z is a pair of next-generation science cameras on Perseverance's remote sensing mast, or "head." This pair of zoomable cameras can be used to shoot video and to create high-resolution, color stereo/3D panoramas of the Martian landscape in multiple spectra of light. These images also help rover operators drive and position the rover's arm instruments. Analysis of the landing site's geology viewed in Mastcam-Z images will help scientists determine the history of the landing site region.
+
+# Mastcam-Z
+
+Serves as Perseverance's primary scientific "eyes."
+
+At maximum zoom, can see a feature as small as a house fly from as far away as the length of a soccer field.
+
+Can build 360-degree color and stereo panoramas for science and rover driving.
+
+Image credit: NASA/JPL-Caltech

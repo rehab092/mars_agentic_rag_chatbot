@@ -1,0 +1,13 @@
+During the Helicopter Deployment Phase and the subsequent 30-sol technology demonstration window, there will likely be segments of time where no direct support of helicopter operations is required of the rover. During these periods, the Mars 2020 mission team will pursue science opportunities with its other instruments.
+
+Find more information in the Ingenuity Mars Helicopter press kit: http://go.nasa.gov/ingenuity-press-kit.
+
+# Surface Operations
+
+At the end of these experimental helicopter flights, Perseverance will begin its surface operations phase, when the team will carry out its ambitious science mission: searching for signs of ancient microbial life, characterizing the climate and geology of Mars, and collecting carefully selected and documented samples for future return to Earth. Find more about Perseverance's science objectives in the Science section of this press kit.
+
+Exploration of the Martian surface is led by the rover's science team. To maximize the science being conducted in the time available, the mission team plans a science strategy in advance while building in the flexibility to respond to new discoveries as scientists study the data. The science team has a variety of tools at its disposal, starting with data from NASA's Mars orbiters. The science team has studied Jezero Crater extensively for years with these tools, mapping out key places, called campaign locations, they want to study with Perseverance. Campaign locations include individual outcrops, or rover stops. As data comes in with finer and finer resolution from the rover's science instruments, the science team will make progressively more detailed decisions about what data to collect, what samples to cache, and where to go next.
+
+Perseverance is expected to cover more ground than any previous Mars rover. Much of its driving operations will be automated, streamlining the process for navigating around rocks and sand traps. Perseverance is designed to drive on average about 650 feet (200 meters) per Martian day. To put that into perspective, the longest drive in a single Martian day was 702 feet (214 meters), a record set by NASA's Opportunity rover. Perseverance is designed to regularly drive at nearly the current planetwide record drive distance in a day.
+
+More information about the rover's driving capabilities is available in this story.

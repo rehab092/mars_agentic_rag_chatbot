@@ -1,0 +1,27 @@
+The image displays a robotic rover positioned on a rocky, uneven surface under a sky dominated by intense orange and red hues, suggesting a low-angle light source such as a sunrise or sunset. The rover is shown in profile, facing toward the left side of the frame.
+
+Main visible objects include:
+- A six-wheeled rover with large, treaded wheels designed for traversing rough terrain.
+- A central body housing various scientific instruments and equipment.
+- A mast extending upward from the rover’s body, supporting a camera system at its apex.
+- Additional instruments mounted on the front and sides of the rover body, including what appears to be a robotic arm or sampling device on the front left.
+
+Structure and components:
+- The rover has a chassis with six wheels arranged in three axles.
+- The mast is articulated and holds a boxy camera unit at the top, likely a panoramic imager.
+- Various cylindrical and rectangular modules are attached to the rover’s body, possibly containing sensors, drills, or sample collection tools.
+- The ground beneath the rover consists of scattered rocks and loose soil, indicating a barren, extraterrestrial landscape.
+
+Readable labels, numbers, or measurements:
+- No text, labels, numbers, or scientific data are visible on the rover or in the background.
+- The sky contains no stars, clouds, or atmospheric markings that could be interpreted as readable information.
+
+Relationships between components:
+- The mast is centrally mounted on the rover’s body and extends vertically above it.
+- The robotic arm or sampling device is positioned at the front left, suggesting it is used for close-range interaction with the surface.
+- The wheels are spaced to allow stable movement across the uneven terrain.
+
+Purpose illustrated:
+- The image illustrates a Mars rover exploring the Martian surface during twilight conditions.
+- The artistic rendering style suggests this is a conceptual or promotional image rather than a photograph from an actual mission.
+- The title “RETRIEVE YOUR BOARDING PASS!” implies a thematic connection to space travel or exploration, though no boarding pass or ticket is visible in the image.

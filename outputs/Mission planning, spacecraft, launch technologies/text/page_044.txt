@@ -1,0 +1,13 @@
+Because the samples collected by the Perseverance rover could be brought back to Earth for scientific analysis, the project must adhere to additional cleanliness standards beyond what's required of missions solely intended to explore the surface of Mars.
+
+The elements of the Perseverance rover that participate in sample collection are handled with extra care. They have been assembled in aseptic spaces (a clean room within a clean room), which provide the increased level of stringency for cleanliness that some sample collection hardware must meet. These parts are also thoroughly sterilized, exceeding the cleanliness standards of tools that doctors use in surgery.
+
+The critical components of the Sample Caching System were integrated only shortly before launch
+
+at Kennedy Space Center. The sample caching elements are enclosed behind a door on the rover's belly that will unseal and detach only after landing. An additional barrier behind this door will limit the flow of unwanted material into the parts that will touch the samples and should remain clean.
+
+Mission teams are also identifying and keeping track of any known materials that remain on the spacecraft after thorough cleaning. This helps maintain a list of what's known to be on board before the sample tubes leave Earth, which can be compared with future measurements of the samples. Perseverance's sampling system will also carry "witness" tubes that will record the state of the environment within the sampling system, including any terrestrial contamination that may have been on the rover before it left Earth and remained on after touchdown on Mars.
+
+This approach should result in the most pristine, well-documented planetary samples ever obtained, ready for imaging and analysis on Earth, where scientific specialists from around the world could apply the full breadth of terrestrial laboratory capabilities.
+
+For more information, NASA has provided a fact sheet on Perseverance's biological cleanliness.

@@ -1,0 +1,11 @@
+# Telecommunications: How Perseverance Talks to Earth
+
+# Launch
+
+Radio transmissions from the United Launch Alliance Atlas V rocket to NASA's Tracking and Data Relay Satellite System enable ground controllers to monitor critical events and the status of both the launch vehicle and the Mars 2020 spacecraft that includes Perseverance.
+
+The cruise stage of the Mars 2020 spacecraft will start communicating with the ground between about 70
+
+and 90 minutes after launch, depending on when liftoff actually takes place. The variability is due to how long the spacecraft is in Earth's shadow for each launch opportunity. Our planet's shadow blocks light from reaching the spacecraft's solar panels, which charge batteries that power the communications radio. Mission controllers don't want to turn on the radio while the spacecraft is in shadow because this would draw down the batteries when they can't recharge.
+
+The first ground station of NASA's Deep Space Network to receive communication from the spacecraft will be Canberra, Australia, followed a short time later by Goldstone in the California desert near Barstow.

@@ -1,0 +1,16 @@
+The image displays a scene inside a clean room facility where a large, complex piece of spacecraft hardware is being assembled or inspected.
+
+1. Main Visible Objects:
+The central object is a large, white, box-like structure, which appears to be the main body of a rover or lander. It is surrounded by various mechanical arms, robotic manipulators, and support equipment. In the background, there are large windows and ventilation units on the wall.
+
+2. Structure and Components:
+The spacecraft body has a flat top surface with various instruments mounted on it. A robotic arm with a gripper or tool is positioned near the top of the spacecraft, suggesting active assembly or testing. The surrounding equipment includes white structural frames and what appear to be vacuum chambers or specialized testing rigs.
+
+3. Readable Labels and Information:
+There are no clearly readable labels, numbers, or text on the spacecraft or equipment within the image itself. The only prominent text is the large orange play button overlay in the center of the image, indicating that this is a still frame from a video.
+
+4. Relationships Between Components:
+The robotic arm is positioned directly above the spacecraft, implying it is interacting with the instruments mounted on the top of the vehicle. The surrounding equipment supports the spacecraft, holding it in place for the robotic operations.
+
+5. Purpose Illustrated:
+The image illustrates the process of building or testing a spacecraft. The presence of the clean room environment, the protective suits worn by the personnel (though they are not clearly visible, the environment suggests it), and the robotic assembly equipment all point to the manufacturing or pre-launch testing phase of a space mission. The context provided in the page text mentions "Building NASA's Perseverance Rover," which aligns with the visual evidence of a spacecraft being assembled in a clean room.

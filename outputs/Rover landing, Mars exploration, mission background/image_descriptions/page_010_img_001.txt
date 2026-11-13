@@ -1,0 +1,7 @@
+The image displays a detailed technical illustration of the Perseverance rover positioned on a reddish, cracked Martian surface. The background features a gradient sky transitioning from orange to purple. The rover is shown in a three-quarter view, revealing its six wheels, suspension system, and various mounted instruments.
+
+Several scientific instruments are labeled with lines pointing to their specific locations on the vehicle. At the top of the rover's mast, the Mastcam-Z is identified as the Zoomable Panoramic Cameras. To the right of the mast, the SuperCam is labeled as a Laser Micro-Imager. Below the mast, the MEDA instrument is marked as a Weather Station. On the left side of the rover body, the RIMFAX is labeled as a Subsurface Radar.
+
+Attached to the rover's robotic arm is a large, complex instrument assembly. This assembly is divided into two distinct sections. The upper section is labeled SHERLOC and identified as an Ultraviolet Spectrometer. The lower section is labeled PIXL and identified as an X-ray Spectrometer.
+
+At the bottom of the image, below the rover's wheels, the MOXIE instrument is labeled with the description "Produces Oxygen from Martian CO2." The rover has six large, treaded wheels connected to a complex suspension structure. The overall composition illustrates the layout and function of the rover's seven science instruments.

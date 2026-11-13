@@ -1,0 +1,39 @@
+Source PDF: Mission overview, landing, engineering, instruments.pdf
+Page Number: 32
+Table Number: 1
+
+Row 1:
+CameraType: Engineering Cameras
+Number: 9
+ColororBW: Color
+Resolution: 20megapixel
+Location: Various locations on
+the rover
+
+Row 2:
+CameraType: Navigation Cameras
+(Navcams)
+Number: 2
+ColororBW: Color
+Resolution: 20megapixel
+Location: Rover mast
+
+Row 3:
+CameraType: Hazard Avoidance Cameras
+(Hazcams fisheye)
+,
+Number: 6
+ColororBW: Color
+Resolution: 20megapixel
+Location: 4 on front of rover
+,
+2 on rear
+
+Row 4:
+CameraType: Sample Caching System
+Camera (CacheCam)
+Number: 1
+ColororBW: Color
+Resolution: 20megapixel
+Location: In Sample Caching
+System

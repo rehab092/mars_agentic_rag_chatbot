@@ -1,0 +1,17 @@
+# Sample Caching System
+
+The Perseverance rover's Sample Caching System is made of three robotic components that will work in concert to collect samples of rock and regolith (broken rock and dust), seal them in sample tubes, and deposit those tubes on the surface of Mars for retrieval by a future mission.
+
+# Robotic Arm
+
+The first robot involved with the Sample Caching System is the 7-foot-long (2-meter-long) robotic arm with its drill and instrument-laden turret. Bolted to the front of the rover's chassis, the fivejointed arm can be manipulated so that the turret is placed in close proximity to interesting geologic features on the surface. The turret contains the coring tool: a rotary-percussive device designed to acquire rock core and regolith samples. A small tank of pressurized nitrogen can be used to blow dust and other particles off targets prior to analysis by two science instruments also located on the turret: the ultraviolet Raman spectrometer SHERLOC and the X-ray fluorescence spectrometer PIXL.
+
+If the Perseverance science team determines rock or regolith is worthy of sampling, it will command the arm to place either a coring or regolith bit, with a sample tube inside, into the coring tool and then place the drill bit against the target. When coring, the drill - using either rotary mode (where a hole is produced using a drill bit under constant pressure) or percussive mode (where the rotary motion is supplemented with swift hammerlike blows to propel the drill bit forward) - obtains a cylindrical sample about 0.5 inches (13 millimeters) in diameter and 2.4 inches (60 millimeters) long in a sample tube in the center of the bit. This chalk-size sample amounts to an average of 0.35-0.53 ounces (10-15 grams) of Martian material. A similar process is used with the regolith bit to collect regolith samples.
+
+# Adaptive Caching Assembly
+
+The adaptive caching assembly consists of the sample handling arm, sample tube assemblies, tube seals, and processing stations for a variety of activities. When the bit carousel transfers a filled sample tube to the adaptive caching assembly, the 1.6-foot-long (0.5-meter-long) sample handling arm then moves the tube to the processing stations. The stations measure the volume and take an image of the sample, install, and activate a tube seal, and place the tube in storage. Later, when the rover reaches a suitable location, the sample handling arm retrieves the sealed tubes and drops them to the surface of Mars for retrieval by a future mission. Perseverance may also be able to store them internally and transport them to a future return mission's lander.
+
+In addition to these functions, the Sample Caching System must also maintain unprecedented biological cleanliness to protect the sample from possible Earth-based contamination. The combination of these two factors makes it the most complex integrated robotic subsystem ever built for Mars.
+
+This video shows how the Sample Caching System works

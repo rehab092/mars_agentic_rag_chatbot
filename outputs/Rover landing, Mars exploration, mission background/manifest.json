@@ -1,0 +1,743 @@
+{
+  "source_pdf": "Rover landing, Mars exploration, mission background.pdf",
+  "document_id": "Rover landing, Mars exploration, mission background",
+  "extraction_engine": "docling",
+  "pages": [
+    {
+      "page_number": 1,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_001.txt",
+      "character_count": 0,
+      "images": [
+        {
+          "filename": "page_001_img_001.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_001_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "fe6eca090a1cdbc72c57de14d8d932d0a46d8c48b5a0033de892b7fd98418b9f"
+        },
+        {
+          "filename": "page_001_img_002.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_001_img_002.png",
+          "bbox": [
+            423.0,
+            25.92000961303711,
+            592.6799926757812,
+            76.32000732421875
+          ],
+          "sha256": "84368466caa9929819746c56865c4447cdd255db7182f2f284629f63b00eff5f"
+        },
+        {
+          "filename": "page_001_img_003.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_001_img_003.png",
+          "bbox": [
+            61.040000915527344,
+            376.6510009765625,
+            298.2118225097656,
+            455.0
+          ],
+          "sha256": "d74f39939ad09d0094c14be5c7b1fcfa7aefc01c2a8caed60e8f5f0b064565a8"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_002.txt",
+      "character_count": 41,
+      "images": [
+        {
+          "filename": "page_002_img_001.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_002_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            56.15997314453125
+          ],
+          "sha256": "cb507eebfd1342d56bd99af5eb1f2df8004fb660dab78572dac7f1367e820930"
+        },
+        {
+          "filename": "page_002_img_002.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_002_img_002.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "3c0e4446525da68f8d723fccdd8e4828c05c4f31194cf2ff878071d15d8108d7"
+        },
+        {
+          "filename": "page_002_img_003.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_002_img_003.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            56.0009765625
+          ],
+          "sha256": "9d79f2d44ef73ecc734c2f9fcd09bbb7f63796ec85d316aad582f41436e5c8c1"
+        },
+        {
+          "filename": "page_002_img_004.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_002_img_004.jpeg",
+          "bbox": [
+            0.0,
+            56.0009765625,
+            612.0,
+            735.6810302734375
+          ],
+          "sha256": "ef17e874614cb31e142b07b468314c72c2da70240ca696f65ae19738b3c53a93"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_003.txt",
+      "character_count": 189,
+      "images": [
+        {
+          "filename": "page_003_img_001.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_003_img_001.png",
+          "bbox": [
+            353.21197509765625,
+            54.530029296875,
+            612.0,
+            740.6140747070312
+          ],
+          "sha256": "578efa3fc88de3d443756e711904a8d1787cd8ee71cd0ce9ba2fd94807105d80"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_004.txt",
+      "character_count": 283,
+      "images": [
+        {
+          "filename": "page_004_img_001.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_004_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            790.5599975585938
+          ],
+          "sha256": "3e64dd2fb77caa243cb882b6931d5caf0834bd2ecd344617c033b785d5b1e8b1"
+        },
+        {
+          "filename": "page_004_img_002.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_004_img_002.jpeg",
+          "bbox": [
+            612.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "de5eeac118956e23e570f1224f155c839e2d7f1e3b0a4e6c3b790c204c4f75ae"
+        },
+        {
+          "filename": "page_004_img_003.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_004_img_003.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "c68b21bd9f04cf867609a72bbe96f85f48245735244c2264a46f375e14472cc0"
+        },
+        {
+          "filename": "page_004_img_004.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_004_img_004.jpeg",
+          "bbox": [
+            861.1939697265625,
+            83.531982421875,
+            612.0,
+            591.8519897460938
+          ],
+          "sha256": "8c605ea749116b05aacc426e4cdcf1396c3e8c2fae9f865b466ddaaa5cdaae94"
+        },
+        {
+          "filename": "page_004_img_005.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_004_img_005.jpeg",
+          "bbox": [
+            863.2417602539062,
+            85.57952880859375,
+            612.0,
+            583.5419921875
+          ],
+          "sha256": "ffde6f35e741cafdf2c7a751c93d577fcbb703eccb1c7eddb5d3bd4f78f7ea48"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_005.txt",
+      "character_count": 199,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_006.txt",
+      "character_count": 81,
+      "images": [
+        {
+          "filename": "page_006_img_001.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_006_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "74090d5e37aeefa7df4aa0fddedb88300e9ddda098fd28b6c57f0254b4fc441c"
+        },
+        {
+          "filename": "page_006_img_002.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_006_img_002.png",
+          "bbox": [
+            0.0,
+            345.65301513671875,
+            550.0,
+            466.24700927734375
+          ],
+          "sha256": "82921b1d10c833970a827fefa2cc267cbda07dfd7a967237773a5280925ffe7d"
+        },
+        {
+          "filename": "page_006_img_003.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_006_img_003.png",
+          "bbox": [
+            969.5999755859375,
+            280.22412109375,
+            612.0,
+            384.7829895019531
+          ],
+          "sha256": "0b5a67226b3dc458082b1f4976dfcd625937686a48fbc1e513c04b6185ba1702"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_007.txt",
+      "character_count": 1,
+      "images": [
+        {
+          "filename": "page_007_img_001.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_007_img_001.png",
+          "bbox": [
+            223.6400146484375,
+            260.0,
+            612.0,
+            472.9989929199219
+          ],
+          "sha256": "a1ce919c2d793ad9aec63bf19a18c2debdb8485bb5902933a40c55d74a9705b4"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_008.txt",
+      "character_count": 0,
+      "images": [
+        {
+          "filename": "page_008_img_001.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_008_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "d85ddad45fa6d17439c673ff34f9bb64ecba267c2334186746537c10e5623d40"
+        },
+        {
+          "filename": "page_008_img_002.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_008_img_002.jpeg",
+          "bbox": [
+            0.0,
+            54.343994140625,
+            612.0,
+            792.0
+          ],
+          "sha256": "215f106d71611e9227d6ad438b70b39e3be809ee28b3a5a705729a557f8bc281"
+        },
+        {
+          "filename": "page_008_img_003.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_008_img_003.png",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "07237f3156720d51aee499d23733a23c0f6f1460fa3bca46249e38b217abfd93"
+        },
+        {
+          "filename": "page_008_img_004.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_008_img_004.png",
+          "bbox": [
+            0.0,
+            273.468017578125,
+            612.0,
+            792.0
+          ],
+          "sha256": "aa55cd3be7e73d0c334b9df48f788f06d66b2defac70fc952b544c9146b00725"
+        },
+        {
+          "filename": "page_008_img_005.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_008_img_005.png",
+          "bbox": [
+            734.5590209960938,
+            109.4410400390625,
+            612.0,
+            556.0910034179688
+          ],
+          "sha256": "c199eeab1764ceb76298fe3fc05dd7289e5b3d023e570953ee23281283321348"
+        },
+        {
+          "filename": "page_008_img_006.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_008_img_006.jpeg",
+          "bbox": [
+            734.5590209960938,
+            109.4410400390625,
+            612.0,
+            556.0910034179688
+          ],
+          "sha256": "f21d350e4421993fff5329a6e0c5e7944b62960972fe5d81b5833d6c0683744b"
+        },
+        {
+          "filename": "page_008_img_007.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_008_img_007.jpeg",
+          "bbox": [
+            743.7490234375,
+            136.19097900390625,
+            612.0,
+            498.3509826660156
+          ],
+          "sha256": "5c34933076db2c6e49939a9953f19564e16a91c8cdd2ba136861b4367fe64b25"
+        },
+        {
+          "filename": "page_008_img_008.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_008_img_008.jpeg",
+          "bbox": [
+            753.1090087890625,
+            162.11102294921875,
+            612.0,
+            550.1910400390625
+          ],
+          "sha256": "683de1814faa7347ec9ac8d7b47f09a920e75bd66d142895763f15b9c5d51bd0"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_009.txt",
+      "character_count": 0,
+      "images": [
+        {
+          "filename": "page_009_img_001.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_009_img_001.png",
+          "bbox": [
+            0.0,
+            0.0,
+            520.8199462890625,
+            792.0
+          ],
+          "sha256": "3c021a58543a774ed3993896b9ea49d012a761724534146d98e5d804f532ef14"
+        },
+        {
+          "filename": "page_009_img_002.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_009_img_002.png",
+          "bbox": [
+            0.0,
+            273.468017578125,
+            612.0,
+            792.0
+          ],
+          "sha256": "40b9eed0242f7ac3ff26e4fa9eae63b2f6cb2d59f5b939aefadb39576d75b334"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_010.txt",
+      "character_count": 331,
+      "images": [
+        {
+          "filename": "page_010_img_001.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_010_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "f87e8540eee7c46d93521cd4387050f4044584f0914e3c3c2db7200021b0a808"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_011.txt",
+      "character_count": 52,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_012.txt",
+      "character_count": 350,
+      "images": [
+        {
+          "filename": "page_012_img_001.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_012_img_001.png",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "d02a22b7453ad39dd16c1684a0075b6550f1b51d05a15732a73d1f445e053137"
+        },
+        {
+          "filename": "page_012_img_002.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_012_img_002.png",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "0873ced832b9d36a7806e8a8682ada2d51f5f195d9ae5fa99740cee8b148a730"
+        },
+        {
+          "filename": "page_012_img_003.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_012_img_003.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "53187cc9284775e4404f2deb802db986aad5ea42b137fa0a76848701d1ca49ca"
+        },
+        {
+          "filename": "page_012_img_004.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_012_img_004.jpeg",
+          "bbox": [
+            290.15997314453125,
+            334.0,
+            505.0953674316406,
+            697.39208984375
+          ],
+          "sha256": "63f885924e3f0577da94e70c148467aee94238b10d4db4b0d3161ee2c77ccc21"
+        },
+        {
+          "filename": "page_012_img_005.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_012_img_005.jpeg",
+          "bbox": [
+            645.800048828125,
+            30.87103271484375,
+            612.0,
+            761.7750244140625
+          ],
+          "sha256": "83a11661f268b2f03c5a66dc7d6567db912a6d92fae1f80c8feae5b7a77b8f3d"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_013.txt",
+      "character_count": 0,
+      "images": [
+        {
+          "filename": "page_013_img_001.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_013_img_001.png",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "9aeeee3c925e6c02be35718f29209bd634e7d7ef9b787538607323821514e463"
+        },
+        {
+          "filename": "page_013_img_002.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_013_img_002.png",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "34021bceb50848fbea6ba958a20997af59ed35c767982063561c1e14da32110b"
+        },
+        {
+          "filename": "page_013_img_003.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_013_img_003.png",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "5c00a4e1f12db319343d3b43977fce6eaece26c104ca2e76a447080d895acbd9"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_014.txt",
+      "character_count": 30,
+      "images": [
+        {
+          "filename": "page_014_img_001.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_014_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "debd1c0396025ea4fb4be2bfc3b02946246005818c8f01795b95a466e2c7c8c0"
+        },
+        {
+          "filename": "page_014_img_002.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_014_img_002.png",
+          "bbox": [
+            0.0,
+            36.0,
+            612.0,
+            757.4400024414062
+          ],
+          "sha256": "369da6135cb0c7e13292613d3e3adb013bc5f74b096827b0e9b6a69944257ea2"
+        },
+        {
+          "filename": "page_014_img_003.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_014_img_003.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "378f27ec8508e5d06d70f186536433acf97abab6953b2dda413fd524d21ade5f"
+        },
+        {
+          "filename": "page_014_img_004.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_014_img_004.png",
+          "bbox": [
+            0.0,
+            35.0,
+            612.0,
+            758.4400024414062
+          ],
+          "sha256": "00cb4f9a70490fed27e566782cc55d107ec1deed89f1b020f20264a24a7035a1"
+        },
+        {
+          "filename": "page_014_img_005.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_014_img_005.jpeg",
+          "bbox": [
+            0.0,
+            36.0,
+            612.0,
+            757.4400024414062
+          ],
+          "sha256": "5ff06986ddbb588466ffeba80ce8f10b520f0355f77c84d696fd88bc832fef79"
+        },
+        {
+          "filename": "page_014_img_006.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_014_img_006.jpeg",
+          "bbox": [
+            626.4000244140625,
+            279.96600341796875,
+            612.0,
+            507.0
+          ],
+          "sha256": "d5f613e73720fa6fbbec9abe19ea5ac87edb2141e7891ae14ff3bf6f41d56aec"
+        },
+        {
+          "filename": "page_014_img_007.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_014_img_007.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            352.79998779296875,
+            792.0
+          ],
+          "sha256": "f4976836aec66393209107fe4ab37c679f1e743e58bd32f5967dfe2ba4f8bc89"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_015.txt",
+      "character_count": 263,
+      "images": [
+        {
+          "filename": "page_015_img_001.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_015_img_001.png",
+          "bbox": [
+            0.0,
+            35.0,
+            612.0,
+            758.4400024414062
+          ],
+          "sha256": "33be866cecb627ecabb84fc318d63f576d90a71a19e25ce2107f54afe8713472"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_016.txt",
+      "character_count": 832,
+      "images": [
+        {
+          "filename": "page_016_img_001.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_016_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "fb780e1b4997f8774cf46bf0372386ccc91baf6b6e14f98fbf679c7d575ade6e"
+        },
+        {
+          "filename": "page_016_img_002.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_016_img_002.png",
+          "bbox": [
+            0.0,
+            31.85498046875,
+            612.0,
+            792.0
+          ],
+          "sha256": "b941393e7674e345947bb3e6c28b616398a4b0aa04c1d0426506a184d410a4b3"
+        },
+        {
+          "filename": "page_016_img_003.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_016_img_003.png",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "30028102702a7fba9434aa093ad63a41524935f5e23b90f8372cfd9ac79a719b"
+        },
+        {
+          "filename": "page_016_img_004.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_016_img_004.png",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "569ca141cba26f56400be69df01fc58c6b16f9453900df9df7f9e813c357386d"
+        },
+        {
+          "filename": "page_016_img_005.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_016_img_005.jpeg",
+          "bbox": [
+            808.3319702148438,
+            127.03399658203125,
+            612.0,
+            615.5540161132812
+          ],
+          "sha256": "530b315e8da44420647fe80428fc4ea11ce3503ce0247e70a5a8bc0e5a2337a0"
+        },
+        {
+          "filename": "page_016_img_006.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_016_img_006.jpeg",
+          "bbox": [
+            820.2064819335938,
+            143.97119140625,
+            612.0,
+            579.884033203125
+          ],
+          "sha256": "69770b60164b5da514c56f03f47a4c84e366beeb02c6059103ef53dd129f75f6"
+        },
+        {
+          "filename": "page_016_img_007.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_016_img_007.jpeg",
+          "bbox": [
+            808.5469970703125,
+            127.14697265625,
+            612.0,
+            615.3070068359375
+          ],
+          "sha256": "b0f596d40eda83fbee2770860c50086610b4045b5466440d976101b17ba7fdd8"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_017.txt",
+      "character_count": 1483,
+      "images": [
+        {
+          "filename": "page_017_img_001.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_017_img_001.png",
+          "bbox": [
+            0.0,
+            31.85498046875,
+            612.0,
+            792.0
+          ],
+          "sha256": "97b90f1491f8ee48ffb8ddc0fd8687238614718d133f6b5e1ccdaa2ba7911645"
+        },
+        {
+          "filename": "page_017_img_002.png",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_017_img_002.png",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "9bfd5097fd13c4363e0a9bdcdde8130e24d4d72a978bf3d1212f69701dd2b397"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text_file": "outputs/Rover landing, Mars exploration, mission background/text/page_018.txt",
+      "character_count": 3,
+      "images": [
+        {
+          "filename": "page_018_img_001.jpeg",
+          "path": "outputs/Rover landing, Mars exploration, mission background/images/page_018_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "fa872f835b15d53d7ec58edef28ec45ce9bc7bde485f86f2e8ed8c6c08c65d9e"
+        }
+      ],
+      "tables": []
+    }
+  ]
+}

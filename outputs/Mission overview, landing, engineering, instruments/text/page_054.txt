@@ -1,0 +1,17 @@
+# NASA has also tasked the Mars 2020 team with a mission objective to prepare for future human exploration by conducting the following investigations:
+
+With the MOXIE experiment, demonstrate a technology that converts carbon dioxide in the Martian atmosphere into oxygen. In the future, oxygen generated this way could be used by astronauts for rocket propellant and for breathing. More on MOXIE below.
+
+With data from the MEDA instrument, study how atmospheric dust could affect future technology, including human life support systems.
+
+Study how Mars weather could affect human explorers. More on MEDA below.
+
+With MEDLI2, use sensors in the rover's heat shield and back shell to better understand entry into the Martian atmosphere. This can help spacecraft engineers design safe landings for future astronauts traveling to Mars. More information on MEDLI2 is here.
+
+# Payload Instruments
+
+Several instruments on Perseverance involve international partners | Image credit: NASA/JPL-Caltech
+
+Perseverance's science instruments are state-of-the-art tools for acquiring information about Martian geology, atmosphere, environmental conditions, and potential signs of life (biosignatures) from the past. The mission's science supports the field of astrobiology, which aims to understand the origin, evolution, and distribution of life in the universe.
+
+Perseverance has seven primary payload instruments.

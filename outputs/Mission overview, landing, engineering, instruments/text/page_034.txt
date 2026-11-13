@@ -1,0 +1,7 @@
+The six color, off-the-shelf cameras that capture Perseverance's EDL are for public engagement and for engineers to reconstruct what happened during the landing.
+
+Of those six, three are on the bell-shaped back shell, looking up to capture the parachute opening. One on the descent stage looks down at the rover and surface below. One on the rover looks up at descent stage operations, and the other on the rover looks down at the Martian surface.
+
+Image credit: NASA/JPL-Caltech
+
+One black-and-white camera dedicated to Terrain-Relative Navigation as part of the Lander Vision System plays a key role in the landing itself. (Find more details about its role in the Entry, Descent, and Landing section of this press kit.)

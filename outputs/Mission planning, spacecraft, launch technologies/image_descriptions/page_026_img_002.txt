@@ -1,0 +1,11 @@
+The image displays a schematic diagram illustrating the entry, descent, and landing sequence of a spacecraft on a planetary surface. The background depicts a starry sky above a reddish-orange landscape resembling a desert terrain. A trajectory line traces the path of the spacecraft from the upper left to the lower right, showing a series of distinct phases and configurations.
+
+The spacecraft begins as a satellite-like object in the upper left. As it descends, it undergoes several separations. The first event is labeled "Cruise Stage Separation" occurring at a time of E - 10 minutes. This is followed by "Cruise Balance Mass Device Separation." The spacecraft then enters the atmosphere, indicated by the label "Entry Interface" at time E + 0 minutes.
+
+As the vehicle descends, it experiences "Peak Heating" at E + 80 seconds and "Peak Deceleration" at E + 90 seconds. During this phase, the spacecraft is shown with a heat shield attached. A label indicates "Hypersonic Aero-maneuvering." At approximately E + 240 seconds, the "Parachute Deploy" event occurs, with an altitude of roughly 6 to 8 miles and a velocity of approximately 940 mph.
+
+Further down the trajectory, the heat shield separates at E + 260 seconds at an altitude of 4 to 7 miles with a velocity of about 360 mph. The back shell then separates and a safe target is selected at E + 350 seconds, with an altitude of 1.3 miles and a velocity between 180 and 250 mph.
+
+The diagram shows the deployment of a "Radar Ground Solution and Lander Vision System Solution" at E + 355 seconds, with an altitude of approximately 2.6 miles above ground level. The spacecraft transitions to a "Powered Descent" phase. At this stage, a "Sky Crane" configuration is visible, consisting of a hovering vehicle with a tethered lander.
+
+The final stages include "Rover Separation" at an altitude of 69.9 feet with a velocity of 1.7 mph. This is followed by "Mobility Deploy" at an altitude of 69.9 to 47.6 feet with a velocity of 1.7 mph. The sequence concludes with "Touchdown" at E + 410 seconds with a vertical velocity of 1.7 mph, where a rover is shown on the surface. A "Fly Away" maneuver is also depicted for the Sky Crane vehicle after the rover lands.

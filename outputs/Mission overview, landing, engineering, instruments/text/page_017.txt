@@ -1,0 +1,11 @@
+Why did Perseverance launch in the summer of 2020? As Earth and Mars race around the Sun, with Earth on the inside track, Earth laps Mars about once every 26 months. Launch opportunities to Mars occur at the same frequency, when the planets are positioned so that a spacecraft launched from Earth will be on a relatively short track to Mars (taking on the order of months rather than years to arrive at Mars). This planetary clockwork, plus the launch vehicle's lift capability, the spacecraft's mass, and the desired geometry and timing for the landing on Mars were all factors in determining the range of possible launch dates.
+
+One priority for choosing this launch period and arrival date was to make sure Perseverance could land when NASA orbiters at Mars will be passing over the landing site. Such scheduling allows the orbiters to receive radio transmissions from the spacecraft carrying Perseverance during its descent through the atmosphere and landing. Landing on Mars is always difficult, and NASA prioritizes communications during this critical event.
+
+# Interplanetary Cruise
+
+Image credit: NASA/JPL-Caltech
+
+Perseverance requires 203 days to travel about 293 million miles (471 million kilometers) from Earth to Mars. This is the cruise phase of the mission. The final 45 days of the cruise phase make up the approach subphase.
+
+During cruise, the Perseverance rover and its descent stage are protected inside a capsule known as an aeroshell, which is attached to the ring-shaped, solar-powered cruise stage. For more information about the cruise stage, aeroshell, and descent stage, visit the Spacecraft section of this press kit.

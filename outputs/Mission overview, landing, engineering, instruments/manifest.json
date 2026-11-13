@@ -1,0 +1,1658 @@
+{
+  "source_pdf": "Mission overview, landing, engineering, instruments.pdf",
+  "document_id": "Mission overview, landing, engineering, instruments",
+  "extraction_engine": "docling",
+  "pages": [
+    {
+      "page_number": 1,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_001.txt",
+      "character_count": 0,
+      "images": [
+        {
+          "filename": "page_001_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_001_img_001.jpx",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            792.0
+          ],
+          "sha256": "760130d93689f6d2dcbf913e63ca00600d8faaba84193fb4e8758793e1aa8981"
+        },
+        {
+          "filename": "page_001_img_002.png",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_001_img_002.png",
+          "bbox": [
+            403.7539978027344,
+            35.1669921875,
+            573.4334716796875,
+            85.56646728515625
+          ],
+          "sha256": "f6f3acd3091962e00f905d247a1d75b19ac1d60c65ee817f441d604233626d2f"
+        },
+        {
+          "filename": "page_001_img_003.png",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_001_img_003.png",
+          "bbox": [
+            61.040000915527344,
+            325.44000244140625,
+            298.2118225097656,
+            403.7885437011719
+          ],
+          "sha256": "d74f39939ad09d0094c14be5c7b1fcfa7aefc01c2a8caed60e8f5f0b064565a8"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_002.txt",
+      "character_count": 19,
+      "images": [],
+      "tables": [
+        {
+          "filename": "page_002_table_001.txt",
+          "path": "outputs/Mission overview, landing, engineering, instruments/tables/page_002_table_001.txt",
+          "rows": 12,
+          "bbox": [
+            75.23989868164062,
+            172.41802978515625,
+            523.2344360351562,
+            613.1819458007812
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_003.txt",
+      "character_count": 1688,
+      "images": [
+        {
+          "filename": "page_003_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_003_img_001.jpx",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            216.0
+          ],
+          "sha256": "a6d485cb7010424e79080800fe281ccc8fd7481dde96762275915690e34ae6c0"
+        },
+        {
+          "filename": "page_003_img_002.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_003_img_002.jpx",
+          "bbox": [
+            55.44001770019531,
+            567.521240234375,
+            265.63568115234375,
+            686.0250244140625
+          ],
+          "sha256": "fd77a01a04f1fa910372eecee5fa84c4efcc89655e0cb0821cefd0bd2ce09026"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_004.txt",
+      "character_count": 2595,
+      "images": [
+        {
+          "filename": "page_004_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_004_img_001.jpx",
+          "bbox": [
+            55.44001770019531,
+            272.28802490234375,
+            265.63568115234375,
+            390.7920227050781
+          ],
+          "sha256": "7014a3979fa622556a3fe676a38a50632363c70ad64631aa9e970fc26aecf2bb"
+        },
+        {
+          "filename": "page_004_img_002.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_004_img_002.jpx",
+          "bbox": [
+            55.44001770019531,
+            566.7275390625,
+            265.63568115234375,
+            685.2319946289062
+          ],
+          "sha256": "3635607999bea008230b226c1e337f47ec79be4517724f05d0dbecb28d88d1a6"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_005.txt",
+      "character_count": 2543,
+      "images": [
+        {
+          "filename": "page_005_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_005_img_001.jpx",
+          "bbox": [
+            55.44001770019531,
+            100.2080078125,
+            265.63568115234375,
+            218.7130126953125
+          ],
+          "sha256": "b8dac6231f477ccc2a75098d6444806318e08642dc04bac6316e5b403cc8a6c7"
+        },
+        {
+          "filename": "page_005_img_002.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_005_img_002.jpx",
+          "bbox": [
+            55.44001770019531,
+            343.31005859375,
+            265.63568115234375,
+            461.8139953613281
+          ],
+          "sha256": "7328b162b97c815b5749b636c28a7801fe8f557a359f0efd59bee425dd3cca33"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_006.txt",
+      "character_count": 2495,
+      "images": [
+        {
+          "filename": "page_006_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_006_img_001.jpx",
+          "bbox": [
+            55.44001770019531,
+            428.7751159667969,
+            265.63568115234375,
+            547.2789916992188
+          ],
+          "sha256": "900e46609b38341bb90e2b57ba3d1e71df94417fef52d9958961c9d00dcf954f"
+        },
+        {
+          "filename": "page_006_img_002.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_006_img_002.jpx",
+          "bbox": [
+            55.44001770019531,
+            54.0,
+            265.63568115234375,
+            172.5040283203125
+          ],
+          "sha256": "57498faa8ea257ea055d0beee461b17b77b481b72db445b2ea5ba5d929e6ba98"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_007.txt",
+      "character_count": 1202,
+      "images": [
+        {
+          "filename": "page_007_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_007_img_001.jpx",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            216.0
+          ],
+          "sha256": "5e171f4212bef44abf729733361b2da594460831d6067c3ac18b81e2be99e4ed"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_008.txt",
+      "character_count": 977,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_009.txt",
+      "character_count": 2277,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_010.txt",
+      "character_count": 2231,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_011.txt",
+      "character_count": 832,
+      "images": [
+        {
+          "filename": "page_011_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_011_img_001.jpx",
+          "bbox": [
+            105.09561157226562,
+            111.59996032714844,
+            506.90435791015625,
+            293.33306884765625
+          ],
+          "sha256": "6c7864714d9e25e428b28001aaa944dbe1d14c199cfd3b823db5b7f195e40ddf"
+        },
+        {
+          "filename": "page_011_img_002.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_011_img_002.jpx",
+          "bbox": [
+            105.09600067138672,
+            334.3269958496094,
+            506.90435791015625,
+            516.0599975585938
+          ],
+          "sha256": "ea74c013052214c3429e6852c1cbc1e5fde1d7830a2860d03ebc15f591839926"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_012.txt",
+      "character_count": 551,
+      "images": [
+        {
+          "filename": "page_012_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_012_img_001.jpx",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            216.0
+          ],
+          "sha256": "b438b2e521649a41fbf8c6e2a44da4122ab7bc211be0b7aac32f987b44d60a9a"
+        },
+        {
+          "filename": "page_012_img_002.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_012_img_002.jpx",
+          "bbox": [
+            56.4483642578125,
+            538.2000122070312,
+            243.30899047851562,
+            736.8489990234375
+          ],
+          "sha256": "ceabf97962ed0c151f7c12faa32ad2f509d67e0b3ca241bc0589ea8523664d3d"
+        },
+        {
+          "filename": "page_012_img_003.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_012_img_003.jpx",
+          "bbox": [
+            98.74333190917969,
+            287.53326416015625,
+            298.7959899902344,
+            385.598388671875
+          ],
+          "sha256": "bcdd04f7dfba69ef5145338f1f4f48dcd48d557eb1cf2e5d69c57ed6a5409b21"
+        },
+        {
+          "filename": "page_012_img_004.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_012_img_004.jpx",
+          "bbox": [
+            313.2040100097656,
+            287.53326416015625,
+            513.2567138671875,
+            385.598388671875
+          ],
+          "sha256": "a4a52361995e78190ad2bd31849b6368eac569cef5b63b6468216a242a6bc9de"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_013.txt",
+      "character_count": 1925,
+      "images": [
+        {
+          "filename": "page_013_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_013_img_001.jpx",
+          "bbox": [
+            306.0,
+            82.00299072265625,
+            556.0599975585938,
+            248.87945556640625
+          ],
+          "sha256": "6c892c1a54177607a957dd29d992a9ec347b482e1adbd4d29fc9224717dfa058"
+        },
+        {
+          "filename": "page_013_img_002.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_013_img_002.jpx",
+          "bbox": [
+            303.29656982421875,
+            576.6480102539062,
+            556.0589599609375,
+            722.9210205078125
+          ],
+          "sha256": "f2fb44c7a79bd41148f1bbe211264f5820f921d1097d23f740b5894fc4b9a5ee"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_014.txt",
+      "character_count": 1443,
+      "images": [
+        {
+          "filename": "page_014_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_014_img_001.jpx",
+          "bbox": [
+            55.44000244140625,
+            468.8590087890625,
+            306.04498291015625,
+            609.863037109375
+          ],
+          "sha256": "3c39ad2f22512b4a72420c17f5ca6dabc3d51c39bc4d5514cba51153a2775f99"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_015.txt",
+      "character_count": 1278,
+      "images": [
+        {
+          "filename": "page_015_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_015_img_001.jpx",
+          "bbox": [
+            55.439998626708984,
+            96.89202880859375,
+            311.0409851074219,
+            352.800048828125
+          ],
+          "sha256": "0706e1bb08a81ba1f3dbbbb2f5c5ab9ed1c772e6de6b16d4a3b1cbdf21fd07f4"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_016.txt",
+      "character_count": 1424,
+      "images": [
+        {
+          "filename": "page_016_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_016_img_001.jpx",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            216.0
+          ],
+          "sha256": "d24a94fe68687dceb5b0cf2e6da4196d3c6dcdf5850a7d397f1709c947e97fca"
+        },
+        {
+          "filename": "page_016_img_002.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_016_img_002.jpx",
+          "bbox": [
+            55.47999954223633,
+            597.7009887695312,
+            380.8800048828125,
+            739.197021484375
+          ],
+          "sha256": "4dbdd24b9b2a59a2d32837484a7fda7c550462ad47668a8e50f130816527c098"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_017.txt",
+      "character_count": 1646,
+      "images": [
+        {
+          "filename": "page_017_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_017_img_001.jpx",
+          "bbox": [
+            55.47999954223633,
+            298.5169982910156,
+            509.3900146484375,
+            532.052001953125
+          ],
+          "sha256": "9826111fc37278a76015b0fd761a8448bebb9d0708b0281ef19184df8fbd994d"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_018.txt",
+      "character_count": 1904,
+      "images": [
+        {
+          "filename": "page_018_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_018_img_001.jpx",
+          "bbox": [
+            54.861000061035156,
+            274.84600830078125,
+            509.3899841308594,
+            508.697998046875
+          ],
+          "sha256": "ecf31bb5a2d85e22ed57cb20bd0f72f889893eda28635715cb9799964e1f0d09"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_019.txt",
+      "character_count": 62,
+      "images": [
+        {
+          "filename": "page_019_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_019_img_001.jpx",
+          "bbox": [
+            55.439998626708984,
+            62.96044921875,
+            556.06298828125,
+            360.947021484375
+          ],
+          "sha256": "61dd5e19d523352180da114456a0abaa16d5d889d26fc8a9509fd829ec22fc07"
+        },
+        {
+          "filename": "page_019_img_002.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_019_img_002.jpx",
+          "bbox": [
+            55.439998626708984,
+            412.0581359863281,
+            556.06298828125,
+            710.0450439453125
+          ],
+          "sha256": "2fe6e0d2172a658f0237e47e5174471bfad9680c6dff3a1ff349af3148375613"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_020.txt",
+      "character_count": 1557,
+      "images": [],
+      "tables": [
+        {
+          "filename": "page_020_table_001.txt",
+          "path": "outputs/Mission overview, landing, engineering, instruments/tables/page_020_table_001.txt",
+          "rows": 7,
+          "bbox": [
+            55.689998626708984,
+            209.59002685546875,
+            559.6587524414062,
+            425.270254952567
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_021.txt",
+      "character_count": 1185,
+      "images": [
+        {
+          "filename": "page_021_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_021_img_001.jpx",
+          "bbox": [
+            198.0,
+            203.03997802734375,
+            419.03997802734375,
+            400.09423828125
+          ],
+          "sha256": "da00db5859fa593e333df57fda3af11dc2b62d039a2804ec59cd86a1afdf8fe0"
+        },
+        {
+          "filename": "page_021_img_002.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_021_img_002.jpx",
+          "bbox": [
+            174.9600067138672,
+            540.719970703125,
+            456.0878601074219,
+            699.9760131835938
+          ],
+          "sha256": "e791edf17abf2e1f8cf301c5fe929a43b8708087d0e36d0ac3cfe2f0bbb07eab"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 22,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_022.txt",
+      "character_count": 2530,
+      "images": [
+        {
+          "filename": "page_022_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_022_img_001.jpx",
+          "bbox": [
+            174.9600067138672,
+            465.1199951171875,
+            453.177001953125,
+            622.0800170898438
+          ],
+          "sha256": "e4627038dad1a3eb77b0d44ff4b03c17bd8771aa1dce3028c672ae4519abea52"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 23,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_023.txt",
+      "character_count": 2958,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 24,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_024.txt",
+      "character_count": 1452,
+      "images": [
+        {
+          "filename": "page_024_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_024_img_001.jpx",
+          "bbox": [
+            55.47999954223633,
+            91.197998046875,
+            380.8800048828125,
+            258.614013671875
+          ],
+          "sha256": "b1e2a44b6279b64c38660f5c58c4093e126503c09c30b41fbc88bfdc42af5f91"
+        },
+        {
+          "filename": "page_024_img_002.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_024_img_002.jpx",
+          "bbox": [
+            55.47999954223633,
+            507.156005859375,
+            296.8819885253906,
+            667.35498046875
+          ],
+          "sha256": "cd9fb4d2b607940de40ff151b9778839aa9d8ae7e286c1ed76bd1845afba51f1"
+        },
+        {
+          "filename": "page_024_img_003.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_024_img_003.jpx",
+          "bbox": [
+            319.6910095214844,
+            507.156005859375,
+            561.0939331054688,
+            667.3560180664062
+          ],
+          "sha256": "91c2d38acc386f1e6e7ef137e09541506d163760c6abb3ba6a6981ff2d42adf6"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 25,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_025.txt",
+      "character_count": 2783,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 26,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_026.txt",
+      "character_count": 1690,
+      "images": [
+        {
+          "filename": "page_026_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_026_img_001.jpx",
+          "bbox": [
+            113.50900268554688,
+            316.5199890136719,
+            497.989990234375,
+            513.640380859375
+          ],
+          "sha256": "e17da68cc813a02c0f5b36f74c005a84f49af5fce4d54cb6d417d2564bfdeef2"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 27,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_027.txt",
+      "character_count": 2357,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 28,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_028.txt",
+      "character_count": 585,
+      "images": [
+        {
+          "filename": "page_028_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_028_img_001.jpx",
+          "bbox": [
+            55.43899917602539,
+            359.9989929199219,
+            519.6630249023438,
+            598.8389892578125
+          ],
+          "sha256": "1215afaaa31fcdaaae7d18beca99f9bc23b5eb5999bd0c2844deeb51ea3f1d20"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 29,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_029.txt",
+      "character_count": 1510,
+      "images": [
+        {
+          "filename": "page_029_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_029_img_001.jpx",
+          "bbox": [
+            106.6500015258789,
+            292.32000732421875,
+            491.4230041503906,
+            508.32000732421875
+          ],
+          "sha256": "91667b84cbfa1817a6b29b7033afc1847d55aef2138e0cd7689b8cf32ad839ed"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 30,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_030.txt",
+      "character_count": 2007,
+      "images": [
+        {
+          "filename": "page_030_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_030_img_001.jpx",
+          "bbox": [
+            106.6500015258789,
+            72.0,
+            505.3500061035156,
+            299.5789794921875
+          ],
+          "sha256": "7e498229b658b51cdb82af1075e7333509df71000f57acfe73ed249a9d455543"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 31,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_031.txt",
+      "character_count": 2980,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 32,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_032.txt",
+      "character_count": 667,
+      "images": [
+        {
+          "filename": "page_032_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_032_img_001.jpx",
+          "bbox": [
+            55.19001770019531,
+            89.27899169921875,
+            439.6700134277344,
+            312.52899169921875
+          ],
+          "sha256": "8dd33b4e04e0216e97f1fdaa029923ff48e801f24eea8046a9b150af4b77b752"
+        }
+      ],
+      "tables": [
+        {
+          "filename": "page_032_table_001.txt",
+          "path": "outputs/Mission overview, landing, engineering, instruments/tables/page_032_table_001.txt",
+          "rows": 4,
+          "bbox": [
+            55.414998626708986,
+            501.1199951171875,
+            558.9650024414062,
+            739.5641072591146
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 33,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_033.txt",
+      "character_count": 0,
+      "images": [],
+      "tables": [
+        {
+          "filename": "page_033_table_001.txt",
+          "path": "outputs/Mission overview, landing, engineering, instruments/tables/page_033_table_001.txt",
+          "rows": 6,
+          "bbox": [
+            55.3617843900408,
+            57.0,
+            559.2808990478516,
+            341.1124572753906
+          ]
+        },
+        {
+          "filename": "page_033_table_002.txt",
+          "path": "outputs/Mission overview, landing, engineering, instruments/tables/page_033_table_002.txt",
+          "rows": 6,
+          "bbox": [
+            55.3617843900408,
+            373.0400085449219,
+            559.2808990478516,
+            735.5924021402994
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 34,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_034.txt",
+      "character_count": 721,
+      "images": [
+        {
+          "filename": "page_034_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_034_img_001.jpx",
+          "bbox": [
+            68.16000366210938,
+            161.280029296875,
+            544.1551513671875,
+            507.64801025390625
+          ],
+          "sha256": "89080cdb1a62b1d77f7e7291dbf9e0839661b00db9ba8ccb1031b4923a268639"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 35,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_035.txt",
+      "character_count": 1264,
+      "images": [
+        {
+          "filename": "page_035_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_035_img_001.jpx",
+          "bbox": [
+            113.50999450683594,
+            54.0,
+            497.989013671875,
+            268.62457275390625
+          ],
+          "sha256": "39f7af2e40e7b705d0021bacefe5d330b436c2612e8d0ba79a738ddb5455a415"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 36,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_036.txt",
+      "character_count": 1072,
+      "images": [
+        {
+          "filename": "page_036_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_036_img_001.jpx",
+          "bbox": [
+            114.68000793457031,
+            163.5579833984375,
+            499.1600036621094,
+            447.95697021484375
+          ],
+          "sha256": "5cfc661890176b8fbcdf80b64da6ef37b17ba59576f0c87d31442819fdbca8f4"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 37,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_037.txt",
+      "character_count": 1137,
+      "images": [
+        {
+          "filename": "page_037_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_037_img_001.jpx",
+          "bbox": [
+            55.44000244140625,
+            314.03448486328125,
+            398.39599609375,
+            530.6400146484375
+          ],
+          "sha256": "7f0affd2d4cf893ea561137cba1569d5c81edd9d9967b4afad8d2eebe22d2089"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 38,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_038.txt",
+      "character_count": 2194,
+      "images": [
+        {
+          "filename": "page_038_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_038_img_001.jpx",
+          "bbox": [
+            55.439998626708984,
+            83.52001953125,
+            398.39599609375,
+            298.928955078125
+          ],
+          "sha256": "4848660bd3802e74d371e112ade4537c5f1cce931863cbde3779ca19a39c977f"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 39,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_039.txt",
+      "character_count": 967,
+      "images": [
+        {
+          "filename": "page_039_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_039_img_001.jpx",
+          "bbox": [
+            55.44000244140625,
+            232.56008911132812,
+            307.7070007324219,
+            613.4400024414062
+          ],
+          "sha256": "d49cb056feb6e4356ec70c2084aadae307596b12056629b560d390103a5761f6"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 40,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_040.txt",
+      "character_count": 894,
+      "images": [
+        {
+          "filename": "page_040_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_040_img_001.jpx",
+          "bbox": [
+            55.44000244140625,
+            289.8940124511719,
+            398.39599609375,
+            506.5
+          ],
+          "sha256": "793712641b9f8baafe21cab28c3014352db5208166c115f13c93c62c95823c95"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 41,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_041.txt",
+      "character_count": 2088,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 42,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_042.txt",
+      "character_count": 535,
+      "images": [
+        {
+          "filename": "page_042_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_042_img_001.jpx",
+          "bbox": [
+            55.44001770019531,
+            311.2409973144531,
+            467.76300048828125,
+            615.218994140625
+          ],
+          "sha256": "28dfe00e66d9476947667eb60ab78fd579a945e8a2d9f711d1ff28825b643a4c"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 43,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_043.txt",
+      "character_count": 2750,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 44,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_044.txt",
+      "character_count": 1195,
+      "images": [
+        {
+          "filename": "page_044_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_044_img_001.jpx",
+          "bbox": [
+            55.439998626708984,
+            219.333984375,
+            398.39599609375,
+            435.94000244140625
+          ],
+          "sha256": "d82c6f7f97728a2864eb399eed6e6ed9a7b72b9bdd9b0d7711e778a2039904e6"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 45,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_045.txt",
+      "character_count": 1308,
+      "images": [
+        {
+          "filename": "page_045_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_045_img_001.jpx",
+          "bbox": [
+            55.44000244140625,
+            430.55999755859375,
+            306.71600341796875,
+            595.2540283203125
+          ],
+          "sha256": "1182cb1b12fc340ea1e567a9172139e7e08e727266b64dd7f3becfe0675ca33c"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 46,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_046.txt",
+      "character_count": 2985,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 47,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_047.txt",
+      "character_count": 1977,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 48,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_048.txt",
+      "character_count": 1294,
+      "images": [
+        {
+          "filename": "page_048_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_048_img_001.jpx",
+          "bbox": [
+            55.44001770019531,
+            477.0,
+            306.27899169921875,
+            641.406982421875
+          ],
+          "sha256": "9dd214be54d7fa1af0559035a72793badd8f4464e8c54958d7838fce8276de35"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 49,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_049.txt",
+      "character_count": 1029,
+      "images": [
+        {
+          "filename": "page_049_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_049_img_001.jpx",
+          "bbox": [
+            55.43998718261719,
+            83.52099609375,
+            484.9580078125,
+            365.0400085449219
+          ],
+          "sha256": "53e947cff444897532924f86c8e146fc0339fa8453b06458e9c12962cdbd230e"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 50,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_050.txt",
+      "character_count": 998,
+      "images": [
+        {
+          "filename": "page_050_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_050_img_001.jpx",
+          "bbox": [
+            119.54022216796875,
+            98.09698486328125,
+            494.7330017089844,
+            305.9599914550781
+          ],
+          "sha256": "4681a35abaa54d134c276f46d8347247c23d26a612cf420489753815763205f9"
+        },
+        {
+          "filename": "page_050_img_002.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_050_img_002.jpx",
+          "bbox": [
+            119.54022216796875,
+            497.3370056152344,
+            494.7330017089844,
+            705.2000122070312
+          ],
+          "sha256": "2d9ea0018249f5d1ca0e82b62b518c0cdb488766c5567db1b39ae6a29d3039ab"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 51,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_051.txt",
+      "character_count": 780,
+      "images": [
+        {
+          "filename": "page_051_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_051_img_001.jpx",
+          "bbox": [
+            55.439998626708984,
+            136.79998779296875,
+            305.2550048828125,
+            460.79998779296875
+          ],
+          "sha256": "c95d240db3d7deb5c092b17ff42cfe7e757973daad9937143f679547e75249e2"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 52,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_052.txt",
+      "character_count": 1254,
+      "images": [
+        {
+          "filename": "page_052_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_052_img_001.jpx",
+          "bbox": [
+            55.439998626708984,
+            291.3190002441406,
+            484.9590148925781,
+            530.9990234375
+          ],
+          "sha256": "e0cd4576e84b1fe53c2df7caed45bf3deac0458c0c9a897683b58808e2e502d9"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 53,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_053.txt",
+      "character_count": 1306,
+      "images": [
+        {
+          "filename": "page_053_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_053_img_001.jpx",
+          "bbox": [
+            111.60000610351562,
+            300.8399963378906,
+            185.864990234375,
+            362.55999755859375
+          ],
+          "sha256": "40db2defdcf0a05d987816e200a3d984e879eec8d1e195808d4a4e10ef8963f8"
+        },
+        {
+          "filename": "page_053_img_002.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_053_img_002.jpx",
+          "bbox": [
+            111.60000610351562,
+            375.09600830078125,
+            185.864990234375,
+            436.8160095214844
+          ],
+          "sha256": "6c6eb2cb4889f8f782636dc04b2f1b642d297702428579d74590647dcf278652"
+        },
+        {
+          "filename": "page_053_img_003.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_053_img_003.jpx",
+          "bbox": [
+            111.60000610351562,
+            449.3529968261719,
+            185.864990234375,
+            511.0740051269531
+          ],
+          "sha256": "ed9cc4e6b203e2fff025ee75b22870ac1946dcf16134f3d5e064964cf9788a1c"
+        },
+        {
+          "filename": "page_053_img_004.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_053_img_004.jpx",
+          "bbox": [
+            111.60000610351562,
+            523.6090087890625,
+            185.864990234375,
+            585.3300170898438
+          ],
+          "sha256": "541705a9d8261fce062ea582d5613b87d6bc834cd1301241b8bfa6708589fc6a"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 54,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_054.txt",
+      "character_count": 1401,
+      "images": [
+        {
+          "filename": "page_054_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_054_img_001.jpx",
+          "bbox": [
+            55.44000244140625,
+            351.00799560546875,
+            552.6937866210938,
+            619.1060180664062
+          ],
+          "sha256": "4d57e392c9c3a38548042a5f0a70c3c177bac2b5f879461443c350fb8de5e5f5"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 55,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_055.txt",
+      "character_count": 870,
+      "images": [
+        {
+          "filename": "page_055_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_055_img_001.jpx",
+          "bbox": [
+            55.439998626708984,
+            83.822998046875,
+            412.2040100097656,
+            276.176025390625
+          ],
+          "sha256": "2588546e0dc7027620f5509b3117f6109def10385b84a60786ea3506de39dff0"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 56,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_056.txt",
+      "character_count": 1156,
+      "images": [
+        {
+          "filename": "page_056_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_056_img_001.jpx",
+          "bbox": [
+            55.439998626708984,
+            83.822998046875,
+            412.2040100097656,
+            276.176025390625
+          ],
+          "sha256": "ad6afa179ef39e3e700badaf25a0ef69d81001e3d460758429de506e304f0111"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 57,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_057.txt",
+      "character_count": 1229,
+      "images": [
+        {
+          "filename": "page_057_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_057_img_001.jpx",
+          "bbox": [
+            55.439998626708984,
+            83.822998046875,
+            412.2040100097656,
+            276.176025390625
+          ],
+          "sha256": "674f43e44d40d3783488bfe1700a966dad79ec12d810ca53abf3d770179d95bd"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 58,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_058.txt",
+      "character_count": 1001,
+      "images": [
+        {
+          "filename": "page_058_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_058_img_001.jpx",
+          "bbox": [
+            55.439998626708984,
+            83.822998046875,
+            412.2040100097656,
+            276.176025390625
+          ],
+          "sha256": "d7b7de8d4884803654ed15978eb844025dee7b61e48de4b7645521084186020d"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 59,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_059.txt",
+      "character_count": 1044,
+      "images": [
+        {
+          "filename": "page_059_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_059_img_001.jpx",
+          "bbox": [
+            55.439998626708984,
+            83.822998046875,
+            412.2040100097656,
+            276.176025390625
+          ],
+          "sha256": "480d9d6807b275993d59c7580175a3ea718d881080f0559a29819079e5c82d03"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 60,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_060.txt",
+      "character_count": 1072,
+      "images": [
+        {
+          "filename": "page_060_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_060_img_001.jpx",
+          "bbox": [
+            55.439998626708984,
+            106.782958984375,
+            412.2040100097656,
+            299.135986328125
+          ],
+          "sha256": "479f5cb7f6cf81ae2b0b95608a0a76faccd7a23d398910c1ef886808dfe6855f"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 61,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_061.txt",
+      "character_count": 1640,
+      "images": [
+        {
+          "filename": "page_061_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_061_img_001.jpx",
+          "bbox": [
+            55.439998626708984,
+            83.822998046875,
+            412.2040100097656,
+            276.176025390625
+          ],
+          "sha256": "c9aa064ee1c649ac56b1babf5d881a3e1570f5f024b431e7833c59aba4676553"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 62,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_062.txt",
+      "character_count": 165,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 63,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_063.txt",
+      "character_count": 1071,
+      "images": [
+        {
+          "filename": "page_063_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_063_img_001.jpx",
+          "bbox": [
+            55.439998626708984,
+            291.32000732421875,
+            556.0599365234375,
+            541.3878784179688
+          ],
+          "sha256": "e40c51ccac2cb067befca383aa7b0220f5f5fd49e61e7d50d4bf4090e3edf301"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 64,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_064.txt",
+      "character_count": 587,
+      "images": [
+        {
+          "filename": "page_064_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_064_img_001.jpx",
+          "bbox": [
+            127.36799621582031,
+            54.0,
+            484.13226318359375,
+            221.760009765625
+          ],
+          "sha256": "5bf661c62345aeed8809d0881d423ac5e667953f8a9bc087439ace4d8a15e90d"
+        },
+        {
+          "filename": "page_064_img_002.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_064_img_002.jpx",
+          "bbox": [
+            127.36772155761719,
+            362.5041198730469,
+            484.13226318359375,
+            609.441162109375
+          ],
+          "sha256": "aea02d9d53a7e8d764636e27e57e71bc28b73a8f72c577182be2102146b83431"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 65,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_065.txt",
+      "character_count": 1078,
+      "images": [
+        {
+          "filename": "page_065_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_065_img_001.jpx",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            216.0
+          ],
+          "sha256": "709dc485a299bbad39d3b13711df51824ed08b20e3e317033d4c90e9cc8a4389"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 66,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_066.txt",
+      "character_count": 357,
+      "images": [
+        {
+          "filename": "page_066_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_066_img_001.jpx",
+          "bbox": [
+            220.33291625976562,
+            280.6800537109375,
+            391.66705322265625,
+            377.114013671875
+          ],
+          "sha256": "81c65c865c43c773a86ee2d0e6deaef6de5a4370e314ff25123ae0fe7e204ea2"
+        },
+        {
+          "filename": "page_066_img_002.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_066_img_002.jpx",
+          "bbox": [
+            220.33291625976562,
+            479.69073486328125,
+            391.66705322265625,
+            576.1246948242188
+          ],
+          "sha256": "069f903038fcbe75d7d68d9d2f5f8ce4ccfccfd92ccda96b22ba5fa00d6b8964"
+        },
+        {
+          "filename": "page_066_img_003.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_066_img_003.jpx",
+          "bbox": [
+            404.6658630371094,
+            280.6800537109375,
+            576.0,
+            377.114013671875
+          ],
+          "sha256": "2b42d48809cc8db357338ba70fe0ad4a4edc7475934e9b79675474faba84c081"
+        },
+        {
+          "filename": "page_066_img_004.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_066_img_004.jpx",
+          "bbox": [
+            35.99999237060547,
+            280.6800537109375,
+            207.33413696289062,
+            377.114013671875
+          ],
+          "sha256": "6b944608457c887fb5c6eb0d7da0aed59f5b780851611634e95b660d87a746ca"
+        },
+        {
+          "filename": "page_066_img_005.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_066_img_005.jpx",
+          "bbox": [
+            35.99999237060547,
+            479.69073486328125,
+            207.33413696289062,
+            576.1246948242188
+          ],
+          "sha256": "0764dd7b636f7d5114d558b0b4fdac6118838ff06225e8431cff0b520fa108b4"
+        },
+        {
+          "filename": "page_066_img_006.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_066_img_006.jpx",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            216.0
+          ],
+          "sha256": "2baf4c5e7f59f1a8cada1ea620b8bfaadd9c829901929423989ccc06ade62627"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 67,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_067.txt",
+      "character_count": 806,
+      "images": [
+        {
+          "filename": "page_067_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_067_img_001.jpx",
+          "bbox": [
+            220.33299255371094,
+            84.48101806640625,
+            391.66705322265625,
+            178.9417724609375
+          ],
+          "sha256": "4176351685fbbb1c1c2499964416655778fb3fdd058f7a7887c3cfee7a441bb2"
+        },
+        {
+          "filename": "page_067_img_002.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_067_img_002.jpx",
+          "bbox": [
+            220.33291625976562,
+            299.52001953125,
+            391.66705322265625,
+            393.9818115234375
+          ],
+          "sha256": "1510855e60f883d483346bf006d76f57b39bc8ac3841f375486a013630e5eead"
+        },
+        {
+          "filename": "page_067_img_003.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_067_img_003.jpx",
+          "bbox": [
+            220.33291625976562,
+            513.1029052734375,
+            391.66705322265625,
+            607.564697265625
+          ],
+          "sha256": "938438b7bbdfdf5cf9198138016c41c659f3298aca2993c2a4c44560e33d258a"
+        },
+        {
+          "filename": "page_067_img_004.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_067_img_004.jpx",
+          "bbox": [
+            404.6659851074219,
+            84.48101806640625,
+            576.0,
+            178.9417724609375
+          ],
+          "sha256": "cebe796adb7d3c2f1766dd07f40e40e516e4e14927b122ca53f537a271d7ee59"
+        },
+        {
+          "filename": "page_067_img_005.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_067_img_005.jpx",
+          "bbox": [
+            404.6658630371094,
+            299.52001953125,
+            576.0,
+            393.9818115234375
+          ],
+          "sha256": "698796d877ef541b110801903e6952a7336fe4dd04b8d6c27008bc16ae43cbec"
+        },
+        {
+          "filename": "page_067_img_006.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_067_img_006.jpx",
+          "bbox": [
+            404.6658630371094,
+            513.1029052734375,
+            576.0,
+            607.564697265625
+          ],
+          "sha256": "c83c0d93063948cebebdc7dca9e3ce1f78b12d2b16b98d700b050f3d81eeb6d0"
+        },
+        {
+          "filename": "page_067_img_007.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_067_img_007.jpx",
+          "bbox": [
+            36.0,
+            84.48101806640625,
+            207.33399963378906,
+            178.9417724609375
+          ],
+          "sha256": "2c48d39e26315d7b928c86e97d1b93ae5fb8d8980a2d8e4990caa6cc80962cd5"
+        },
+        {
+          "filename": "page_067_img_008.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_067_img_008.jpx",
+          "bbox": [
+            35.99999237060547,
+            299.52001953125,
+            207.33413696289062,
+            393.9818115234375
+          ],
+          "sha256": "6cfdab8e92aa8d4cd119ab50d0ba07b89c7278673f17537dc68addac169896ae"
+        },
+        {
+          "filename": "page_067_img_009.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_067_img_009.jpx",
+          "bbox": [
+            35.99999237060547,
+            513.1029052734375,
+            207.33413696289062,
+            607.564697265625
+          ],
+          "sha256": "d5740b4bb75b993643a02da73267c0e03b69150339c21ef5760d2a87c23f7df3"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 68,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_068.txt",
+      "character_count": 462,
+      "images": [
+        {
+          "filename": "page_068_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_068_img_001.jpx",
+          "bbox": [
+            220.33299255371094,
+            54.0,
+            391.66705322265625,
+            148.46099853515625
+          ],
+          "sha256": "37760d92a9d8b6c6ab5b9811d458acf2932fcf5e93f17490d4a690e62d152c27"
+        },
+        {
+          "filename": "page_068_img_002.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_068_img_002.jpx",
+          "bbox": [
+            404.6659851074219,
+            54.0,
+            576.0,
+            148.46099853515625
+          ],
+          "sha256": "e2c7e7cccec09461682f8e0bf76d0f6b3bf27d092156f69f0dd06669613daf06"
+        },
+        {
+          "filename": "page_068_img_003.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_068_img_003.jpx",
+          "bbox": [
+            36.0,
+            54.0,
+            207.33399963378906,
+            148.46099853515625
+          ],
+          "sha256": "d3a7c5e25c87cb62fa7d70f4f94df72929836e14ba75dec481521a34cb654c31"
+        },
+        {
+          "filename": "page_068_img_004.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_068_img_004.jpx",
+          "bbox": [
+            35.99999237060547,
+            250.55999755859375,
+            207.33413696289062,
+            345.02178955078125
+          ],
+          "sha256": "5f7d9d26666a6803d9a9e6ffe91d9bb052420e3fc711ec3415026f5fc455c9d8"
+        },
+        {
+          "filename": "page_068_img_005.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_068_img_005.jpx",
+          "bbox": [
+            220.33291625976562,
+            453.342041015625,
+            391.66705322265625,
+            547.8038330078125
+          ],
+          "sha256": "105322a504bc8375fe9b7a7a90c024f3093fb02abc17705810a9542417504642"
+        },
+        {
+          "filename": "page_068_img_006.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_068_img_006.jpx",
+          "bbox": [
+            404.6658630371094,
+            453.342041015625,
+            576.0,
+            547.8038330078125
+          ],
+          "sha256": "0341716deb8fcfa58ecc869566b4b4824be3ba733f75ce6b0f737005c717847b"
+        },
+        {
+          "filename": "page_068_img_007.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_068_img_007.jpx",
+          "bbox": [
+            35.99999237060547,
+            453.342041015625,
+            207.33413696289062,
+            547.8038330078125
+          ],
+          "sha256": "ce2c2cff1b441086f6fed198c32ffcfb6b8608c8da0c4dc38125c8423c4da43d"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 69,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_069.txt",
+      "character_count": 1403,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 70,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_070.txt",
+      "character_count": 2486,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 71,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_071.txt",
+      "character_count": 2369,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 72,
+      "text_file": "outputs/Mission overview, landing, engineering, instruments/text/page_072.txt",
+      "character_count": 1424,
+      "images": [
+        {
+          "filename": "page_072_img_001.jpx",
+          "path": "outputs/Mission overview, landing, engineering, instruments/images/page_072_img_001.jpx",
+          "bbox": [
+            143.0500030517578,
+            167.03997802734375,
+            468.45001220703125,
+            407.51898193359375
+          ],
+          "sha256": "2c008227c030610ea5fbd0b7d2d60262eb3391116f289587d8ba20376ab26529"
+        }
+      ],
+      "tables": []
+    }
+  ]
+}

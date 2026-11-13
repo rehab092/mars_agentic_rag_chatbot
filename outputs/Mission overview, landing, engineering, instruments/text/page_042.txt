@@ -1,0 +1,9 @@
+# Telecommunications: How Perseverance Talks to Earth
+
+# Cruise
+
+Image credit: NASA/JPL-Caltech
+
+For the first two months of the journey to Mars, the Mars 2020 spacecraft communicates using a low-gain antenna on the aeroshell's parachute cone, which is exposed through the center of the cruise stage.
+
+As the spacecraft gets farther from Earth, a stronger, medium-gain antenna located on the cruise stage takes over. This antenna provides higher data rates but requires more accurate pointing toward Deep Space Network dishes on Earth.

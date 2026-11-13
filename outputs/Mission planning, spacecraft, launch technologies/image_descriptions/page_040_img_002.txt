@@ -1,0 +1,9 @@
+The image displays a vertical cross-section diagram of the Mars 2020 spacecraft stack, illustrating the arrangement of its major components from top to bottom. The diagram is segmented into five distinct colored bands, each labeled with the name of a specific stage or component.
+
+1. Cruise Stage: Located at the top of the stack in a light blue band, this section shows a rectangular structure with solar panels. Two antennas are labeled: the "MGA Antenna (Cruise)" and the "PLGA Antenna (Cruise & EDL)."
+2. Back Shell: Below the cruise stage in a purple band, this section depicts a conical heat shield. It features two labeled antennas: the "TLGA Antenna (EDL)" and the "PUHF Antenna (EDL)."
+3. Descent Stage: Situated in a pinkish-purple band, this section shows a complex structure with landing legs and thrusters. It includes two labeled antennas: the "DUHF Antenna (EDL)" and the "DLGA Antenna (EDL)."
+4. Rover: In a red band, this section illustrates the rover vehicle itself, showing its wheels and chassis. A single antenna is labeled: the "RUHF Antenna (EDL & Surface)."
+5. Heat Shield: At the very bottom in a darker red band, a simple triangular shape represents the heat shield.
+
+The diagram visually represents the hierarchical structure of the spacecraft, showing how the rover is housed within the descent stage, which is enclosed by the back shell and cruise stage. The labels indicate the specific function of each antenna, noting whether they are used for the cruise phase, Earth Departure Injection (EDL), or surface operations.

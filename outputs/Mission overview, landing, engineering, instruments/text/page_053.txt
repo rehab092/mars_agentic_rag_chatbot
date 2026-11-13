@@ -1,0 +1,23 @@
+The Mars 2020 mission also looks ahead to the day when astronauts travel to Mars. It carries technologies that could help land humans or equipment on the planet and even help produce rocket propellant and breathable oxygen. These efforts, detailed below, will feed into NASA's plans for sending humans to Mars, with the Artemis program returning astronauts to the Moon as the first step.
+
+# Science Goals
+
+# Perseverance will contribute to the overarching goals of NASA's Mars Exploration Program:
+
+GOAL 1 Determine whether life ever existed
+
+GOAL 2 Characterize the climate
+
+GOAL 3
+
+Characterize the geology
+
+GOAL 4 Prepare for human exploration
+
+# To reach the first three goals, NASA has determined the following more specific science objectives for Perseverance:
+
+Understand the geology of the field site explored by the Perseverance rover.
+
+Determine whether Perseverance's landing site, Jezero Crater, could have supported microbial life in the distant past, and search for evidence that such ancient life may have left behind.
+
+Select and collect samples representing the geologic diversity of the Perseverance field site, focusing on materials with the highest potential to preserve signs of life and planetary evolution. Keep these samples pristine, isolating them from Earth-sourced contaminants.

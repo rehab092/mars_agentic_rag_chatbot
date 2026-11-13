@@ -1,0 +1,25 @@
+# Mars
+
+Image credit: NASA/JPL-Caltech
+
+Size: About half the diameter of Earth but twice the diameter of Earth's Moon. As a desert planet, Mars has about the same amount of surface area as the dry land on Earth.
+
+Mass: About 10% that of Earth
+
+Gravity: About 38% as strong as Earth's
+
+Orbit: Elliptical and about 1.5 times farther from the Sun than Earth is (about 141.5 million miles or 227.7 million kilometers from the Sun, on average)
+
+Year: 1 Mars year (1 revolution about the Sun) takes 687 Earth days
+
+Day: 1 Mars day or sol (1 rotation) is 1.027 longer than an Earth day (24 hours, 39 minutes, 35 seconds)
+
+Atmosphere: About 1% the density of Earth's atmosphere at the surface
+
+Temperature: Surface temperature averages minus 64 degrees Fahrenheit (minus 53 degrees Celsius); varies from minus 199 degrees Fahrenheit (minus 128 degrees Celsius) during polar night to 80 degrees Fahrenheit (27 degrees Celsius) at equator during midday at the closest point in orbit to the Sun
+
+Distance from Earth on Feb. 18, 2021: 127 million miles (205 million kilometers).
+
+# Program
+
+NASA has invested approximately $2.4 billion to build and launch the Mars 2020 Perseverance mission. The estimate to land and operate the rover during its prime mission is approximately $300 million.

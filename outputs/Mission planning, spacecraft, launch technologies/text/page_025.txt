@@ -1,0 +1,21 @@
+# Interplanetary Cruise
+
+If Perseverance launches on the first day of its targeted launch period (July 20), it will take 213 days to travel about 309 million miles (497 million kilometers) from Earth to Mars. This is the cruise phase of the mission. (The cruise phase will be shorter if the spacecraft launches later.) The final 45 days of the cruise phase
+
+make up the approach subphase.
+
+The cruise phase begins when the spacecraft separates from the launch vehicle. During cruise, the Perseverance rover and its descent stage are protected inside a capsule known as an aeroshell; the aeroshell is attached to the disk-shaped, solar-powered cruise stage. For more information about the cruise stage, aeroshell and descent stage, go to the Spacecraft section of this press kit.
+
+During cruise, engineers perform a series of events designed to check the spacecraft subsystems and instruments. They also execute the first three "trajectory correction maneuvers" during this phase. For these feats of navigation, mission team members estimate where the spacecraft is and design a maneuver that fires the cruise stage thrusters to alter the path of the spacecraft to arrive at a particular location at Mars.
+
+Because some portions of the rocket are not cleaned as thoroughly as the spacecraft, the rocket is initially pointed along a trajectory that does not intercept Mars in order to avoid transporting unwanted Earth materials to the Red Planet accidentally. (More information on this technique, called "trajectory biasing," is in the Biological Cleanliness section of this press kit.) Another way of making sure the mission avoids transporting unwanted Earth materials to Mars is to ensure that hardware that does not meet cleanliness standards does not go to Mars accidentally. The maneuvers after separation from the Centaur stage will point the spacecraft more directly at Mars and target the area where it is supposed to enter the atmosphere.
+
+The final 45 days leading up to the Mars landing constitute the approach phase, which focuses primarily on navigation activities. Two trajectory correction maneuvers are planned during this phase for any last adjustments (if needed) to the entry target.
+
+# Entry, Descent and Landing
+
+Perseverance's entry, descent and landing will be very similar to the
+
+Curiosity rover's in 2012, as seen in this illustration. Image credit: NASA/JPL-Caltech
+
+The intense entry, descent and landing (EDL) phase begins when the spacecraft reaches the top of the Martian atmosphere, traveling at about 12,100 mph (19,500 kph). EDL ends about seven minutes later with the rover stationary on the Martian surface.

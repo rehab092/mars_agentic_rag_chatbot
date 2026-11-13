@@ -1,0 +1,21 @@
+# Ingenuity Mars
+
+Mass: about 4.0 pounds (1.8 kilograms)
+
+Height: 1.6 feet (0.49 meters)
+
+Rotor system: Two pairs of counter-rotating blades, spanning 4 feet (1.2 meters) in diameter, spinning at about 2,400 rpm
+
+Fuselage (body) dimensions: 0.446 feet by 0.64 feet by 0.535 feet (13.6 centimeters by 19.5 centimeters by 16.3 centimeters); four legs, each about 1.26 feet (0.384 meters) long, giving the helicopter about 0.427 feet (0.13 meters) of clearance above the ground
+
+Power: Solar panel that charges lithium-ion batteries, providing enough energy for one 90-second flight per Martian day (about 350 watts of average power during flight)
+
+# Cameras
+
+The Mars 2020 Perseverance mission is ferrying 25 cameras to the Red Planet - the most ever flown in the history of deep-space exploration.
+
+19 cameras total on the rover: 9 for engineering (color); 3 for entry, descent and landing (1 blackand-white dedicated to Terrain-Relative Navigation and 2 color for public engagement and engineering reconstruction of entry, descent and landing); 2 for Mastcam-Z (color with zoom); 1 for SuperCam (color); 2 for SHERLOC (color); 1 for PIXL (blackand-white with some color capabilities); and 1 for MEDA (black-and-white)
+
+3 cameras on the back shell: all color, all looking up to capture parachute inflation
+
+1 camera on the descent stage: color, looking down to view the rover from above

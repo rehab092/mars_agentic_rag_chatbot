@@ -1,0 +1,23 @@
+Image credit: NASA/JPL-Caltech
+
+The Perseverance rover also has two microphones: one to record the sounds of a Mars landing for the first time, and one that is part of the SuperCam science instrument.
+
+The EDL microphone is a commercial, off-the-shelf part on an aft-side panel. It is intended for public engagement and later EDL analysis, but there is no guarantee what exactly it will record. Wind and engine sounds could overwhelm the microphone. But the rover's team is hoping to capture some of the following:
+
+Parachute mortar firing
+
+Heat shield separation bolts firing
+
+Wind noise
+
+Landing-thruster noise
+
+The rover touching down on the Martian surface
+
+Ambient Mars noise
+
+The faint sound of the descent stage impacting the surface after delivering Perseverance to the surface and flying away
+
+Depending on how the microphone works after landing, it may be used to occasionally record sounds on the Martian surface.
+
+Separately, a microphone on the SuperCam instrument on the remote sensing mast will record the sound of the instrument's laser zaps against the Martian surface. The sounds will help scientists understand the property of the rocks SuperCam is examining, including their hardness. SuperCam's microphone can also can also listen to the wind.

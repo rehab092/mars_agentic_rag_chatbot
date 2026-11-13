@@ -1,0 +1,11 @@
+# Mission: Science
+
+# Why This Mission
+
+Image credit: NASA/JPL-Caltech
+
+Billions of years ago, Earth and Mars were more similar than they are today. Both had liquid water at the surface; both had magnetic fields to protect their surface from the Sun's radiation. Life developed on Earth at that time, so could it also have developed on Mars?
+
+NASA has sent rovers, landers, and orbiters to the Red Planet to investigate that key astrobiological question. Scientists can study rocks and sediment on the Martian surface to learn what environments once existed, whether and for how long liquid water was once present, and what the climate was like in the past. This record can reveal when and where Mars had the ideal conditions for life.
+
+But Perseverance is different: It's the first Mars rover designed to collect samples that will one day be returned to Earth. Despite the immense technical capabilities of the rover's science instruments, there are far more powerful laboratories and science tools on our planet than we could hope to send to Mars. As with the Moon samples returned by the Apollo missions, Mars samples would benefit future generations of scientists who will study them using advanced technology, some of which hasn't been invented yet.

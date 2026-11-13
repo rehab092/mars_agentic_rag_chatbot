@@ -1,0 +1,15 @@
+# SHERLOC (Scanning Habitable Environments with Raman & Luminescence for Organics & Chemicals)
+
+# Principal Investigator:
+
+# Luther Beegle, JPL
+
+SHERLOC is located near PIXL on Perseverance's robotic arm. As PIXL looks for elemental chemistry, SHERLOC looks for organic molecules and minerals. While the presence of organic molecules helps scientists determine which samples to collect for future return to Earth, the presence of different minerals helps explain how a sample was formed. SHERLOC flashes an ultraviolet laser over surface material, which emits a subtly different glow depending on which organic compounds and minerals are present. SHERLOC also has a camera for taking microscopic images of rock grains and surface textures.
+
+# SHERLOC
+
+Features a camera called WATSON (Wide Angle Topographic Sensor for Operations and eNgineering).
+
+Has a calibration target that includes five spacesuit materials and a sample of a Martian meteorite.
+
+The SHERLOC instrument is circled in black in this illustration of the Perseverance rover. Image credit: NASA/JPL-Caltech

@@ -1,0 +1,29 @@
+SuperCam, an instrument that can provide imaging, chemical composition analysis, and mineralogy at a distance. The principal investigator is Roger Wiens, Los Alamos National Laboratory, Los Alamos, New Mexico. This instrument also has a significant contribution from the Centre National d'Etudes Spatiales, Institut de Recherche en Astrophysique et Planétologie (CNES/IRAP), France.
+
+Planetary Instrument for X-ray Lithochemistry (PIXL), an X-ray fluorescence spectrometer and high-resolution imager to map the fine-scale elemental composition of Martian surface materials. PIXL will provide capabilities that permit more detailed detection and analysis of chemical elements than ever before. The principal investigator is Abigail Allwood, NASA's Jet Propulsion Laboratory (JPL) in Pasadena, California.
+
+Scanning Habitable Environments with Raman & Luminescence for Organics and Chemicals (SHERLOC), a spectrometer that will provide fine-scale imaging and uses an ultraviolet (UV) laser to map mineralogy and organic compounds. SHERLOC will be the first UV Raman spectrometer to fly to the surface of Mars and will provide complementary measurements with other instruments in the payload. SHERLOC includes a high-resolution color camera for microscopic imaging of Mars' surface. The principal investigator is Luther Beegle, JPL.
+
+The Mars Oxygen In-Situ Resource Utilization Experiment (MOXIE), a technology demonstration that will produce oxygen from Martian atmospheric carbon dioxide. If successful, MOXIE's technology could be used by future astronauts on Mars to burn rocket fuel for returning to Earth. The principal investigator is Michael Hecht, Massachusetts Institute of Technology, Cambridge, Massachusetts.
+
+Mars Environmental Dynamics Analyzer (MEDA), a set of sensors that will provide measurements of temperature, wind speed and direction, pressure, relative humidity, and dust size and shape. The principal investigator is Jose Rodriguez-Manfredi, Centro de Astrobiología, Instituto Nacional de Tecnica Aeroespacial, Spain.
+
+The Radar Imager for Mars' Subsurface Experiment (RIMFAX), a ground-penetrating radar that will provide centimeter-scale resolution of the geologic structure of the subsurface. The principal investigator is Svein-Erik Hamran, University of Oslo.
+
+# Rover Size and Dimensions
+
+Perseverance's body and other major hardware (such as the cruise stage, descent stage, and aeroshell/heat shield) build upon the success of NASA's Curiosity rover and include many heritage components. The car-sized Perseverance rover has roughly the same dimensions as Curiosity: it's about 10 feet long (not including the arm), 9 feet wide, and 7 feet tall (about 3 meters long, 2.7 meters wide, and 2.2 meters tall). But at 2,260 pounds (1,025 kilograms), Perseverance is about 278 pounds (126 kilograms) heavier than Curiosity.
+
+# Technology
+
+Perseverance will also test new technology for future robotic and human missions to the Red Planet. That includes an autopilot for avoiding hazards called Terrain Relative Navigation and a set of sensors for gathering data during the landing (Mars Entry, Descent and Landing Instrumentation 2, or MEDLI2). A new autonomous navigation system will allow the rover to drive faster in challenging terrain.
+
+As with Curiosity, Perseverance's baseline power system is a Multi-Mission Radioisotope Thermoelectric Generator (MMRTG) provided by the U.S. Department of Energy. It uses the heat from the natural decay of plutonium-238 to generate electricity.
+
+# Program Management
+
+The Mars 2020 Project is managed for NASA's Science Mission Directorate, Washington, D.C., by the Jet Propulsion Laboratory (JPL), a division of Caltech in Pasadena, California.
+
+At NASA Headquarters, George Tahu is the Mars 2020 program executive and Mitchell Schulte is program scientist. At JPL, John McNamee is the Mars 2020 project manager and Ken Farley of Caltech is project scientist.
+
+For more information about the Mars 2020 mission and NASA's Mars Exploration Program, visit: mars.nasa.gov/mars2020

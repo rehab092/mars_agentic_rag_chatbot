@@ -1,0 +1,33 @@
+# More About Mars: Historical Mars Missions
+
+In addition to NASA's Mars 2020 Perseverance rover and the Ingenuity Mars Helicopter, humankind's other missions to Mars are listed below. Each item includes mission name, country, launch date, purpose, and results.
+
+Marsnik 1: USSR; Oct. 10, 1960; flyby; did not reach Earth orbit
+
+Marsnik 2: USSR; Oct. 14, 1960; flyby; did not reach Earth orbit
+
+Sputnik 22: USSR; Oct. 24, 1962; flyby; achieved Earth orbit only
+
+Mars 1: USSR; Nov. 1, 1962; flyby, radio failed at 65.9 million miles (106 million kilometers)
+
+Sputnik 24: USSR; Nov. 4, 1962; flyby; achieved Earth orbit only
+
+Mariner 3: U.S.; Nov. 5, 1964; flyby; shroud failed to jettison
+
+Mariner 4: U.S.; Nov. 28, 1964; first successful flyby July 14, 1965; returned 21 photos
+
+Zond 2: USSR; Nov. 30, 1964; flyby; passed Mars but radio failed, returned no planetary data
+
+Mariner 6: U.S.; Feb. 24, 1969; flyby July 31, 1969; returned 75 photos
+
+Mariner 7: U.S.; March 27, 1969; flyby Aug. 5, 1969; returned 126 photos
+
+Mars 1969A: USSR; March 27, 1969; orbiter; did not reach Earth orbit
+
+Mars 1969B: USSR; April 2, 1969; orbiter; failed during launch
+
+Mariner 8: U.S.; May 8, 1971; orbiter; failed during launch
+
+Kosmos 419: USSR; May 10, 1971; lander; achieved Earth orbit only
+
+Mars 2: USSR; May 19, 1971; orbiter and lander; arrived Nov. 27, 1971; no useful data, lander burned up due to steep entry

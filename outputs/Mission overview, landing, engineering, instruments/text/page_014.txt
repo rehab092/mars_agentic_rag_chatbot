@@ -1,0 +1,29 @@
+19 cameras on the rover: 9 color cameras for engineering; 3 cameras for entry, descent, and landing (1 black-and-white dedicated to Terrain-Relative Navigation and 2 color for public engagement and engineering reconstruction of entry, descent, and landing); 2 color cameras with zoom for Mastcam-Z; 1 color camera for SuperCam; 2 color cameras for SHERLOC; 1 for black-and-white with some color capabilities for PIXL; and 1 black-and-white for MEDA.
+
+3 color cameras on the back shell, looking up to capture parachute inflation.
+
+1 color camera on the descent stage, looking down to view the rover from above.
+
+# Mission
+
+Launch: July 30, 2020, 7:50 a.m. EDT (4:50 a.m. PDT).
+
+Launch site: Space Launch Complex 41, Cape Canaveral Air Force Station, Florida.
+
+Launch vehicle: United Launch Alliance (ULA) Atlas V 541.
+
+Spacecraft's distance to travel, Earth to Mars (July 30 launch): 293 million miles (471 million kilometers).
+
+# Surface Mission
+
+Image credit: NASA/JPL-Caltech
+
+Time of Mars landing: Feb. 18, 2021, 3:55 p.m. EDT (12:55 p.m. PDT). The time of day at the landing site will be 3:53 p.m. local mean solar time. Landing site: Jezero Crater, about 18 degrees north latitude, 77 degrees longitude
+
+One-way light time (the time it takes radio signals to travel): Mars to Earth, on Feb. 18, 2021: about 11 minutes, 22 seconds.
+
+Prime mission duration: One Mars year (about
+
+687 Earth days).
+
+Sampling capability: More than 30 samples.

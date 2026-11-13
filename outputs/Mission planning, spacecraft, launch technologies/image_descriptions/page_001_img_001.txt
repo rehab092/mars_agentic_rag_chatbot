@@ -1,0 +1,13 @@
+The image displays a detailed view of the Perseverance rover, a robotic vehicle designed for exploration on Mars. The rover is shown in a three-quarter perspective, highlighting its complex mechanical structure and scientific instrumentation.
+
+The main body of the rover is white, constructed from various panels and structural supports. It is mounted on six large, black wheels with deep treads, designed for traversing rough terrain. The wheels are connected to the chassis via suspension systems that include visible linkages and shock absorbers.
+
+Rising from the center of the rover is a tall, articulated mast. At the top of this mast is a large, boxy camera assembly, which appears to be the Mastcam-Z. This unit features a prominent red circular element on its side and multiple lenses and sensors. Below the camera, the mast connects to the main body through a series of joints and actuators.
+
+Attached to the front of the rover is a robotic arm, known as the Sample Arm. This arm is equipped with a drill at its end, which is used for collecting rock samples. The arm also carries a scoop mechanism.
+
+On the right side of the rover, there is a large, cylindrical instrument package. This is the Mars Sample Caching System, which includes a canister for storing samples. Next to it is another instrument, likely the SuperCam, which features a long boom extending outward with a laser spectrometer and a camera at its tip.
+
+The background of the image is a stylized orange graphic, featuring faint outlines of other spacecraft or mission-related imagery. This backdrop provides context for the Mars exploration theme but does not depict a specific environment.
+
+The overall composition emphasizes the intricate engineering and scientific capabilities of the Perseverance rover, showcasing its readiness for the challenges of the Martian surface.

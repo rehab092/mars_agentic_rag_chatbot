@@ -1,0 +1,11 @@
+# Biological Cleanliness
+
+The Mars 2020 mission has two primary motivations for keeping the spacecraft biologically clean. The first is to avoid harmful contamination of Mars, which could confound future searches for life. This is called "planetary protection." The second is to limit Earth-based contamination in the samples that the mission will collect for science purposes. This is referred to as "returned sample science cleanliness."
+
+# Planetary Protection
+
+The United States has obligations under the international 1967 Outer Space Treaty to explore space in a manner that avoids harmful contamination of celestial bodies and also adverse effects to Earth's environment resulting from any return of extraterrestrial matter. To help meet these obligations, NASA's Planetary Protection Office draws up cleanliness standards known as planetary protection requirements. These requirements call for missions to take precautions to limit the amount of
+
+Earth-sourced biological material carried by NASA robotic spacecraft that travel to Mars. Flight hardware for the Mars 2020 Perseverance mission and the Ingenuity Mars Helicopter have been designed and built to meet NASA planetary protection requirements.
+
+NASA's primary strategy for limiting Earth-based contamination of Mars is to be sure that all hardware going to the planet is biologically clean.

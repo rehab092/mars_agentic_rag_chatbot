@@ -1,0 +1,27 @@
+# Cruise
+
+For the first two months of the journey to Mars, the spacecraft communicates using a low-gain antenna located on the aeroshell's parachute cone, which is exposed through the center of the cruise stage.
+
+As the spacecraft gets farther from Earth, a stronger, medium-gain antenna located on the cruise stage takes over. This antenna provides higher data rates but requires more accurate pointing toward Deep Space Network dishes on Earth.
+
+# Landing
+
+During landing, the spacecraft switches between several antennas, some of which use Ultra-High Frequency (UHF) transmission (for talking with orbiting spacecraft like the Mars Reconnaissance Orbiter, which then relay the information back to Earth) and others that use more powerful X-band transmissions (for talking directly to Earth with simple messages).
+
+# X-band
+
+Entry, descent and landing communications begin with the same low-gain antenna - located on the aeroshell's parachute cone - used at the start of the cruise phase. As the spacecraft performs banking maneuvers related to its guided entry into the Martian atmosphere, it shifts to a tilted low-gain antenna, located on the spacecraft's back shell. After the separation of the back shell, a low-gain antenna on the descent stage takes over.
+
+# Surface
+
+Once Perseverance is wheels-down on Mars, it will begin communicating using antennas on its deck. Communication will resume through the cylindrical, UHF low-gain antenna. During surface operations, 99.9% of science data is communicated through this antenna to passing orbiters, including NASA's MAVEN and Mars Reconnaissance Orbiter, as well as the European Space Agency's Trace Gas Orbiter.
+
+Perseverance can also communicate directly with Earth using its X-band high-gain antenna (the rotatable hexagonal "paddle" toward the back of the rover). These transmissions are routinely used to send commands to the rover each morning on Mars but are limited in transmitting data back to Earth.
+
+If the views and distance to the Earth are favorable, Perseverance can also use an X-band low-gain antenna (a stubby pole located behind the high-gain antenna). This antenna is useful for emergency communications in a variety of situations.
+
+# UHF
+
+A UHF antenna mounted on the back shell starts transmitting several minutes before atmospheric entry until the shell separates from the descent stage. A UHF antenna on the descent stage takes over from there. For the final release to the surface, the UHF transmissions will use the rover's cylindrical, UHF low-gain antenna.
+
+Perseverance will communicate detailed information during landing using the UHF antennas, which transmit that data to the Mars Reconnaissance Orbiter and MAVEN spacecraft. The Mars Reconnaissance Orbiter is expected to relay entry, descent and landing data to Earth in near-real-time, while MAVEN is expected to return its data after landing.

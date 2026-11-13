@@ -1,0 +1,17 @@
+If the Perseverance science team determines rock or regolith is worthy of sampling, it will command the arm to place either a coring or regolith bit, with a sample tube inside, into the coring tool and then place the drill bit against the target. When coring, the drill - using either rotary mode (where a hole is produced using a drill bit under constant pressure) or percussive mode (where the rotary motion is supplemented with swift hammerlike blows to propel the drill bit forward) - obtains a cylindrical sample about 0.5 inches (13 millimeters) in diameter and 2.4 inches (60 millimeters) long into a sample tube in the center of the bit. This sample amounts to an average of 0.35-0.53 ounces (10-15 grams) of Martian material. The regolith bit can collect a regolith sample in a tube as well.
+
+# Bit Carousel
+
+After the sample is collected, the robotic arm places the tube into the second robot of the Sample Caching System: the bit carousel.
+
+Looking like a small flying saucer that is embedded in the front of the rover, the bit carousel stores empty drill bits and provides them to the corer on the turret. Once a sample has been taken by the corer, the bit carousel transfers bits containing filled sample tubes from the corer into the belly of the rover. Inside the rover, the filled tube can be handed off to the Sample Caching System's third robotic component, the adaptive caching assembly.
+
+# Adaptive Caching Assembly
+
+The adaptive caching assembly consists of the sample handling arm, sample tube assemblies, tube seals and stations for a variety of activities. When the bit carousel transfers a filled sample tube to the adaptive caching assembly, the 1.6-foot-long (0.5-meter-long) sample handling arm then moves the tube to the processing stations. The stations measure the volume and take an image of the sample, install and activate a tube seal, and place the tube in storage. Later, when the rover reaches a suitable location, the sample handling arm retrieves the sealed tubes and drops them to the surface of Mars for retrieval by a later mission.
+
+In addition to these functions, the Sample Caching System must also maintain unprecedented biological cleanliness to protect the sample from possible Earth-based contamination. The combination of these two factors make it the most complex integrated robotic subsystem ever built for Mars.
+
+Watch NASA's Perseverance Mars Rover Sample Caching System video at:
+
+youtu.be/MFyv8mtRPCA

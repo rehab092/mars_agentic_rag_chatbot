@@ -1,0 +1,11 @@
+# Getting to Mars
+
+# Cruise Stage
+
+Image credit: NASA/JPL-Caltech
+
+Perseverance is traveling to Mars in an almost identical way to NASA's Curiosity rover, which landed in 2012. Three major components of the flight system will deliver the new rover safely to the surface of the Red Planet: the cruise stage, aeroshell, and descent stage.
+
+After separating from the rocket, the ring-shaped cruise stage flies the aeroshell, and Perseverance within it, through interplanetary space to Mars. To remain stable throughout cruise, the combined spacecraft spins at about 2 rpm during the journey. The cruise stage features eight thrusters that receive commands to fire at specific times during the six-and-a-half-month journey to help shape the spacecraft's trajectory to Mars (these are called trajectory correction maneuvers).
+
+The cruise stage also has solar arrays that provide power in addition to the rover's main power source, the Multi-Mission Radioisotope Thermoelectric Generator. And it is equipped with an assortment of antennas for communicating with Earth. Find more information in the Telecommunications section of this press kit.

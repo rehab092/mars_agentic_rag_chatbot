@@ -1,0 +1,31 @@
+# MEDA (Mars Environmental Dynamics Analyzer)
+
+MEDA wind sensors on Perseverance's mast. Image credit: NASA/JPL-Caltech
+
+measures how tiny airborne particles, or aerosols, such as dust and ice can affect sunlight reaching the surface.
+
+This set of sensors was built by an international team led by Spain's Centro de Astrobiología.
+
+# MEDA
+
+Measures how Martian weather changes within one day and across the seasons.
+
+Helps understand how dust responds to environmental changes and when its properties change, or if it influences engineering systems and the interpretation of other instruments observations.
+
+Through SkyCam, studies cloud abundances and types.
+
+# MOXIE (Mars Oxygen ISRU Experiment)
+
+# Principal Investigator:
+
+Michael Hecht, Massachusetts Institute of Technology
+
+MOXIE is a technology demonstration that will show whether such technology could be used to help launch rockets off the surface of Mars in the future. (The "I" in MOXIE stands for "in situ resource utilization," or ISRU - the concept of using resources found where a spacecraft lands rather than bringing those resources from Earth.) MOXIE
+
+converts carbon dioxide in the Martian atmosphere into oxygen, which is required in massive quantities in order to launch rockets. Larger versions of MOXIE could be brought to Mars in the future to enable
+
+Principal Investigator: Jose Rodriguez Manfredi, Centro de
+
+Astrobiología, Madrid, Spain
+
+MEDA is a set of sensors distributed across Perseverance's mast and body that measures wind speed and direction, air pressure, relative humidity, ambient temperature and solar radiation. Solar radiation affects the surface environment and is important to understand more fully before sending humans to Mars. A skyward-facing camera, SkyCam astronauts to launch themselves back to Earth. (Launching humans off of Mars will take tens of metric tons of liquid oxygen, which is much more than MOXIE can produce.) Oxygen from MOXIE technology could also be used for breathing, though future systems will need to be about 200 times larger for human missions.

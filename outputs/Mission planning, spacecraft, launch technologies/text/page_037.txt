@@ -1,0 +1,11 @@
+# The entry, descent and landing color camera suite consists of six off-the-shelf cameras:
+
+Three cameras are on the bell-shaped back shell, looking upward to capture the parachute opening.
+
+One camera is on the descent stage, looking down at the rover and surface below.
+
+Two cameras are located on the Perseverance rover - one looking up at descent stage operations and one looking down at the Martian surface.
+
+Perseverance also includes an off-the-shelf microphone located on an aft-side panel. The microphone is intended for public engagement and later entry, descent and landing analysis. It could possibly capture sounds during the landing sequence, including parachute deployment and firing of the descent stage's Mars landing engines.
+
+More information about the entry, descent and landing phase is in the Mission Overview section of this press kit.

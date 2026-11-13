@@ -1,0 +1,31 @@
+# Mars 2020/Perseverance
+
+Over the past two decades, missions flown by NASA's Mars Exploration Program have shown us that Mars was once very different from the cold, dry planet it is today. Evidence discovered by landed and orbital missions point to wet conditions billions of years ago. These environments lasted long enough to potentially support the development of microbial life.
+
+The Mars 2020/Perseverance rover is designed to better understand the geology of Mars and seek signs of ancient life. The mission will collect and store a set of rock and soil samples that could be returned to Earth in the future. It will also test new technology to benefit future robotic and human exploration of Mars.
+
+# Key Objectives
+
+Explore a geologically diverse landing site
+
+Assess ancient habitability
+
+Seek signs of ancient life, particularly in special rocks known to preserve signs of life over time
+
+Gather rock and soil samples that could be returned to Earth by a future NASA mission
+
+Demonstrate technology for future robotic and human exploration
+
+# Mission Timeline
+
+Launch July 30, 2020 from Cape Canaveral Air Force Station, Florida
+
+Land on Mars on February 18, 2021 at the site of an ancient river delta in a lake that once filled Jezero Crater
+
+Spend at least one Mars year (two Earth years) exploring the landing site region
+
+# Key Hardware
+
+Perseverance will carry seven instruments to conduct unprecedented science and test new technology on the Red Planet. They are:
+
+Mastcam-Z, an advanced camera system with panoramic and stereoscopic imaging capability with the ability to zoom. The instrument also will determine mineralogy of the Martian surface and assist with rover operations. The principal investigator is James Bell, Arizona State University in Tempe.

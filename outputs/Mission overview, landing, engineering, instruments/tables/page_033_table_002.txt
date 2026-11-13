@@ -1,0 +1,68 @@
+Source PDF: Mission overview, landing, engineering, instruments.pdf
+Page Number: 33
+Table Number: 2
+
+Row 1:
+CameraType: Science Cameras
+Number: 7
+ColororBW: 2 color 1 black -and
+, -
+white 1 black -and
+, -
+whitewithsome
+colorcapability
+Resolution: 43to4
+.
+megapixels
+Location: Various locations
+on rover
+
+Row 2:
+CameraType: Mastcam-Z (ZCAM)
+instrument suite
+Number: 2
+ColororBW: Color
+Resolution: 2megapixels
+Location: Left and right side
+of rover mast
+
+Row 3:
+CameraType: SuperCamRemote
+Micro-Imager(RMI)
+Number: 1
+ColororBW: Color
+Resolution: 4megapixels
+Location: Rovermast
+
+Row 4:
+CameraType: SHERLOCcamera
+suite
+Number: 2(WATSON
+andAutofocus
+andContext
+Imager)
+ColororBW: Color(WATSON)and
+black -and -white(ACI)
+Resolution: 2megapixels
+Location: Roverturret
+
+Row 5:
+CameraType: PIXLMicroContext
+Camera(MCC)
+Number: 1
+ColororBW: Black -and -white with
+,
+somecolorcapability
+Resolution: 43megapixel
+.
+Location: Roverturret
+
+Row 6:
+CameraType: MEDASkyCam
+i
+(fsheye)
+Number: 1
+ColororBW: Black -and -white
+Resolution: About1
+megapixel
+Location: Roverdeck

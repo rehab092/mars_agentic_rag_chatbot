@@ -1,0 +1,15 @@
+# Perseverance Rover
+
+Perseverance will be the fifth rover NASA has sent to Mars. Each of these rovers has carried cameras or other instruments to study the Martian surface. As opposed to stationary landers, like InSight or Phoenix, rovers can drive into craters, up slopes and along sand dunes, allowing scientists and engineers to explore the planet. All of NASA's Mars rovers have been built at the agency's Jet Propulsion Laboratory
+
+# Heavier and More Capable
+
+The car-sized Perseverance rover is about 10 feet long (not including the robotic arm arm), 9 feet wide and 7 feet tall (about 3 meters long, 2.7 meters wide and 2.2 meters tall). It weighs 2,260 pounds (1,025 kilograms) on Earth.
+
+The Mars 2020 mission's Perseverance rover and other major hardware (such as the cruise stage, descent stage, back shell and heat shield) build upon the success of NASA's Curiosity rover (part of the Mars Science Laboratory mission) and include many heritage components. So how much bigger and heavier is Perseverance than Curiosity? Perseverance has about 5 inches (3 centimeters) additional chassis length and 278 additional pounds (126 kilograms) compared to Curiosity.
+
+For an interactive 3-D experience of the rover, visit
+
+Mars 2020 Rover:
+
+mars.nasa.gov/mars2020/spacecraft/rover Curiosity is equipped with a robotic arm that extends 7 feet (2 meters) and wields a rotating 65-pound (30-kilogram) turret - a kind of robotic "hand" equipped with a scientific camera, chemical analyzers and rock drill. Like Curiosity, Perseverance's robotic arm is equipped with a rotating turret, which includes a rock drill, science instruments and a camera. But while Perseverance's arm is 7 feet (2 meters), just like Curiosity's, its turret weighs more - 99 pounds (45 kilograms) - because it carries larger instruments and a larger drill for coring. The drill will cut intact rock cores, and they'll be placed in sample tubes via a complex storage system. (Curiosity, on the other hand, pulverizes rock for its instruments to study.)

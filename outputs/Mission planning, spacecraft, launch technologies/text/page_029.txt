@@ -1,0 +1,35 @@
+# Initial Checkout
+
+Perseverance's team will spend the first 90 sols performing tests of all the rover's parts and science instruments. This "checkout" period ensures everything - including the team - is ready for surface operations. For these 90 sols, the operations team will be working on Mars time, which means they will be setting their clocks to the Martian day (which is about 40 minutes longer than an Earth day). This allows them to respond quickly to any issue the rover has during its workday and make sure revised instructions are ready for the next sol.
+
+Working on Mars time also means that team members will move their start times 40 minutes later each day. Eventually, team members will be waking up in the middle of the night to start their shifts. Because living on Mars time makes daily life on Earth much more challenging, the team does this only during the 90-sol checkout period.
+
+# The first part of the checkout period is a commissioning phase. In the first 16 sols of commissioning, Perseverance will:
+
+Deploy its mast and high-gain antenna
+
+Begin imaging the landing site
+
+Upgrade rover flight software
+
+Perform health checks on all instruments
+
+Perform "calisthenics," unstowing its arm and testing its movement
+
+Perform a short drive test
+
+Drop the belly pan under the rover, which protects the helicopter during landing
+
+The entire commissioning phase ends about 30 sols after landing, depending on how well the activities go.
+
+# Initial Checkout
+
+Around that time, Perseverance will need to find a flat area to serve as a helipad for the Ingenuity Mars Helicopter. The rover will deploy Ingenuity in the center of this area and drive a safe distance away from it. The helicopter's team will then have up to 30 sols to perform a series of flight tests on Mars as part of the technology demonstration of this press kit.
+
+# Surface Operations
+
+At the end of these experimental helicopter flights, Perseverance will begin its surface operations phase, when the team carries out its ambitious science mission: searching for signs of ancient microbial life, characterizing the climate and geology of Mars, and collecting carefully selected and documented samples for future return to Earth. More on Perseverance's science objectives is in the Science section of this press kit.
+
+There will be periods during its one-Martian-year-long mission when the rover's activities will be limited, such as the approximately 20-sol period in September 2021 when the Sun comes between Mars and Earth, interfering with transmissions between the two planets. To maximize the science being conducted in the time available, the mission team plans operations far ahead and builds in the flexibility to respond to new discoveries as scientists study the data.
+
+More information about the rover's driving capabilities is available in this story.

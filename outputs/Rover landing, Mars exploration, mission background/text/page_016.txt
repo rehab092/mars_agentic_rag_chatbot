@@ -1,0 +1,11 @@
+# 5 THINGS TO KNOW ABOUT THE MARS HELICOPTER INGENUITY
+
+1 The first test of powered flight on another planet.
+
+2 Built to be light and strong enough to stow away under the rover while on the way to Mars, and survive the harsh Martian environment after arrival. The helicopter weighs less than 4 pounds (1.8 kilograms).
+
+3 Powerful enough to lift off in the thin Mars atmosphere. The atmosphere of Mars is very thin: less than 1% the density of Earth's.
+
+4 The helicopter may fly for up to 90 seconds, to distances of almost 980 feet (300 meters) at a time and about 10 to 15 feet above the ground. That's no small feat compared to the first 12-second flight of the Wright Brothers' airplane.
+
+5 The helicopter flies on its own, without human control. It must take off, fly and land, with minimal commands from Earth sent in advance.

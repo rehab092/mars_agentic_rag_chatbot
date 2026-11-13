@@ -1,0 +1,12 @@
+The image displays a detailed cutaway diagram of the Perseverance rover, illustrating its internal structure and the placement of its various camera systems. The rover is depicted in a three-quarter view, showing the six wheels, suspension legs, and the main body. The diagram highlights specific camera instruments with orange lines pointing to their locations on the vehicle.
+
+Visible labels identify the following camera systems:
+- SuperCam (Remote Micro-Imager): Located on the mast at the front of the rover.
+- Mastcam-Z: Two units are visible on the mast.
+- Navcam: Two units are located on the mast.
+- SHERLOC (WATSON): A large instrument mounted on the right side of the rover body.
+- PIXL (Micro-Context Camera): Located on the right side, near the SHERLOC instrument.
+- Rear Hazcams: Two cameras located on the rear section of the rover.
+- Front Hazcams: Two cameras located on the front section of the rover.
+
+In the bottom right corner, a text block summarizes the camera inventory, stating a total of 23 cameras. It breaks this down into 9 engineering cameras, 7 science cameras, and 7 entry, descent and landing cameras. The diagram visually supports the presence of the engineering cameras (Hazcams) and science instruments (SuperCam, Mastcam-Z, SHERLOC, PIXL) on the operational rover.

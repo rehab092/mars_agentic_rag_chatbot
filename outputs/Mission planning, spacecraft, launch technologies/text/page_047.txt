@@ -1,0 +1,35 @@
+To fit in a fuselage just 0.45 feet by 0.54 feet by 0.64 feet (14 centimeters by 16 centimeters by 20 centimeters), onboard computers, batteries, sensors, heaters and telecommunications hardware also need to be very small.
+
+These components also had to be stress-tested to be sure they could survive the cold temperatures and radiation in deep space and on Mars.
+
+# Operate autonomously.
+
+Like the rover, the helicopter is too far from Earth to be operated with a joystick. So engineers will have to learn how to operate an aerial vehicle very remotely.
+
+The helicopter is designed to fly, land, communicate, manage its energy and keep warm autonomously.
+
+Innovative mathematical algorithms will optimize flight efficiency and survival.
+
+# Milestones
+
+Given the high-risk, high-reward nature of Ingenuity's mission, the team has many milestones that they need to hit on the road to success:
+
+Surviving launch, the cruise to Mars and landing on the Red Planet.
+
+Deploying safely to the Martian surface from the belly pan of the Perseverance rover and unfolding from its stowed position correctly.
+
+Autonomously keeping warm through the intensely cold Martian nights (as frigid as minus 130 degrees Fahrenheit, or minus 90 degrees Celsius).
+
+Autonomously charging with its solar panel.
+
+Confirming communications with the rover and flight operators on Earth.
+
+Spinning up its rotor blades for the first time (to a speed below what would be needed for flight).
+
+Lifting off for the first time in the thin Martian atmosphere.
+
+Flying autonomously.
+
+Landing successfully.
+
+If all those steps are successful, Ingenuity will attempt up to four additional test flights. All test flights will take place within a 30-Martian-day (31Earth-day) window of activities allowed for the helicopter, after which point the Perseverance rover will need to move on for its science operations.

@@ -1,0 +1,19 @@
+# MEDA (Mars Environmental Dynamics Analyzer)
+
+# Principal Investigator:
+
+Jose Rodriguez-Manfredi, Centro de Astrobiología, at the Instituto Nacional de Técnica Aeroespacial, Madrid, Spain
+
+MEDA is a set of sensors distributed over Perseverance's mast and body that measures wind speed and direction, air pressure, relative humidity, ambient temperature, and solar radiation. Solar radiation affects the surface environment and is important to understand more fully before sending humans to Mars. A skywardfacing camera, SkyCam measures how tiny airborne particles, or aerosols, such as dust and ice can affect sunlight reaching the surface.
+
+This set of sensors was built by an international team led by Spain's Centro de Astrobiología.
+
+# MEDA
+
+Measures how Martian weather changes within one day and across the seasons.
+
+Helps scientists understand how dust responds to environmental changes and when its properties change, or if it influences engineering systems and the interpretation of other instruments' observations.
+
+Through SkyCam, studies types and abundances of clouds.
+
+MEDA wind sensors on Perseverance's mast. Image credit: NASA/JPL-Caltech

@@ -1,0 +1,23 @@
+# Why Does This Mission Use an MMRTG?
+
+The Perseverance rover needs to operate extremely efficiently to accomplish its prime mission. An MMRTG allows the rover to work free of limitations associated with solar panels, such as the daily and seasonal variations of sunlight on Mars and the accumulation of fine Martian dust.
+
+The advantages of MMRTG power give Perseverance greater mobility over a range of lighting conditions at different latitudes and surface locations. It also provides engineers with valuable flexibility in operating the rover (e.g., communications, mobility or science throughout the day and night).
+
+Overall, the MMRTG enables the Perseverance team to maximize the operational capabilities of the rover and its science instruments.
+
+# How Reliable Is an MMRTG?
+
+Perseverance's power system is identical to the one that the Curiosity rover has been using successfully since its launch in 2011.
+
+The MMRTG is expected to operate for at least 14 years, significantly beyond Perseverance's prime mission duration (at least one Mars year, or about two Earth years).
+
+NASA has used similar radioisotope thermoelectric generators (RTGs) successfully for five decades, including on the Apollo missions to the Moon and the Viking missions to Mars. They have also been used on spacecraft that flew to the outer planets and Pluto, such as during the Pioneer, Voyager, Ulysses, Galileo, Cassini and New Horizons missions.
+
+# What has NASA done to ensure Perseverance and its MMRTG will launch safely?
+
+Like previous generations of this type of power system, Perseverance's MMRTG is built with several layers of protective material designed to contain its plutonium dioxide fuel in a range of potential accident conditions. The type of plutonium used in this kind of power system is different from the material used in weapons, and the system cannot explode like a bomb. For more details, NASA has provided this launch nuclear safety fact sheet.
+
+NASA prepares contingency response plans for every launch that it conducts. Ensuring the safety of launchsite workers and the public in the communities surrounding the launch area is the primary consideration in this planning.
+
+For more details on this contingency planning, NASA has provided this radiological contingency planning fact sheet.

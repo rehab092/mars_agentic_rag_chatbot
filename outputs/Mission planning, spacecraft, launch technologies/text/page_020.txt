@@ -1,0 +1,27 @@
+Number of samples able to be collected: At least 30
+
+Ingenuity flight test duration: Up to 30 Martian days (about 31 Earth days)
+
+# Mars
+
+Size: About half the size of Earth, but twice the size of Earth's Moon. As a desert planet, Mars has about the same amount of surface area as the dry land on Earth
+
+Mass: About 10% that of Earth
+
+Gravity: About 38% as strong as Earth's
+
+Orbit: Elliptical and about 1.5 times farther from the Sun than Earth is (about 141.5 million miles or 227.7 million kilometers from the Sun, on average)
+
+Year: 1 Mars year (1 revolution about the Sun) takes 687 Earth days
+
+Day: 1 Mars day (1 rotation) is 1.027 longer than an Earth day (24 hours, 39 minutes, 35 seconds)
+
+Atmosphere: About 1% the density of Earth's atmosphere at the surface
+
+Temperature: Surface temperature averages minus 64 Fahrenheit (minus 53 Celsius); varies from minus 199 Fahrenheit (minus 128 Celsius) during polar night to 80 Fahrenheit (27 Celsius) at equator during midday at closest point in orbit to Sun
+
+# Program
+
+NASA has invested approximately $2.4 billion to build and launch the Mars 2020 Perseverance mission. The estimate to land and operate the rover during tis prime mission is approximately $300 million.
+
+NASA has invested about $80 million to build the Ingenuity Mars Helicopter and about $5 million to operate the helicopter.

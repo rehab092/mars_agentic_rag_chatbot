@@ -1,0 +1,17 @@
+To meet these cleanliness standards, engineers assemble the rover and spacecraft in "clean rooms." This type of room has powerful air filters that limit dust particles, and its surfaces and floors are frequently treated with strong cleaning solutions to kill and remove living microbes. Mission hardware is cleaned using techniques that have proven effective on many previous missions and are designed not to damage the spacecraft. This includes wiping down the hardware with special sterile cloths and alcohol wipes, and heating durable parts to high temperatures (230 to 392 degrees Fahrenheit, or 110 to 200 degrees Celsius). The Mars 2020 Perseverance mission is also using innovative new cleaning methods. For example, technicians use hydrogen peroxide vapor to clean some parts of the Mars 2020 spacecraft that cannot be treated with other methods.
+
+At launch, the entire payload going to Mars (the Perseverance rover, the Ingenuity Mars Helicopter, and the cruise stage, aeroshell and descent stage) will carry fewer than 500,000 bacterial spores (dormant forms of bacteria). This is a tiny number as far as spores go and wouldn't even cover a typical
+
+# Avoiding Sensitive Areas
+
+Places on Mars where Earth organisms would be likely to replicate, or that could have a high potential for the existence of Martian life forms, are known as "special regions." These include regions on Mars that could have water ice or liquid water in some form within 16 feet (5 meters) of the surface.
+
+A key goal of Perseverance's mission is to seek signs of ancient microbial life, not current, or extant, life. The rover does not need to visit a special region, and its landing site - Jezero Crater - is not considered one.
+
+# Returned Sample Science
+
+Because one of the mission's key goals is to search for signs of ancient microbial life on Mars, scientists want to be confident that any signs of ancient life they might observe in samples returned to Earth are from Mars, not Earth. Perseverance's Sample Caching System is therefore the cleanest set of components humankind has ever launched into space.
+
+smartphone camera lens. Of this number, the parts of the Mars 2020 spacecraft intended to land on Mars - including the rover, the parachute and the descent stage - must have no more than 300,000 spores in total. The rover itself is allowed to have just 41,000 spores, spread out over the vehicle's entire surface area.
+
+Another way of making sure the mission avoids transporting unwanted Earth materials to Mars is to ensure that hardware that does not meet cleanliness standards does not go to Mars accidentally. Because only some portions of the Atlas V rocket ferrying the Mars 2020 Perseverance spacecraft into space can be cleaned as thoroughly as the spacecraft, the rocket will be initially pointed along a trajectory that does not intercept Mars. After the spacecraft separates from the launch vehicle's upper stage, Perseverance will be redirected toward landing on Mars. This technique, known as "trajectory biasing," is intended to ensure that the launch vehicle has less than a 1 in 10,000 chance of accidentally encountering Mars for 50 years after launch.

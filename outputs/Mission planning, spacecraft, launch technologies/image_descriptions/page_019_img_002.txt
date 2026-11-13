@@ -1,0 +1,9 @@
+The image displays a full-body view of a robotic rover situated on a rocky, barren landscape under a hazy, orange-tinted sky. The rover is a six-wheeled vehicle with a complex mechanical structure.
+
+The main body of the rover is a large, boxy chassis constructed from metallic panels. It features six large, treaded wheels arranged in three axles. The wheels have a distinct tread pattern designed for traction on loose regolith. A mast rises from the center of the chassis, supporting a camera assembly at its apex. This assembly includes a boxy sensor housing and a smaller, cylindrical component mounted on a gimbal mechanism.
+
+Extending from the right side of the chassis is a long, articulated robotic arm. The arm is composed of multiple segments and joints, ending in a complex instrument package. This package appears to contain a drill and a scoop, which are positioned near the ground. The arm is currently extended outward, hovering slightly above the surface.
+
+The environment surrounding the rover is a desert-like terrain covered in small rocks and pebbles. In the background, there are low-lying hills or dunes. The lighting suggests a low sun angle, casting long shadows from the rover and the arm onto the ground. The overall color palette is dominated by shades of brown, tan, and grey.
+
+There are no visible labels, numbers, or text on the rover itself within the image. The image serves to illustrate the physical appearance and configuration of the surface exploration vehicle, specifically highlighting its mobility system, the camera mast, and the robotic arm with its drilling and scooping tools.

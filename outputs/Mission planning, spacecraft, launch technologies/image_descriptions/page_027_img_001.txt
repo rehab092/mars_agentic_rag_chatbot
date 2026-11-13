@@ -1,0 +1,5 @@
+The image displays a topographical map of a section of Mars, characterized by a textured, cratered surface with varying shades of gray and blue indicating elevation changes. The terrain features numerous small impact craters scattered across the landscape.
+
+Superimposed on the map are graphical overlays illustrating landing zones. A large, light blue ellipse outlines a proposed landing area with dimensions of 25 by 20 kilometers. Nested within this larger area is a smaller, orange ellipse representing a Range Trigger ellipse with a diameter of approximately 10 kilometers. A white cross symbol marks the primary region of interest, which is located inside the smaller orange ellipse.
+
+A scale bar in the bottom right corner indicates distances in kilometers, with markings for 0 and 10. Text at the bottom left identifies the technique as "Range Trigger" and notes that the landing region shown is an example from Curiosity's landing. A legend in the bottom right corner defines the symbols: the light blue line for the proposed landing ellipse, the orange line for the Range Trigger ellipse, and the white cross for the primary region of interest.

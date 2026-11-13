@@ -1,0 +1,17 @@
+# Mars 2020 Perseverance mission major components
+
+Perseverance rover, cruise stage (to fly to Mars), aeroshell (includes the back shell and heat shield to protect the rover as it descends toward the surface) and descent stage (which performs the sky crane maneuver to lower the rover to the surface)
+
+# Perseverance Rover
+
+Mass: About 2,260 pounds (1,025 kilograms), including a robotic arm with a 99-pound (45-kilogram) turret at the end
+
+Dimensions: About 10 feet long (not including the arm), 9 feet wide and 7 feet tall (about 3 meters long, 2.7 meters wide and 2.2 meters tall), with a robotic arm that is about 7 feet (2.1 meters) long
+
+Payload Instruments: 130 pounds (59 kilograms) for seven instruments: Mastcam-Z, Mars Environmental Dynamics Analyzer (MEDA), Mars Oxygen In-Situ Resource Utilization Experiment (MOXIE), Planetary Instrument for X-ray Lithochemistry (PIXL), Radar Imager for Mars' Subsurface Experiment (RIMFAX), Scanning Habitable Environments with Raman & Luminescence for Organics & Chemicals (SHERLOC) and SuperCam
+
+Sample Caching System: 1 bit carousel with 9 drill bits for sample acquisition and surface analysis, 1 1.6foot-long (0.5-meters-long) internal sample handling arm and 43 sample collection tubes, including 5 "witness" tubes
+
+Power: Multi-Mission Radioisotope Thermoelectric Generator (MMRTG) provided by the U.S. Department of Energy that uses the natural decay of plutonium-238 to generate a steady flow of about 110 watts of electricity. Two lithium-ion rechargeable batteries are available to meet peak demands of rover activities when the demand temporarily exceeds the MMRTG's electrical output levels.
+
+Microphones: 1 on SuperCam and 1 on the side of the rover for public engagement and later entry, descent and landing analysis

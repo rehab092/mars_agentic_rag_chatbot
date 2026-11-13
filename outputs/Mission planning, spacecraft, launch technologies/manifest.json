@@ -1,0 +1,1577 @@
+{
+  "source_pdf": "Mission planning, spacecraft, launch technologies.pdf",
+  "document_id": "Mission planning, spacecraft, launch technologies",
+  "extraction_engine": "docling",
+  "pages": [
+    {
+      "page_number": 1,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_001.txt",
+      "character_count": 79,
+      "images": [
+        {
+          "filename": "page_001_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_001_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            611.9999389648438,
+            589.4749755859375
+          ],
+          "sha256": "4b83ed3a364ad0c25c8b6ab5dbb85ae342140011fc20e859eeb368d4b5c13a23"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_002.txt",
+      "character_count": 298,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_003.txt",
+      "character_count": 2203,
+      "images": [
+        {
+          "filename": "page_003_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_003_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            611.5,
+            212.25
+          ],
+          "sha256": "0d174ebe114c9e0e4e447645a87bd30bfc7c5fa8adb65865cce82300f09ab9ed"
+        },
+        {
+          "filename": "page_003_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_003_img_002.jpeg",
+          "bbox": [
+            50.96484375,
+            607.9267578125,
+            297.21484375,
+            747.1767578125
+          ],
+          "sha256": "fa1a12df96c2e927c10c0668429c1023105e54ce54eaca09a47f160c5d913b24"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_004.txt",
+      "character_count": 2068,
+      "images": [
+        {
+          "filename": "page_004_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_004_img_001.jpeg",
+          "bbox": [
+            51.5751953125,
+            207.400390625,
+            298.0751953125,
+            348.4003601074219
+          ],
+          "sha256": "7fd991a61ca106c92d720d3ee38fc160f4a202ea66442efc812d6f90177d07fe"
+        },
+        {
+          "filename": "page_004_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_004_img_002.jpeg",
+          "bbox": [
+            51.150390625,
+            604.775390625,
+            297.650390625,
+            743.96240234375
+          ],
+          "sha256": "d4b177a269d519f59a4967f70559557ed3123f9d150ebc68779bc917b9cca8d9"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_005.txt",
+      "character_count": 1920,
+      "images": [
+        {
+          "filename": "page_005_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_005_img_001.jpeg",
+          "bbox": [
+            51.5751953125,
+            169.5751953125,
+            298.0751953125,
+            310.5751647949219
+          ],
+          "sha256": "468e5bdf26bb354bed4a080c86f7c003389046fa25ea085f3efae8908affc0fd"
+        },
+        {
+          "filename": "page_005_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_005_img_002.jpeg",
+          "bbox": [
+            51.150390625,
+            426.7001953125,
+            297.650390625,
+            567.7001953125
+          ],
+          "sha256": "5c1e26818e283c1d4edcd7b774ad8202dd877640815c7b7f537192b909eee892"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_006.txt",
+      "character_count": 2139,
+      "images": [
+        {
+          "filename": "page_006_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_006_img_001.jpeg",
+          "bbox": [
+            51.5751953125,
+            116.025390625,
+            298.0751953125,
+            257.0253601074219
+          ],
+          "sha256": "c15a873b26a4046e7a827888710c250f29edd19ced51abc036c1b0cfb9c0dfd7"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_007.txt",
+      "character_count": 2517,
+      "images": [
+        {
+          "filename": "page_007_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_007_img_001.jpeg",
+          "bbox": [
+            49.265625,
+            45.443359375,
+            295.515625,
+            186.443359375
+          ],
+          "sha256": "80602d3bfb875a1940c60ce9ca88be3b3cc8c0761e6e49a05b1da3a6a8e6f319"
+        },
+        {
+          "filename": "page_007_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_007_img_002.jpeg",
+          "bbox": [
+            50.96484375,
+            532.580078125,
+            129.9598388671875,
+            584.330078125
+          ],
+          "sha256": "5bc483427e9bbd47382ea87b0911081bbef69feea5670ada3a464513252dc70a"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_008.txt",
+      "character_count": 2073,
+      "images": [
+        {
+          "filename": "page_008_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_008_img_001.jpeg",
+          "bbox": [
+            51.0,
+            127.5,
+            130.0,
+            179.24998474121094
+          ],
+          "sha256": "803573acdb68118f97c2468c8103b7ec8b40cd8bb194e78072804657b9008cfc"
+        },
+        {
+          "filename": "page_008_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_008_img_002.jpeg",
+          "bbox": [
+            51.0,
+            576.2998046875,
+            130.0,
+            628.0498046875
+          ],
+          "sha256": "86ce9d164b9f35d058a0f03bcfe05a92b28a9cbcb0febf04c21e9fe90b8b5f35"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_009.txt",
+      "character_count": 2450,
+      "images": [
+        {
+          "filename": "page_009_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_009_img_001.jpeg",
+          "bbox": [
+            51.0,
+            222.27542114257812,
+            130.0,
+            274.0254211425781
+          ],
+          "sha256": "7c5f704368981f685d03738de583b54b266fd8234497c9b3517aa1733cea838d"
+        },
+        {
+          "filename": "page_009_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_009_img_002.jpeg",
+          "bbox": [
+            51.0,
+            504.90045166015625,
+            130.0,
+            556.6504516601562
+          ],
+          "sha256": "ac0dd7c9c4e34f0d3af83be348b19ac022d435fb71814cdb4a5352c72c9078a4"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_010.txt",
+      "character_count": 740,
+      "images": [
+        {
+          "filename": "page_010_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_010_img_001.jpeg",
+          "bbox": [
+            51.0,
+            51.0,
+            130.0,
+            102.74998474121094
+          ],
+          "sha256": "465ba665cbcce6fa6e7cc88245abc52fe14793a9fe0e4a9ff4ceec745f098d1f"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_011.txt",
+      "character_count": 909,
+      "images": [
+        {
+          "filename": "page_011_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_011_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            611.9999389648438,
+            212.49998474121094
+          ],
+          "sha256": "1472f55c42fa46ca76359de796dd7396f8698ab2a4f96d51c018cd519576f790"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_012.txt",
+      "character_count": 1497,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_013.txt",
+      "character_count": 1665,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_014.txt",
+      "character_count": 2287,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_015.txt",
+      "character_count": 2041,
+      "images": [
+        {
+          "filename": "page_015_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_015_img_001.jpeg",
+          "bbox": [
+            51.0,
+            366.775390625,
+            297.5,
+            523.6973876953125
+          ],
+          "sha256": "259bba81190ebc177b7676c9953ad1680054a7a695cd187dd4a3d62b5e020589"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_016.txt",
+      "character_count": 340,
+      "images": [
+        {
+          "filename": "page_016_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_016_img_001.jpeg",
+          "bbox": [
+            0.0,
+            491.7246398925781,
+            611.9999389648438,
+            792.0
+          ],
+          "sha256": "1fd43985222295c75e9f6302dbedd96050d33052c6d8d57b8dfd4d85a7c9621f"
+        },
+        {
+          "filename": "page_016_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_016_img_002.jpeg",
+          "bbox": [
+            395.25,
+            277.5254211425781,
+            556.75,
+            356.7754211425781
+          ],
+          "sha256": "44ad10fd70d5e58650400bdebb5205cf9960712cff1347e07632a4ac216a9e0e"
+        },
+        {
+          "filename": "page_016_img_003.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_016_img_003.jpeg",
+          "bbox": [
+            55.25,
+            277.5254211425781,
+            216.74998474121094,
+            359.0254211425781
+          ],
+          "sha256": "b1e10f5613e8d1de9c1affd2b2a3b6e6cbbca860daf0c02c288faca050772c25"
+        },
+        {
+          "filename": "page_016_img_004.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_016_img_004.jpeg",
+          "bbox": [
+            225.25,
+            277.5254211425781,
+            386.75,
+            356.7754211425781
+          ],
+          "sha256": "167874f6253a1754805dc69fe15bc070d9aa5014bf5984e2c6bcaf345688a1a7"
+        },
+        {
+          "filename": "page_016_img_005.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_016_img_005.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            611.9999389648438,
+            212.49998474121094
+          ],
+          "sha256": "868caa9be34d9564b600c1f932240bce80cc8e67ba9ccc53071451d73469c3a3"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_017.txt",
+      "character_count": 1780,
+      "images": [
+        {
+          "filename": "page_017_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_017_img_001.jpeg",
+          "bbox": [
+            395.25,
+            306.0,
+            561.4249877929688,
+            428.75
+          ],
+          "sha256": "c37f70cf182cb024cf6a0b6f13e4757434dc67e9e625d3e7ecce954fdc6bf166"
+        },
+        {
+          "filename": "page_017_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_017_img_002.jpeg",
+          "bbox": [
+            51.4248046875,
+            50.5751953125,
+            216.67478942871094,
+            265.2001953125
+          ],
+          "sha256": "284a0564c3c03fedf00517462b9d3c112d75849c4abb325a4ba0211af77c0f54"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_018.txt",
+      "character_count": 1385,
+      "images": [
+        {
+          "filename": "page_018_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_018_img_001.jpeg",
+          "bbox": [
+            51.4248046875,
+            75.650390625,
+            386.6747741699219,
+            264.5633850097656
+          ],
+          "sha256": "be8d67dbb2c983eea7b0d74a14e6721ac51da91a963ec56d23d45889cfd5c4f4"
+        },
+        {
+          "filename": "page_018_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_018_img_002.jpeg",
+          "bbox": [
+            314.9248046875,
+            504.474609375,
+            561.4248046875,
+            647.224609375
+          ],
+          "sha256": "f39a4bdf025b164fee2a7b1e6d960f48fb8176830f65df4264c6f47176af18e2"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_019.txt",
+      "character_count": 1370,
+      "images": [
+        {
+          "filename": "page_019_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_019_img_001.jpeg",
+          "bbox": [
+            51.4248046875,
+            49.2998046875,
+            297.9248046875,
+            225.2498016357422
+          ],
+          "sha256": "6d1e5710fdffdeb8f1adf857fdb1e4572c60c99efeab21fd112769e4764e6ccb"
+        },
+        {
+          "filename": "page_019_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_019_img_002.jpeg",
+          "bbox": [
+            314.9248046875,
+            588.2001953125,
+            561.4248046875,
+            726.9501953125
+          ],
+          "sha256": "352632066185dc91858d2990e42aeedad25704bebf610f38ae9dca240c9f08e8"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_020.txt",
+      "character_count": 1346,
+      "images": [
+        {
+          "filename": "page_020_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_020_img_001.jpeg",
+          "bbox": [
+            51.4248046875,
+            218.0,
+            216.6748046875,
+            383.25
+          ],
+          "sha256": "b350e50e710ac66f6955cc2f4d39248950d9d98f34c55747c7c10af250ba9e23"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_021.txt",
+      "character_count": 1311,
+      "images": [
+        {
+          "filename": "page_021_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_021_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            611.9999389648438,
+            212.49998474121094
+          ],
+          "sha256": "2f94aeb4d1069cd30ecd21b370cb8c6b9ec52352e722938ffa3fbe3d3cec9d01"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 22,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_022.txt",
+      "character_count": 2045,
+      "images": [
+        {
+          "filename": "page_022_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_022_img_001.jpeg",
+          "bbox": [
+            51.4248046875,
+            101.5751953125,
+            386.6747741699219,
+            325.0751647949219
+          ],
+          "sha256": "04f9719fac2aac89d75e6ad9a7c48d9d01456a182aea5f74699ffa22c6c94342"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 23,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_023.txt",
+      "character_count": 1699,
+      "images": [
+        {
+          "filename": "page_023_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_023_img_001.jpeg",
+          "bbox": [
+            314.9248046875,
+            72.6748046875,
+            561.6368408203125,
+            442.4247741699219
+          ],
+          "sha256": "969d95c737f8a9ac52dd79419db7a7da17f24b07051a386005ab122be9176167"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 24,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_024.txt",
+      "character_count": 121,
+      "images": [
+        {
+          "filename": "page_024_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_024_img_001.jpeg",
+          "bbox": [
+            51.0,
+            37.400390625,
+            561.0,
+            722.9003295898438
+          ],
+          "sha256": "9a399cce64426c8afdc556bb9c0e1397b6850dc94af7650594725419a860b378"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 25,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_025.txt",
+      "character_count": 2643,
+      "images": [
+        {
+          "filename": "page_025_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_025_img_001.jpeg",
+          "bbox": [
+            51.4248046875,
+            574.599609375,
+            297.9248046875,
+            713.349609375
+          ],
+          "sha256": "428672a2eedb96ae9e9578443dd07c2ab6f981423416a70f9f051e4a7b96e071"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 26,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_026.txt",
+      "character_count": 0,
+      "images": [
+        {
+          "filename": "page_026_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_026_img_001.jpeg",
+          "bbox": [
+            28.900390625,
+            400.3496398925781,
+            583.1004028320312,
+            765.599609375
+          ],
+          "sha256": "64357d8c739643e15f29d295e9b9959777cc190a8f1e635821c2042272bfa4ab"
+        },
+        {
+          "filename": "page_026_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_026_img_002.jpeg",
+          "bbox": [
+            28.900390625,
+            26.349609375,
+            583.1004028320312,
+            391.5995788574219
+          ],
+          "sha256": "d5aef95871bd72057e75edf716a30d5aa11d3022c9e78ae18d179dd1ed7e2859"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 27,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_027.txt",
+      "character_count": 2403,
+      "images": [
+        {
+          "filename": "page_027_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_027_img_001.jpeg",
+          "bbox": [
+            59.5,
+            342.974609375,
+            306.0,
+            527.974609375
+          ],
+          "sha256": "ffaee4deab8497223e300c067f3a9dcc0ff1d931bcb21ee93d526882366a68ac"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 28,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_028.txt",
+      "character_count": 1912,
+      "images": [
+        {
+          "filename": "page_028_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_028_img_001.jpeg",
+          "bbox": [
+            59.9248046875,
+            50.14990234375,
+            297.9248046875,
+            184.14988708496094
+          ],
+          "sha256": "8d4e67f9ed41d2a4ca28ddb139da870a9d502796b87b259a28e099d9d4bf33b1"
+        },
+        {
+          "filename": "page_028_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_028_img_002.jpeg",
+          "bbox": [
+            314.9248046875,
+            437.75,
+            561.4248046875,
+            576.25
+          ],
+          "sha256": "2049aaa045c539fa9bfab5e5766f119ae0a90371c15dd924ede7fc60a4bd8430"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 29,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_029.txt",
+      "character_count": 2849,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 30,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_030.txt",
+      "character_count": 2026,
+      "images": [
+        {
+          "filename": "page_030_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_030_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            611.9999389648438,
+            212.49998474121094
+          ],
+          "sha256": "89e2e3f0a2258e038606c01bbec588989b9b81a3671de8e1e272cc86c5eaa658"
+        },
+        {
+          "filename": "page_030_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_030_img_002.jpeg",
+          "bbox": [
+            51.4248046875,
+            368.0498046875,
+            297.9248046875,
+            521.4747924804688
+          ],
+          "sha256": "e72b5ae63bd27607c452c4358c0fc8c48c1406b8679452e3b6d202b123a7c4ec"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 31,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_031.txt",
+      "character_count": 2119,
+      "images": [
+        {
+          "filename": "page_031_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_031_img_001.jpeg",
+          "bbox": [
+            315.775390625,
+            42.0751953125,
+            562.275390625,
+            180.57518005371094
+          ],
+          "sha256": "1e555438239a4dda1d2023be2c0ace3d6a7f071c5fa91bba4c4904b81c5f368b"
+        },
+        {
+          "filename": "page_031_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_031_img_002.jpeg",
+          "bbox": [
+            51.4248046875,
+            268.17486572265625,
+            297.9248046875,
+            432.6498107910156
+          ],
+          "sha256": "4003845d2af1731a28938516a7e5c60947f6b66f017f85ca440b6be20561bbe4"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 32,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_032.txt",
+      "character_count": 2456,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 33,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_033.txt",
+      "character_count": 1616,
+      "images": [
+        {
+          "filename": "page_033_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_033_img_001.jpeg",
+          "bbox": [
+            51.4248046875,
+            89.25,
+            386.6747741699219,
+            283.8999938964844
+          ],
+          "sha256": "295189168d0d4320c7d316d3a767c9838cc709a980513542f6ab490107d2af34"
+        },
+        {
+          "filename": "page_033_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_033_img_002.jpeg",
+          "bbox": [
+            314.9248046875,
+            456.45025634765625,
+            561.4248046875,
+            640.4502563476562
+          ],
+          "sha256": "a37c6fdf435bcc973f76cdf90655950cb66a56a537dd9944bd56b927da6e6ac9"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 34,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_034.txt",
+      "character_count": 1875,
+      "images": [
+        {
+          "filename": "page_034_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_034_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            612.0,
+            212.5
+          ],
+          "sha256": "116c72419fd769a3f1b5382080819b8e244a60e3ad62e5134fca1e0b5698226f"
+        },
+        {
+          "filename": "page_034_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_034_img_002.jpeg",
+          "bbox": [
+            51.4248046875,
+            582.25,
+            297.9248046875,
+            744.5
+          ],
+          "sha256": "cf04ba66aad12d956785330041202b4ffd486278f7baf2c6503865fae5a7cc3f"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 35,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_035.txt",
+      "character_count": 2163,
+      "images": [
+        {
+          "filename": "page_035_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_035_img_001.jpeg",
+          "bbox": [
+            395.25,
+            506.599609375,
+            560.5,
+            754.349609375
+          ],
+          "sha256": "a801fe6e83a46c0f9292fcdc78edf16b04f8634159fe2d01b68b69f552c0d4d8"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 36,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_036.txt",
+      "character_count": 1490,
+      "images": [
+        {
+          "filename": "page_036_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_036_img_001.jpeg",
+          "bbox": [
+            60.349609375,
+            128.3505859375,
+            298.349609375,
+            286.8505554199219
+          ],
+          "sha256": "3592b6ca9dac192c88e6b7474e66548c9b2d170e0ecb8693ea93425e5fa79902"
+        },
+        {
+          "filename": "page_036_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_036_img_002.jpeg",
+          "bbox": [
+            225.25,
+            431.375,
+            552.0,
+            670.125
+          ],
+          "sha256": "67f2e2ceb293357fbefd1083745fc733e472d606429670a264567769fa54097b"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 37,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_037.txt",
+      "character_count": 858,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 38,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_038.txt",
+      "character_count": 1394,
+      "images": [
+        {
+          "filename": "page_038_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_038_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            611.9999389648438,
+            212.49998474121094
+          ],
+          "sha256": "aff93998c3df5fea391b8aa7545a8bbcdd3732648f89051793bc6924a8377e68"
+        },
+        {
+          "filename": "page_038_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_038_img_002.jpeg",
+          "bbox": [
+            51.0,
+            289.0,
+            297.5,
+            419.8999938964844
+          ],
+          "sha256": "b5af697c30c1dff2694dc5372a304e589a5a0f5cc2fb6603f69ff20731d419a8"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 39,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_039.txt",
+      "character_count": 2299,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 40,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_040.txt",
+      "character_count": 1118,
+      "images": [
+        {
+          "filename": "page_040_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_040_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            611.9999389648438,
+            212.49998474121094
+          ],
+          "sha256": "0aea47ba989f1f21ce631347e6c004f6fd84ce94f412b0bf1851449ba7d8441b"
+        },
+        {
+          "filename": "page_040_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_040_img_002.jpeg",
+          "bbox": [
+            51.0,
+            321.724609375,
+            386.2499694824219,
+            566.474609375
+          ],
+          "sha256": "c5b24bc99afd3988d56fdbb40d0fb725cd05d3cdebbd3e9ccd0845df04f3f7f0"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 41,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_041.txt",
+      "character_count": 2884,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 42,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_042.txt",
+      "character_count": 1357,
+      "images": [
+        {
+          "filename": "page_042_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_042_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            611.9999389648438,
+            212.49998474121094
+          ],
+          "sha256": "5d5c747a6127580ea21ebaa08ca8db621c9f7b35cfbe4baf18428a53b5a6b9c7"
+        },
+        {
+          "filename": "page_042_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_042_img_002.jpeg",
+          "bbox": [
+            314.9248046875,
+            423.724609375,
+            560.5748291015625,
+            586.474609375
+          ],
+          "sha256": "f6ac1a319d13d0552a4a8036dcde2c19b6c8a592cf04b7c611b05c57ce24ebf8"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 43,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_043.txt",
+      "character_count": 3169,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 44,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_044.txt",
+      "character_count": 1983,
+      "images": [
+        {
+          "filename": "page_044_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_044_img_001.jpeg",
+          "bbox": [
+            314.9248046875,
+            105.544921875,
+            561.4248046875,
+            414.04486083984375
+          ],
+          "sha256": "4184e2e65eb8e18a34147f41cbf3bb674c124b71f431ba3c9ea20d0375a6d4ac"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 45,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_045.txt",
+      "character_count": 1210,
+      "images": [
+        {
+          "filename": "page_045_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_045_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            611.9999389648438,
+            212.49998474121094
+          ],
+          "sha256": "3414df8d039b97e161c6412e08f0dcd3326552f3f6d0ee51e15e9040b4fb7af0"
+        },
+        {
+          "filename": "page_045_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_045_img_002.jpeg",
+          "bbox": [
+            314.9248046875,
+            483.65045166015625,
+            561.4248046875,
+            648.5504150390625
+          ],
+          "sha256": "2bffd62d7f567fadebe24cbf2019aa49f3c50603d76512a0c5370b5669ecd32d"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 46,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_046.txt",
+      "character_count": 2166,
+      "images": [
+        {
+          "filename": "page_046_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_046_img_001.jpeg",
+          "bbox": [
+            314.9248046875,
+            55.25,
+            561.4248046875,
+            194.22500610351562
+          ],
+          "sha256": "676f5e5b8f8bc70fc9e24fee16a1f00664d69a016a01209ecec318595520b619"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 47,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_047.txt",
+      "character_count": 1871,
+      "images": [
+        {
+          "filename": "page_047_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_047_img_001.jpeg",
+          "bbox": [
+            59.9248046875,
+            337.0244140625,
+            297.9248046875,
+            495.97442626953125
+          ],
+          "sha256": "7ce6ce83e30329e7a02f43c0e0251f77260a9ee146dfb049551420a2a0c1a7b8"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 48,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_048.txt",
+      "character_count": 799,
+      "images": [
+        {
+          "filename": "page_048_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_048_img_001.jpeg",
+          "bbox": [
+            314.9248046875,
+            75.224609375,
+            552.9248046875,
+            233.72457885742188
+          ],
+          "sha256": "aef14a1cb0c310c17cd85529c31cc0bbbec82e049ab0ca01ec92bf8ae9176f1f"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 49,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_049.txt",
+      "character_count": 1635,
+      "images": [
+        {
+          "filename": "page_049_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_049_img_001.jpeg",
+          "bbox": [
+            51.4248046875,
+            304.2998046875,
+            297.9248046875,
+            443.1775817871094
+          ],
+          "sha256": "8172433b293de63b248f6cc2c4bb5451c1f03f96c3630d00963bf4483d1918a5"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 50,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_050.txt",
+      "character_count": 1720,
+      "images": [
+        {
+          "filename": "page_050_img_001.png",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_050_img_001.png",
+          "bbox": [
+            51.4248046875,
+            136.849609375,
+            128.77481079101562,
+            201.02459716796875
+          ],
+          "sha256": "2f2cf6092b1b40e27ed61459f908d3a65e7f0a12cd428f93abb0afe772e19511"
+        },
+        {
+          "filename": "page_050_img_002.png",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_050_img_002.png",
+          "bbox": [
+            51.4248046875,
+            219.724609375,
+            128.77481079101562,
+            284.3246154785156
+          ],
+          "sha256": "408d2d8215b83c658d3972029437139dae90c60dd81f17935a3e44a2b7c52b7c"
+        },
+        {
+          "filename": "page_050_img_003.png",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_050_img_003.png",
+          "bbox": [
+            314.9248046875,
+            136.84950256347656,
+            392.2747497558594,
+            134.49960327148438
+          ],
+          "sha256": "d6cb26dcd25d01d64d54ce6673bd94fd433b2630c5c0864a124a4c8146eecaa3"
+        },
+        {
+          "filename": "page_050_img_004.png",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_050_img_004.png",
+          "bbox": [
+            314.9248046875,
+            219.72450256347656,
+            392.2747497558594,
+            217.42343139648438
+          ],
+          "sha256": "bb4cf186ba2103dc47e88314118a74564d1b9e98b207a22f72a994d32b5d4f5e"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 51,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_051.txt",
+      "character_count": 1306,
+      "images": [
+        {
+          "filename": "page_051_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_051_img_001.jpeg",
+          "bbox": [
+            225.25,
+            102.4248046875,
+            561.4249877929688,
+            284.6748046875
+          ],
+          "sha256": "2f03d0999141cb8fe24ba0f5dc26554a0d791442eebeaf1c295a1f34cc472131"
+        },
+        {
+          "filename": "page_051_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_051_img_002.jpeg",
+          "bbox": [
+            51.4248046875,
+            413.525390625,
+            297.9248046875,
+            548.7772827148438
+          ],
+          "sha256": "3a1fcf8a6562a6fc59dd7741d21a7c8a250422836fbb93079cd7afb978f5a90c"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 52,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_052.txt",
+      "character_count": 2070,
+      "images": [
+        {
+          "filename": "page_052_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_052_img_001.jpeg",
+          "bbox": [
+            51.4248046875,
+            77.349609375,
+            297.9248046875,
+            241.68260192871094
+          ],
+          "sha256": "9ce0ad2498ad927da87ae0dbece63b89df60d470ec45b13044dfb27d2353a3fb"
+        },
+        {
+          "filename": "page_052_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_052_img_002.jpeg",
+          "bbox": [
+            51.4248046875,
+            519.349609375,
+            297.9248046875,
+            704.4554443359375
+          ],
+          "sha256": "a33b6375bb9f38489ca6d75c5b9733c888f46b645a2eaed2bd7f75197169dd83"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 53,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_053.txt",
+      "character_count": 1425,
+      "images": [
+        {
+          "filename": "page_053_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_053_img_001.jpeg",
+          "bbox": [
+            51.4248046875,
+            240.54981994628906,
+            297.92474365234375,
+            374.42474365234375
+          ],
+          "sha256": "57b1d791453f3eda41e573dc23d0c7ade5af0ef0bc27d5bfd6f9c30d525acb82"
+        },
+        {
+          "filename": "page_053_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_053_img_002.jpeg",
+          "bbox": [
+            51.4248046875,
+            601.375,
+            298.34979248046875,
+            740.5590209960938
+          ],
+          "sha256": "bfb2694ae835af1451f7e8f00580d5ee88b228043e5bc095fce8a5052f84e879"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 54,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_054.txt",
+      "character_count": 1531,
+      "images": [
+        {
+          "filename": "page_054_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_054_img_001.jpeg",
+          "bbox": [
+            51.4248046875,
+            260.5254211425781,
+            297.9248046875,
+            399.4701843261719
+          ],
+          "sha256": "fa1ba6a52d547dca43929697b5d021b739e0b5f87355051cdf206dd388564513"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 55,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_055.txt",
+      "character_count": 2000,
+      "images": [
+        {
+          "filename": "page_055_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_055_img_001.jpeg",
+          "bbox": [
+            51.4248046875,
+            70.974609375,
+            297.9248046875,
+            235.76951599121094
+          ],
+          "sha256": "2486065f8ac00daf4564ee4d67f412bea54471e17c2505483ac2beeac59ba7f4"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 56,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_056.txt",
+      "character_count": 1359,
+      "images": [
+        {
+          "filename": "page_056_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_056_img_001.jpeg",
+          "bbox": [
+            51.4248046875,
+            304.2998046875,
+            386.74981689453125,
+            471.9623107910156
+          ],
+          "sha256": "66b6b864e559803febb02d43d54614c70cc185fbafc0dc607a277d72adfbc2eb"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 57,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_057.txt",
+      "character_count": 102,
+      "images": [
+        {
+          "filename": "page_057_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_057_img_001.jpeg",
+          "bbox": [
+            138.5498046875,
+            188.70022583007812,
+            474.10333251953125,
+            421.1752014160156
+          ],
+          "sha256": "c930dffedeea19846726fdab4f7b6f93635f3ee23e376cc4356b7c9a2cd75ed6"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 58,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_058.txt",
+      "character_count": 1595,
+      "images": [
+        {
+          "filename": "page_058_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_058_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            611.9999389648438,
+            212.49998474121094
+          ],
+          "sha256": "bbc625fe638e2872eff2144969870819b384807e5cce4bfa09c86f8cac6118b9"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 59,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_059.txt",
+      "character_count": 385,
+      "images": [
+        {
+          "filename": "page_059_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_059_img_001.jpeg",
+          "bbox": [
+            0.0,
+            0.0,
+            611.9999389648438,
+            212.49998474121094
+          ],
+          "sha256": "6c82f62676ac7b8f2e87c7e5c5c7aff28f0108633ab368cf2fba36b9c06a0450"
+        },
+        {
+          "filename": "page_059_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_059_img_002.jpeg",
+          "bbox": [
+            51.425048828125,
+            367.625,
+            212.925048828125,
+            458.52392578125
+          ],
+          "sha256": "9b55655ac3ed1f794a5fa98ad7dfd525aca7f964ac77ba77507fc2d7316f804d"
+        },
+        {
+          "filename": "page_059_img_003.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_059_img_003.jpeg",
+          "bbox": [
+            225.25,
+            367.625,
+            386.75,
+            458.52392578125
+          ],
+          "sha256": "4d72df162317713505e86327108dce193c2f8ac0fd533f30f4395e850387ad43"
+        },
+        {
+          "filename": "page_059_img_004.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_059_img_004.jpeg",
+          "bbox": [
+            399.925048828125,
+            367.625,
+            561.425048828125,
+            458.52392578125
+          ],
+          "sha256": "9f24ef32bf127a6356e8511c63f170c5089608832ae794ea07f1f5c0ea29a4ae"
+        },
+        {
+          "filename": "page_059_img_005.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_059_img_005.jpeg",
+          "bbox": [
+            51.425048828125,
+            533.375,
+            212.925048828125,
+            624.2738647460938
+          ],
+          "sha256": "8dcab73e38e3a187f38fed5df4e15afc6334bdea705cb7687074df7ecac44ba5"
+        },
+        {
+          "filename": "page_059_img_006.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_059_img_006.jpeg",
+          "bbox": [
+            225.25,
+            533.375,
+            386.75,
+            624.2738647460938
+          ],
+          "sha256": "1f097dfcfe45d5614fc74fc75f0b2f5f62bbe84d78f51214ca40c84104d091f9"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 60,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_060.txt",
+      "character_count": 946,
+      "images": [
+        {
+          "filename": "page_060_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_060_img_001.jpeg",
+          "bbox": [
+            184.0,
+            74.87501525878906,
+            295.7749938964844,
+            136.5
+          ],
+          "sha256": "0f2d00d431ca4b956e1601be0fa8522e40d0fed90e33e6d889f4a7f651e3189d"
+        },
+        {
+          "filename": "page_060_img_002.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_060_img_002.jpeg",
+          "bbox": [
+            315.60009765625,
+            74.87501525878906,
+            427.3750915527344,
+            136.5
+          ],
+          "sha256": "7a7112d405b207ae49fe0e2ae5da9754f2f04655f19fd6ff0e2f789639419077"
+        },
+        {
+          "filename": "page_060_img_003.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_060_img_003.jpeg",
+          "bbox": [
+            448.625,
+            74.87501525878906,
+            560.4000244140625,
+            136.5
+          ],
+          "sha256": "051dc98310a6d63f882c3a5e645abb7259ea4993e85b6f373b5b782268f2e774"
+        },
+        {
+          "filename": "page_060_img_004.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_060_img_004.jpeg",
+          "bbox": [
+            50.22509765625,
+            242.875,
+            162.00009155273438,
+            304.5
+          ],
+          "sha256": "7a9a5c648bed48bab558db67e863b5e482b4f0a174bfc1a4a6ad105d018a49ba"
+        },
+        {
+          "filename": "page_060_img_005.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_060_img_005.jpeg",
+          "bbox": [
+            183.425048828125,
+            242.3251953125,
+            295.2000427246094,
+            303.9501953125
+          ],
+          "sha256": "af43b4e980c961c1c595fc40d824082e42213e7ae584ff617ccfc86fc4d860ea"
+        },
+        {
+          "filename": "page_060_img_006.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_060_img_006.jpeg",
+          "bbox": [
+            316.02490234375,
+            242.3251953125,
+            427.7998962402344,
+            303.9501953125
+          ],
+          "sha256": "57b9b1dd43a033dbf9082acf2080da7b55ef6641041db979213aeed1eb6e5ea6"
+        },
+        {
+          "filename": "page_060_img_007.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_060_img_007.jpeg",
+          "bbox": [
+            449.050048828125,
+            242.3251953125,
+            560.8250732421875,
+            303.9501953125
+          ],
+          "sha256": "c4b7e1de4e6fbb2f98d374f90eeb170da32733336927694df02fce51134ca9e7"
+        },
+        {
+          "filename": "page_060_img_008.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_060_img_008.jpeg",
+          "bbox": [
+            50.64990234375,
+            406.3251953125,
+            162.42489624023438,
+            467.9501647949219
+          ],
+          "sha256": "8802fb23b52a0dd6c9fd309b8c56c625e9fb3917eeda0bfd176522f75a5549b4"
+        },
+        {
+          "filename": "page_060_img_009.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_060_img_009.jpeg",
+          "bbox": [
+            51.425048828125,
+            587.150390625,
+            163.20004272460938,
+            648.775390625
+          ],
+          "sha256": "f2103a28cd89a83bdc06cbeb358c2c92be2b2bc3c992966b901d70eb43849227"
+        },
+        {
+          "filename": "page_060_img_010.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_060_img_010.jpeg",
+          "bbox": [
+            184.02490234375,
+            587.150390625,
+            295.7998962402344,
+            648.775390625
+          ],
+          "sha256": "2db33fefe1cf7e75e3670e9ab2a6331af01a85f2357dd602c69fbc206c08d1a3"
+        },
+        {
+          "filename": "page_060_img_011.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_060_img_011.jpeg",
+          "bbox": [
+            317.050048828125,
+            587.150390625,
+            428.8250427246094,
+            648.775390625
+          ],
+          "sha256": "d379b45c24a94eddc179a077bf4afd447a30ee16c4643471284dd56dff39ab38"
+        },
+        {
+          "filename": "page_060_img_012.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_060_img_012.jpeg",
+          "bbox": [
+            449.64990234375,
+            587.150390625,
+            561.4249267578125,
+            648.775390625
+          ],
+          "sha256": "75cc684e98092b508f5608d90b9b463faae4ecbb8faef9a173e210f1e874329d"
+        },
+        {
+          "filename": "page_060_img_013.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_060_img_013.jpeg",
+          "bbox": [
+            51.0,
+            75.0,
+            162.5,
+            136.49998474121094
+          ],
+          "sha256": "708b0ad81590fa57529c3afb6ac2fb47fde5a798bb9dc3b6e91ded1a6ab39a28"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 61,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_061.txt",
+      "character_count": 2737,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 62,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_062.txt",
+      "character_count": 3192,
+      "images": [],
+      "tables": []
+    },
+    {
+      "page_number": 63,
+      "text_file": "outputs/Mission planning, spacecraft, launch technologies/text/page_063.txt",
+      "character_count": 1377,
+      "images": [
+        {
+          "filename": "page_063_img_001.jpeg",
+          "path": "outputs/Mission planning, spacecraft, launch technologies/images/page_063_img_001.jpeg",
+          "bbox": [
+            314.925048828125,
+            411.40045166015625,
+            561.425048828125,
+            595.8504028320312
+          ],
+          "sha256": "195cef3f42462c774f12212d4ca19ff8c6b6f62a64ef7516f0f6d8cb72d44e47"
+        }
+      ],
+      "tables": []
+    }
+  ]
+}

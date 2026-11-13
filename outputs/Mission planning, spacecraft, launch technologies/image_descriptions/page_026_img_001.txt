@@ -1,0 +1,21 @@
+The image displays a schematic diagram illustrating the entry, descent, and landing sequence of a spacecraft, likely a Mars lander, against a backdrop of a starry sky and a reddish planetary surface. The trajectory is depicted as a curved line descending from the top left to the bottom right.
+
+The diagram is divided into several distinct phases, each marked by a label box containing specific data points such as time relative to entry (E), altitude, and velocity.
+
+Starting from the top left, the sequence begins with "Cruise Stage Separation" at TIME: E - 10 min. This is followed by "Cruise Balance Mass Device Separation." The spacecraft then enters the atmosphere, marked by "Entry Interface" at TIME: E + 0 min.
+
+As the vehicle descends, it undergoes "Hypersonic Aero-maneuvering." The trajectory shows the vehicle shedding parts of its heat shield. A label indicates "Heat Shield Separation" occurring at TIME: ~E + 260 s, with an altitude of ~7 - 11 km and a velocity of ~160 m/s.
+
+Further down the trajectory, the vehicle experiences "Peak Heating" at TIME: ~E + 80 s and "Peak Deceleration" at TIME: ~E + 90 s.
+
+At this stage, a large parachute deploys. The label "Parachute Deploy" specifies TIME: ~E + 240 s, an altitude of ~9 - 13 km, and a velocity of ~420 m/s.
+
+The descent continues with the "Back Shell Separation and Safe Target Selection" at TIME: ~E + 350 s, where the altitude is ~2.1 km and velocity is 80 - 110 m/s.
+
+A label titled "Radar Ground Solution and Lander Vision System Solution" appears near the surface, indicating TIME: ~E + 355 s and an altitude of ~4.2 km AGL.
+
+The final stages of the descent involve a "Powered Descent" phase. During this phase, a "Rover Separation" occurs at an altitude of 21.3 m with a velocity of 0.75 m/s. This is followed by a "Mobility Deploy" at an altitude of 20.7 - 14.5 m with a velocity of 0.75 m/s.
+
+The diagram shows a "Sky Crane" mechanism lowering the rover to the ground. The final event is "Touchdown," occurring at TIME: ~E + 410 s with a vertical velocity of 0.75 m/s. The rover is shown on the surface after landing.
+
+The visual elements include representations of the spacecraft at various stages, including the main body, heat shield, parachute, and the Sky Crane assembly. The background features a gradient from a dark blue starry sky to a reddish-orange planetary horizon.

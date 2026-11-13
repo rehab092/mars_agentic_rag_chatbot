@@ -1,0 +1,13 @@
+# Getting to Mars
+
+Perseverance will travel to Mars in an almost identical way to NASA's Curiosity rover, which landed in 2012. Three major components of the flight system will deliver the new rover safely to the surface of the Red Planet: the cruise stage, aeroshell and descent stage.
+
+After separating from the rocket, the ring-shaped cruise stage flies the aeroshell, and Perseverance within it, through interplanetary space to Mars. To remain stable throughout cruise, the combined spacecraft spins at about 2 rpm during the journey. The cruise stage includes eight precise thrusters that receive commands to fire at specific times during the eight-month journey to help shape the spacecraft's trajectory to Mars (these are called "trajectory correction maneuvers").
+
+The cruise stage also has solar arrays that provide power in addition to the rover's main power source, the Multi-Mission Radioisotope Thermoelectric Generator. And it is equipped with an assortment of antennas for communicating with Earth. More information about the latter is available in the Telecommunications section of this press kit.
+
+# Aeroshell
+
+This capsule protects the rover and its descent stage through its Mars atmospheric flight until it is near the Martian surface. The aeroshell has two parts: the conical back shell and, at its base, a heat shield, both built by Lockheed Martin Space in Denver.
+
+The heat shield is covered with tiles of a material called phenolic impregnated carbon ablator (PICA) that was invented by NASA's Ames Research Center in California's Silicon Valley. Engineers estimate the spacecraft could be exposed to temperatures as hot as about 2,370 degrees Fahrenheit (about 1,300 degrees Celsius) from the friction generated as it descends through the Martian atmosphere. The job of the heat shield is to carry most of this heat away from the Perseverance rover.

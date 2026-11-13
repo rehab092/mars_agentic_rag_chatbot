@@ -1,0 +1,11 @@
+Terrain-Relative Navigation is an autopilot that operates during landing and can quickly figure out the spacecraft's location over the Martian surface and select the best reachable safe landing target. During descent (after the heat shield drops away) a downward-pointing camera aboard the rover takes image after image of the ground rushing up to meet it. The camera feeds the image data into
+
+an onboard computer that determines its current position and all reachable landing points. TerrainRelative Navigation will select the safest available landing target and command the spacecraft's descent stage to fly the Perseverance rover to that landing point. The system can change the rover's touchdown point by up to 2,000 feet (600 meters).
+
+When the descent stage determines it is 20 meters over the Terrain-Relative Navigation's designated landing spot, it initiates the sky crane maneuver: Nylon cords spool out to lower the rover 25 feet (7.6 meters) below the descent stage. When the spacecraft senses the rover has touched down in Jezero Crater, the connecting cords are severed and the descent stage flies away to reach a safe distance.
+
+# Surface Phase
+
+The rover should touch down in the Martian afternoon - about 3:45 p.m. local mean solar time (with the exact time depending on the actual launch day). Soon after, the rover's computer switches from entry, descent and landing mode to surface mode. This initiates autonomous activities for the first Martian day on the surface of the Red Planet, Sol 0.
+
+A sol is a Martian day, which is 24 hours, 39 minutes, 35.244 seconds. (Perseverance team members tend to refer to sols rather than Earth days during operations since the rover will be working during the Martian day and "sleeping" during the Martian night.) The planned operational life for the Perseverance rover is one Martian year on the surface. One Martian year is 687 Earth days, or 669 sols.

@@ -1,0 +1,5 @@
+The image displays a schematic diagram illustrating the landing sequence of the Mars 2020 rover against a dark blue background. The title reads "MARS 2020 ROVER NEW LANDING TECHNIQUE."
+
+At the top left, a parachute is depicted with a descent stage attached below it. A yellow line traces the trajectory of the descent stage as it moves from the upper left toward the bottom right. Along this path, three numbered steps are listed on the right side: "1 Take descent photos," "2 Compare to orbital map," and "3 Divert if necessary."
+
+Dashed white lines extend downward from the descent stage, pointing toward the ground, representing the camera taking photos. The ground is illustrated as a reddish-brown, rocky terrain with ridges and valleys. A dashed blue circle outlines a specific area on the surface near the bottom right, indicating the final landing target. The website "mars.nasa.gov" is visible in the lower left corner.

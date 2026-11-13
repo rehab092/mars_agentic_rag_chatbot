@@ -1,0 +1,8 @@
+{
+  "image_path": "outputs/Mars 2020 Perseverance Fact Sheet/images/page_002_img_001.jpeg",
+  "image_url": "/api/images/Mars%202020%20Perseverance%20Fact%20Sheet/page_002_img_001.jpeg",
+  "document_id": "Mars 2020 Perseverance Fact Sheet",
+  "page_number": 2,
+  "image_sha256": "ee2bdfbb891ff2637197ff5e9ddb9b2d30e177f8d7e160a1db462752e57d86d6",
+  "model": "qwen3.5-4b"
+}

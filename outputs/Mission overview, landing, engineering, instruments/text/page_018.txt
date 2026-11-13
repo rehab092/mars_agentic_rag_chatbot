@@ -1,0 +1,13 @@
+During cruise, engineers perform a series of events to check the spacecraft subsystems and instruments. They also plan to execute four trajectory correction maneuvers. For these feats of navigation, mission team members estimate where the Mars 2020 spacecraft is and where it will be, and precisely fire the cruise stage thrusters to alter its path to make sure it arrives at a particular location at the top of the Martian atmosphere.
+
+These trajectory correction maneuvers will not significantly change the time Perseverance lands on Mars.
+
+The final 45 days leading up to landing constitute the approach subphase, which focuses primarily on navigation activities and preparing the vehicle for entry, descent, and landing. Two trajectory correction maneuvers are planned during this subphase for any last adjustments (if needed) to the entry target.
+
+# Entry, Descent, and Landing
+
+Image credit: NASA/JPL-Caltech
+
+The intense entry, descent, and landing (EDL) phase begins when the spacecraft reaches the top of the Martian atmosphere, traveling at about 12,100 mph (19,500 kph). EDL ends about seven minutes later, with the rover stationary on the Martian surface. Many engineers refer to the time it takes to land on Mars as the "seven minutes of terror." Not only is the choreography of EDL complex, but the time delay involved in communicating with Earth means that the spacecraft has to accomplish this choreography all by itself.
+
+While all landings on Mars are difficult, Perseverance is landing in the most challenging terrain ever targeted. Jezero Crater is a 28-mile-wide (45-kilometer-wide) impact basin with an intriguing ancient river delta as well as steep cliffs, sand dunes, boulder fields, and smaller impact craters. Landing at Jezero Crater is only possible because of new EDL technologies such as Range Trigger and Terrain-Relative Navigation. (Find more information on both below.)

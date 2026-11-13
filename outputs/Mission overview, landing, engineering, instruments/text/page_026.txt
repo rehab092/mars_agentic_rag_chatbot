@@ -1,0 +1,19 @@
+Jettisoning of the belly pan beneath the rover, which protects the sampling system and internal robotic arm during landing.
+
+PIXL and SHERLOC instrument images of their calibration targets.
+
+Deployment of the sample-tube-handling robotic arm inside the rover's body and system checkouts.checkouts
+
+The commissioning phase is expected to end about 30 sols after landing, depending on how well the activities go. Milestones after that include:
+
+Driving to the helicopter flight zone.
+
+Jettisoning of the debris shield, which protects the Ingenuity helicopter during landing.
+
+# Helicopter Flight Testing
+
+Image credit: NASA/JPL-Caltech
+
+After mission controllers have determined that rover systems are functioning as desired, Perseverance will find a flat area to serve as a helipad for the Ingenuity Mars Helicopter technology demonstration. In the first months after landing, if all goes well, the rover will deploy Ingenuity in the center of this area and drive a safe distance (about 330 feet, or 100 meters) away from it. The helicopter's team will then have up to 30 sols to perform a series of flight tests on Mars, the first time powered, controlled flight has been attempted on another planet.
+
+The rover will act as a communications relay between Ingenuity, Mars orbiters, and mission controllers on Earth. Perseverance's MEDA instrument will provide meteorological information (including data on airborne dust), while its Mastcam-Z and Navigation Cameras will collect still images of Ingenuity - and possibly a video or two. The rover's two microphones (one located on the SuperCam instrument; the other, on its chassis) will attempt to pick up the sounds of the flight operations.

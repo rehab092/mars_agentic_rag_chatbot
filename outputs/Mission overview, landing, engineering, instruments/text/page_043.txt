@@ -1,0 +1,15 @@
+# Landing
+
+During landing, the spacecraft switches between several antennas. Some use ultrahigh frequency (UHF) transmission, communicating with orbiting spacecraft, like the Mars Reconnaissance Orbiter (MRO), which then relay the information back to Earth. Other antennas use more powerful X-band transmissions, talking directly to Earth with simple tones that provide basic, but limited, spacecraft health and status.
+
+# X-band
+
+EDL communications begin with the same low-gain antenna - located on the aeroshell's parachute cone - used at the start of the cruise phase. As the spacecraft performs banking maneuvers during its guided entry into the Martian atmosphere, it shifts to a tilted low-gain antenna on the spacecraft's back shell. After separation from the back shell, a low-gain antenna on the powered descent stage takes over. NASA's Deep Space Network sites located in Goldstone, California, and Madrid, Spain, will be listening for these X-band signals until Perseverance loses its direct line of sight back to Earth.
+
+# UHF
+
+A UHF antenna mounted on the back shell starts transmitting during cruise stage separation. It continues transmitting until the back shell separates from the powered descent stage, at which point a UHF antenna on the descent stage will take over. For the rover's final descent to the surface, it will use its cylindrical UHF low-gain antenna. Green Bank Observatory in Green Bank, West Virginia, and the Effelsberg Observatory in Germany will be listening for a dial-tone-like UHF signal called a carrier signal until Perseverance loses its direct line of sight back to Earth.
+
+Perseverance will also use the UHF antennas to communicate detailed information during landing by transmitting data to MRO and the Mars Atmosphere Volatile EvolutioN (MAVEN) spacecraft. MRO is expected to relay EDL data to Earth in near-real-time, while MAVEN is expected to return its data within hours after landing.
+
+MRO launched more than 15 years ago without this near-real-time relay capability. Real-time relay is often referred to as a "bent pipe" transmission. In the past year, a near-real-time relay capability, called "pseudobent pipe," has been added to the veteran orbiter so it can send telemetry (detailed engineering data) to Earth throughout landing in 5-second packets, with about a 16-second latency. This required updates to MRO's software as well as to ground data systems on Earth. These updates, combined with special maneuvers to point the spacecraft's antenna to Deep Space Network dishes, ensure consistent data flow from Mars to Earth. Along with the near-real-time transmission, the data is recorded by MRO for later playback, which is scheduled to be transmitted to Earth several minutes after landing.

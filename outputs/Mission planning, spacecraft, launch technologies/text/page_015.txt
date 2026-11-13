@@ -1,0 +1,33 @@
+# How to Watch (Live and On Demand)
+
+News briefings and launch commentary will be streamed on NASA TV, NASA.gov/live and
+
+YouTube.com/NASAJPL/live. (On-demand recordings will also be available after the live events have finished on YouTube.) Any additional feeds or streams will be listed in the Watch Online section: mars.nasa.gov/mars2020/ timeline/launch/watch-online/ of the Mars 2020 Perseverance mission website.
+
+NASA TV channels are digital C-band signals carried by QPSK/DVB-S modulation on satellite Galaxy-13, transponder 11, at 127 degrees west longitude, with a downlink frequency of 3920 MHz, vertical polarization, data rate of 38.80 MHz, symbol rate of 28.0681 Mbps and 3/4 FEC. A Digital Video Broadcast-compliant Integrated Receiver Decoder is needed for reception. For more information about NASA TV's programming schedule, visit nasa.gov/ntv.
+
+# Audio Only
+
+Audio only of launch coverage will be carried on the NASA "V" circuits, which may be accessed by dialing 321-867-1220, -1240, -1260 or -7135. On launch day, "mission audio," the launch conductor's countdown activities without NASA TV launch commentary, will be carried on 321-867-7135.
+
+# Eyes on the Solar System
+
+Shortly after launch, the public can begin following the path of Mars 2020 Perseverance to Mars in real-time through NASA's Eyes on the Solar System at go.nasa.gov/3e3JObn.
+
+You can also follow the spacecraft live with NASA's Solar System Interactive: solarsystem.nasa.gov/ solar-system/our-solar-system/overview.
+
+# Additional Resources on the Web Social Media
+
+Online and PDF versions of this press kit are available online at go.nasa.gov/perseverance-launch-press-kit.
+
+Additional detailed information about the Perseverance rover is available on the mission's website: mars.nasa.gov/mars2020.
+
+Join the conversation and get mission updates from the Perseverance rover, the Ingenuity Mars Helicopter, JPL and NASA via these accounts:
+
+@NASAPersevere, @NASAJPL, @NASAMars, @NASA 
+
+@NASAPersevere, @NASAJPL,
+
+ @NASAMars, @NASA
+
+ @NASAJPL, @NASA

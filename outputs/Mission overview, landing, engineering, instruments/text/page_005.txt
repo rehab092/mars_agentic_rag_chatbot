@@ -1,0 +1,21 @@
+# 4. The Perseverance rover embodies the NASA - and the scientific - spirit of overcoming challenges.
+
+Image credit: NASA/JPL-Caltech
+
+Getting the spacecraft to the launch pad during a pandemic, searching for signs of ancient life, collecting samples, and proving new technologies are no easy feats. Nor is a soft touchdown on Mars: Only about 50% of Martian landing attempts, by any space agency, have been successful.
+
+The mission team draws inspiration from the name of its rover, with particular awareness of the challenges the entire world is experiencing at this time. With that in mind, the mission installed a special plate to honor the dedication and hard work of the medical community and first responders around the globe. The team hopes to inspire the entire world, and future explorers, to forge new paths and make discoveries on which the next generation can build.
+
+# 5. Perseverance is the first leg of a round trip to Mars.
+
+Image credit: NASA/JPL-Caltech
+
+The verification of ancient life on Mars carries an enormous burden of proof. Perseverance is the first rover to bring a sample caching system to Mars that will package promising samples for return to Earth by a future mission.
+
+Rather than pulverizing rock the way Curiosity's drill does, Perseverance's drill will cut intact rock cores that are about the size of a piece of chalk and will place them in sample tubes that it will store until the rover reaches an appropriate drop-off location on Mars. The rover could also potentially deliver the samples to a lander that is part of the planned Mars sample return campaign by NASA and ESA (the European Space Agency).
+
+Once the samples are here on Earth we can examine them more precisely with instruments too large and complex to send to Mars, providing far more information about them than even the most sophisticated rover could.
+
+# 6. Perseverance carries instruments and technology that will help pave the way for future human missions to the Moon and Mars.
+
+Among the future-looking technologies on the Mars 2020 Perseverance mission that will benefit human exploration is Terrain-Relative Navigation. As part of the spacecraft's landing system, Terrain-Relative Navigation is the main reason Perseverance can explore a place as interesting as Jezero Crater. It will enable the descending spacecraft to quickly and autonomously comprehend its location over the Martian surface and modify its trajectory. This technology will provide invaluable assistance for both robotic and crewed missions landing on the Moon.

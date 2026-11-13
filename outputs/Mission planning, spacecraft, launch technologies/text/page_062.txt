@@ -1,0 +1,39 @@
+Mars Global Surveyor: U.S.; Nov. 7, 1996; orbiter; arrived Sept. 12, 1997; mapped in high detail through January 2000, completed its third extended mission in September 2006, and last communicated Nov. 2, 2006
+
+Mars 96: Russia; Jan. 16, 1996; orbiter, two landers and two penetrators; launch vehicle failed
+
+Mars Pathfinder: U.S.; Dec. 4, 1996; lander and rover; landed July 4, 1997, completed prime mission and began extended mission Aug. 3, 1997, and last communicated on Sept. 27, 1997
+
+Nozomi: Japan; July 4, 1998; orbiter; failed to enter orbit December 2003
+
+Mars Climate Orbiter: U.S.; Dec. 11, 1998; orbiter; lost upon arrival Sept. 23, 1999
+
+Mars Polar Lander/Deep Space 2: U.S.; Jan. 3, 1999; lander and two penetrators; lost on arrival Dec. 3, 1999
+
+Mars Odyssey: U.S.; April 7, 2001; orbiter; entered orbit Oct. 24, 2001, completed prime mission Aug. 24, 2004, currently conducting extended mission of science collection and communication relay
+
+Mars Express/Beagle 2: Europe; June 2, 2003; orbiter and lander; orbiter completed prime mission November 2005, currently in extended mission; lander lost on arrival Dec. 25, 2003
+
+Mars Exploration Rover-A (Spirit): U.S.; June 10,
+
+2003; rover; landed Jan. 4, 2004 for three-month prime mission inside Gusev Crater, completed several extended missions, last communicated March 22, 2010, mission declared complete May 25, 2011
+
+Mars Exploration Rover-B (Opportunity): U.S.; July
+
+7, 2003; rover; landed Jan. 25, 2004 for three-month prime mission in Meridiani Planum region, completed several extended missions, last communicated June 10, 2018, mission declared complete on Feb. 13, 2019
+
+Mars Reconnaissance Orbiter: U.S.; Aug. 12, 2005; orbiter; entered orbit March 12, 2006, completed prime mission 9/26/10, currently conducting extended mission of science collection and communication relay
+
+Phoenix Mars Lander: U.S.; Aug. 4, 2007; lander; landed May 25, 2008, completed prime mission and began extended mission Aug. 26, 2008, last communicated Nov. 2, 2008
+
+Phobos-Grunt/Yinghuo 1: Russia/China; Nov. 8, 2011; Phobos lander with sample return and Mars orbiter; achieved Earth orbit only
+
+Mars Science Laboratory (Curiosity rover): U.S.; Nov. 26, 2011; rover; landed Aug. 6, 2012, completed prime mission, currently conducting extended science mission
+
+Mars Atmosphere and Volatile Evolution Mission (MAVEN): U.S.; Nov. 18, 2013; orbiter; entered orbit Sept. 21, 2014; completed prime mission, currently conducting extended science mission
+
+Mars Orbiter Mission (Mangalyaan): India; Nov. 5, 2013; orbiter; entered orbit Sept. 14, 2014, completed prime mission, currently conducting extended mission
+
+ExoMars 2016 (Trace Gas Orbiter and Schiaparelli module): Europe; March 14, 2016; orbiter and landing-demonstration module; entered orbit Oct. 19, 2016, currently conducting prime mission; unsuccessful Mars impact of Schiaparelli module Oct. 19, 2016
+
+InSight Lander: U.S., May 5, 2018; lander; landed Nov. 26, 2018, currently conducting prime mission at Elysium Planitia Mars Cube One: U.S.; May 5, 2018; two-CubeSat data relay for InSight Lander; flew by Mars and completed relay Nov. 26, 2018, concluded operations Feb. 2, 2020

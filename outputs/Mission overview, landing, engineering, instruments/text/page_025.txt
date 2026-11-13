@@ -1,0 +1,33 @@
+Later on landing day, quarter-resolution versions and stereo images from the Hazcams with the covers open will become available. By the following morning, a high-resolution image of the wheels from the Hazcams and one image from a camera looking down at the rover from the descent stage are expected to be available.
+
+Over the next couple days and through the weekend, Perseverance will take additional pictures of the landing site and rover hardware, including from the Navigation Cameras (Navcams) and Mastcam-Z on the remote sensing mast (the rover's "head"). The rover is also expected to be transmitting additional images from the EDL cameras and microphone, allowing the public to see and hear what it was like to land on Mars.
+
+More information about the cameras is in the Spacecraft section.
+
+# Checkout
+
+Perseverance's first Martian day on the surface of the Red Planet is known as Sol 0.
+
+A sol is a Martian day, which is 24 hours, 39 minutes, 35.244 seconds. (Perseverance team members tend to refer to sols rather than Earth days during operations since the rover will be working during the Martian day and "sleeping" during the Martian night.) The prime mission for the Perseverance rover is one Martian year on the surface. One Martian year is 687 Earth days, or 669 sols.
+
+Perseverance's first images are part of a planned 90-sol initial checkout period. The mission team will perform tests of all the rover's parts and science instruments to ensure everything - including the team - is ready for surface operations. For about 90 sols, the operations team will be working on Mars time, which means they will be setting their clocks to the Martian day. This allows them to respond quickly to any issue the rover may have during its workday and to make sure revised instructions are ready for the next sol.
+
+Working on Mars time also means that team members will move their start times 40 minutes later each day. Eventually, team members will be waking up in the middle of the night to start their shifts. Because living on Mars time makes daily life on Earth much more challenging, the team does this only for a limited period. The first part of the checkout period is called the commissioning phase. During this period, the rover unpacks
+
+its instruments, upgrades its software, and goes for a test drive.
+
+# Here's what to expect in the first 30 sols after landing:
+
+Images of the rover's wheels just after touching down (first with dust covers on, then with covers off).
+
+Deployment of mast and high-gain antenna.
+
+Images of the landing site and the rover's deck.
+
+Update of rover flight software.
+
+Health checks performed on all instruments.
+
+Short, approximately 16-foot (5-meter) drive test.
+
+Unstowing of the robotic arm and "calisthenics," testing its movement.

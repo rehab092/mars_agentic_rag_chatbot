@@ -1,0 +1,11 @@
+# Key EDL Milestones
+
+If all goes as planned, engineers expect to receive notice of Perseverance's completion of these milestones at the times below. Landing time may vary by plus or minus one minute because of a variety of factors in the dynamic environment of a Mars landing, such as uncertainties about the Red Planet's atmosphere. Because of the distances the signals have to travel from Mars to Earth, these events take place on the actual spacecraft at Mars (known as spacecraft event time) 11 minutes and 22 seconds earlier than what is noted here.
+
+# Atmospheric Entry
+
+At about 3:38 p.m. EST (12:38 p.m. PST) - 10 minutes before entering the Martian atmosphere - the Mars 2020 spacecraft will shed the cruise stage that helped fly Perseverance and Ingenuity to Mars. The spacecraft will manipulate its descent into Mars' atmosphere using a technique called guided entry to reduce the size of the targeted ellipse-shaped landing area on Mars while compensating for variations in the density of the Martian atmosphere and drag on the vehicle. During guided entry, small thrusters on the back of the aeroshell will adjust the angle and direction of lift, enabling the spacecraft to control how far downrange it is flying.
+
+Peak heating occurs about 75 seconds after atmospheric entry, when the temperature at the external surface of the heat shield will reach about 2,370 degrees Fahrenheit (about 1,300 degrees Celsius). About three minutes later, Perseverance's parachute is expected to deploy with the help of a new
+
+technique called Range Trigger.

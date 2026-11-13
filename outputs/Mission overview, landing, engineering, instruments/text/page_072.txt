@@ -1,0 +1,9 @@
+# Future
+
+ESA (European Space Agency) and Russia's space agency (Roscosmos) expect to launch the ExoMars 2022 mission in late September 2022 to deliver a European rover (Rosalind Franklin) and a Russian surface platform (Kazachok) to Mars June 2023.
+
+Image credit: NASA/JPL-Caltech
+
+NASA and ESA are solidifying concepts for a Mars Sample Return campaign that begins with NASA's Perseverance rover collecting rock and other samples and storing them in sealed tubes to be left on the planet's surface for future retrieval and return to Earth.
+
+According to the current concept, NASA and ESA expect to undertake two launches as early as 2026: a NASA lander and an ESA orbiter. Under this schedule, ESA's orbiter would arrive in orbit at Mars in 2027; subsequently NASA's lander would arrive in 2028, carrying a NASA rocket (the Mars Ascent Vehicle) and ESA's Sample Fetch Rover. The fetch rover's job is to retrieve the cached samples and deliver them to the lander for transfer to the ascent vehicle; Perseverance could also deliver samples to the lander. The ascent vehicle will then launch a special container holding the samples into Mars orbit. The ESA orbiter will rendezvous with and capture the orbiting samples in a NASA-provided payload that will further prepare the orbiting sample container for return to Earth. The ESA orbiter will fly back to Earth and the NASA Earth Entry System will land the samples on Earth.

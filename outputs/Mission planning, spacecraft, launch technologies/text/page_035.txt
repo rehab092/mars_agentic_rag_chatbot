@@ -1,0 +1,13 @@
+The back shell contains several components critical to landing the rover: weights for altering the spacecraft's center of mass so it can fly correctly, a parachute and antennas for communicating directly with Earth and for communicating with orbiters at Mars that can relay messages to Earth. The back shell and the heat shield also have a sensor suite known as MEDLI2 (more detail below). Since the back shell will also get hot - though not as hot as the heat shield - it, too, sports a protective covering, in this case a material known as SLA-561V.
+
+Atmospheric friction will slow the entry vehicle to about 540 mph (865 kph) and about 7 miles (11 kilometers) in altitude. At around this point in the landing sequence, the spacecraft will command deployment of the parachute. It does this once it has determined itself to be in an optimal position relative to the landing target, a technique called "Range Trigger." The parachute inherits its design from the Mars Viking missions of the 1970s but is scaled up to 70.5 feet (21.5 meters) in diameter and strengthened to accommodate Perseverance's heavier mass.
+
+Parachute inflation will slow Perseverance further. The heat shield will be jettisoned before landing so that a radar and a new, specially developed Terrain-Relative Navigation system can help the rover land safely in Jezero Crater.
+
+The back shell with the parachute will separate from what is known as the powered descent vehicle (which includes the rover and the descent stage, a rocket-powered structure that helps the spacecraft land) about 60 seconds before touchdown.
+
+# Descent Stage
+
+At this point, Perseverance is still attached to the rocket-powered descent stage. Think of it as a kind of jetpack with eight engines that safely lowers the spacecraft to the ground. The descent stage slows down until it's hovering over the surface. Then, it slowly winches Perseverance down on a bridle as part of the sky crane maneuver.
+
+When the rover is safely on the ground, the cables connecting it to the descent stage are cut. The descent stage flies off to make its own uncontrolled landing on the surface, a safe distance away from Perseverance.

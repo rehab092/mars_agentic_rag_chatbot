@@ -1,0 +1,15 @@
+# Surface Phase
+
+Image credit: NASA/JPL-Caltech
+
+The rover is expected to touch down in the Martian afternoon - at 3:53 p.m. local mean solar time. Soon after, the rover's computer switches from entry, descent, and landing mode to surface mode. This initiates a series of autonomous activities for the first Martian day on the surface of the Red Planet.
+
+# First Images
+
+One of Perseverance's first activities in surface mode is to take a pair of pictures with the engineering cameras - known as the Hazard Cameras, or Hazcams - on the front and rear of the rover. Hazcams have clear covers over their lenses to protect them from dust that gets kicked up during landing. The first two images - front and rear Hazcam images - will be taken through these dust covers within minutes after landing. The reduced-resolution version of these images, known as "thumbnails," are expected to become available the same day. Depending on the terrain where Perseverance lands, MRO, the rover's communications relay, may move below the horizon from the rover's point of view shortly after landing, limiting communications with that satellite.
+
+A low-resolution thumbnail image taken by the Perseverance engineering model's front Hazcam during a practice landing session. Image credit: NASA/JPL-Caltech
+
+A low-resolution thumbnail image transmitted by the Perseverance engineering model's rear Hazcam during a practice landing session.
+
+Image credit: NASA/JPL-Caltech

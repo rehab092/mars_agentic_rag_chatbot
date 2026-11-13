@@ -1,0 +1,29 @@
+The Norwegian Defense Research Establishment (FFI) in Kjeller, Norway, provided the instrument.
+
+# RIMFAX
+
+Is based on the design of ground-penetrating radars used to study rock and ice at Earth's poles.
+
+Takes its name from "Hrímfaxi," the horse in Norse mythology that faithfully brings the night.
+
+Helps pave way for future generations of RIMFAX that could detect water ice deposits for use by astronauts. (Jezero Crater is too warm to harbor subsurface water ice.)
+
+# SHERLOC (Scanning Habitable Environments with Raman & Luminescence for Organics & Chemicals)
+
+The SHERLOC instrument is circled in red in this illustration of the
+
+Perseverance rover. Image credit: NASA/JPL-Caltech
+
+# Principal Investigator:
+
+Luther Beegle, JPL
+
+SHERLOC is located near PIXL on Perseverance's robotic arm. As PIXL looks for elemental chemistry, SHERLOC looks for organic molecules and minerals. While the presence of organic molecules helps scientists determine which samples to collect for future return to Earth, the presence of different minerals helps explain how a sample was formed. SHERLOC flashes an ultraviolet laser over surface
+
+material, which emits a subtly different glow depending on which organics and minerals are present. SHERLOC also has a camera for taking microscopic images of rock grains and surface textures.
+
+# SHERLOC
+
+Features a camera called WATSON (Wide Angle Topographic Sensor for Operations and eNgineering).
+
+Has a calibration target that includes five spacesuit materials and a sample of a Martian meteorite.

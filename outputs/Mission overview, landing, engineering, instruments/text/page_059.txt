@@ -1,0 +1,21 @@
+# RIMFAX (Radar Imager for Mars' Subsurface Experiment)
+
+# Principal Investigator:
+
+# Svein-Erik Hamran, University of Oslo, Norway
+
+RIMFAX is the first ground-penetrating radar to be carried by a rover or lander to Mars. Such radar systems have been used by orbiting spacecraft, but bringing them to the surface offers much higher-resolution data. RIMFAX determines how different layers of the Martian surface formed over time.
+
+The Norwegian Defense Research Establishment (FFI) in Kjeller, Norway, provided the instrument.
+
+# RIMFAX
+
+Is based on the design of ground-penetrating radar used to study rock and ice at Earth's poles.
+
+Takes its name from "Hrímfaxi," the horse in Norse mythology that faithfully brings the night.
+
+Helps pave way for future generations of RIMFAX that could detect water ice deposits for use by astronauts. (Jezero Crater, however, is too warm to harbor subsurface water ice.)
+
+The white box with cutouts on the right side of the rover's underside is part of the RIMFAX instrument.
+
+Image credit: NASA/JPL-Caltech

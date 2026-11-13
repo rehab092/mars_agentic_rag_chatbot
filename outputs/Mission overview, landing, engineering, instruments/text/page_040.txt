@@ -1,0 +1,9 @@
+# Power
+
+Image credit: NASA/JPL-Caltech
+
+The Perseverance rover requires electrical power to operate. The dependable flow of electricity for the rover comes from a power system known as a Multi-Mission Radioisotope Thermoelectric Generator (MMRTG), provided to NASA by the U.S. Department of Energy (DOE).
+
+# What Is an MMRTG?
+
+Perseverance's power system works essentially like a nuclear battery. The MMRTG converts heat from the natural radioactive decay of plutonium-238 into a steady flow of electricity. The power system will reliably produce about 110 watts (similar to a light bulb) at the start of Perseverance's mission, declining a few percent each year in a very predictable way. The MMRTG doesn't just power the rover; excess heat is collected in a fluid loop system. The warm fluid is routed around the vehicle to keep its sensitive electronics warm during the cold Martian nights.

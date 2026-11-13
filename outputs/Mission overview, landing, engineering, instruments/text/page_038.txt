@@ -1,0 +1,11 @@
+# Aeroshell
+
+Image credit: LMS
+
+This capsule protects the rover and descent stage as they plummet through the Martian atmosphere toward the surface of the Red Planet. Built by Lockheed Martin Space in Denver, the aeroshell has two parts: the bell-shaped back shell and, at its base, a heat shield. The heat shield is covered with tiles of a material called phenolic impregnated carbon ablator (PICA) that was invented at NASA's Ames Research Center in California's Silicon Valley. Engineers estimate the spacecraft could be exposed to temperatures as high as about 2,370 degrees Fahrenheit (about 1,300 degrees Celsius) from the friction generated as it descends through the Martian atmosphere. The job of the heat shield is to carry most of this heat away from the Perseverance rover.
+
+The back shell contains several components critical to landing the rover: weights that alter the spacecraft's center of mass so it can fly correctly, a parachute, and antennas both for communicating directly with Earth and for communicating with orbiters at Mars that can relay messages to Earth. In addition, the back shell and heat shield have a sensor suite known as the Mars Entry, Descent, and Landing Instrumentation 2 (MEDLI2). Since the back shell will also get hot - though not as hot as the heat shield - it, too, sports a protective covering, in this case made of a material known as SLA-561V.
+
+Atmospheric friction will slow the entry vehicle to about 540 mph (865 kph) by the time it is about 7 miles (11 kilometers) in altitude above Mars. At around this point, the spacecraft will use a technique called Range Trigger, to determine whether it is in an optimal position relative to the landing target. If it is, the spacecraft will command the deployment of the parachute, which inherits its design from the Mars Viking missions of the 1970's but is scaled up to 70.5 feet (21.5 meters) in diameter and strengthened to accommodate Perseverance's greater mass.
+
+As the parachute inflation slows Perseverance further, the heat shield will be jettisoned so that a radar and a new, specially developed Terrain-Relative Navigation system can help guide the rover to a safe landing in Jezero Crater.

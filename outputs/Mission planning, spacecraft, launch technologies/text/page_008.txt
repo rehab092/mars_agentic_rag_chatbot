@@ -1,0 +1,13 @@
+# 2. Ingenuity will be the first aircraft to attempt controlled flight on another planet.
+
+Mars has beyond bone-chilling temperatures, with nights as cold as minus 130 degrees Fahrenheit (minus 90 degrees Celsius) at Jezero Crater. These temperatures will push the original design limits of the off-theshelf parts used in Ingenuity. Tests on Earth at the predicted temperatures indicate they should work as designed, but the team is looking forward to the real test at Mars. One of Ingenuity's first objectives when it gets to the Red Planet is just to survive the frigid Martian night for the first time.
+
+Mars has a rarefied atmosphere - just 1% of the density of our atmosphere on Earth. Because the Mars atmosphere is so much less dense, Ingenuity is designed to be light, with rotor blades that are much larger and spin much faster than what would be required for a helicopter of Ingenuity's mass on Earth. And Mars gives the helicopter a little help: The gravity at Mars is only about one-third that of Earth's. That means slightly more mass can be lifted at a given spin rate.
+
+There is also the challenge of communication. Delays are an inherent part of communicating with spacecraft across interplanetary distances, which means the helicopter's flight controllers at JPL won't be able to control the helicopter with a joystick.
+
+Therefore, Ingenuity has to fly autonomously. The command to fly will be sent to Ingenuity well in advance, and the engineering data from the flight will be returned to Earth after the flight takes place. Ingenuity will communicate through the rover, which will then communicate with an orbiter that in turn communicates with Earth.
+
+# 3. Ingenuity has already demonstrated feats of engineering.
+
+It took humankind a lot of trial and error to figure out how to fly a plane or helicopter on Earth. In careful steps over five years, engineers on the Ingenuity team were able to demonstrate it was possible to build something that was lightweight enough and could generate enough lift in Mars' thin atmosphere to take off from the ground.

@@ -1,0 +1,13 @@
+Image credit: NASA/JPL-Caltech
+
+Perseverance also has a six-wheel rocker-bogie design derived from earlier NASA Mars rovers that helps to maintain a relatively constant weight on each of the rover's wheels and minimizes tilt. The wheels on Perseverance are slightly narrower and taller than Curiosity's. But the wheels of both rovers are machined out of a rigid, lightweight aluminum alloy and lined with grousers - raised treads specially designed for the Martian desert. Curiosity's have a pointed chevron pattern for climbing rocks, a design that made them more vulnerable to wheel damage. Perseverance's grousers are nearly straight with a gentle curve, and each wheel has twice the number of treads as Curiosity's (48 versus 24). The wheel skin is also twice as thick as Curiosity's. During testing, the mobility team found this improved both damage tolerance and wheel performance over rocks and sand.
+
+Just like Curiosity, Perseverance has two main computers, or "brains": One is active at any given time, while the other serves as a backup. Both use radiation-hardened RAD750 computers, and together, they're referred to as Rover Compute Element A and B.
+
+Another RAD750 serves as a third "brain," on Perseverance. Called the Vision Compute Element, it is equipped with a special card for analyzing images. This card has a Virtex-5 field programmable gate array (FPGA) and is the driving force behind Terrain-Relative Navigation and the Lander Vision System, which analyzes images of the landing site during descent and compares them to an onboard map to determine the rover's position relative to the ground.
+
+After landing, the Vision Compute Element is reprogrammed to analyze images of the Martian terrain so that the rover can autonomously navigate around obstacles more efficiently.
+
+For more on the distinctions between Curiosity and Perseverance, read the feature story Two Rovers to Roll on Mars Again.
+
+Find more on the rover's science instruments in the Science section of this press kit.

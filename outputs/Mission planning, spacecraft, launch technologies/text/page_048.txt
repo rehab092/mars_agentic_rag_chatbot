@@ -1,0 +1,15 @@
+# Key Features
+
+What makes the helicopter a special piece of technology?
+
+# Ingenuity:
+
+Weighs about 4.0 pounds (1.8 kilograms). Is solar-powered and recharges on its own.
+
+Communicates wirelessly with Perseverance by remaining within a 0.6-mile (1- kilometer) radius of the rover. The rover then communicates with relay orbiters that send the signal back to Earth.
+
+Has a rotor system made of four carbon-fiber blades arranged into two 4-foot (1.2-meter) counterrotating rotors, spinning at about 2,400 rpm. This first-of-its-kind rotor system was created in partnership with AeroVironment, Inc., of Simi Valley, California.
+
+Is equipped with computers, navigation sensors and two cameras (one color and one black-and-white).
+
+More information can be found at the Ingenuity Mars Helicopter website.

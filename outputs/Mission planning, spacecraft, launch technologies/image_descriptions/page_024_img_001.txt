@@ -1,0 +1,11 @@
+The image displays a technical diagram titled "FLIGHT PROFILE" illustrating the trajectory and staging sequence of a launch vehicle, identified by the ULA logo at the bottom. The diagram is divided into three primary visual sections: a vertical rocket assembly on the left, a curved flight path on the right, and a world map at the bottom.
+
+The left side depicts a multi-stage rocket stack labeled with numbers 1 through 12. At the base is a solid rocket booster (labeled 1) emitting flames and smoke. Above it are stacked liquid fuel stages, with the uppermost stage labeled 3. The rocket is shown with solid rocket boosters attached to its sides. The numbers 1 through 12 correspond to specific events in the launch sequence, which are detailed in a central table.
+
+The central table lists twelve events with corresponding times in hours, minutes, and seconds. The events include "Liftoff," "SRB Jettison," "Atlas Booster Engine Cutoff," "Atlas Centaur Separation," and "Mars 2020 Separation." Below the table, a gray box provides specific orbital data for "Mars 2020 Orbit at Separation," listing inclination, declination, and right ascension values.
+
+The right side of the image shows a curved trajectory line representing the flight path. This path is marked with red numbers 6 through 12, corresponding to the events listed in the table. A small globe graphic is positioned near the top right, showing the Earth with the trajectory line passing over it. A legend indicates that a black line represents a "Parking Orbit" and a blue line represents a "Transfer Orbit."
+
+The bottom section features a world map with latitude and longitude grid lines. A blue line traces the ground track of the launch vehicle and spacecraft, starting from the Atlantic Ocean near South America and curving across the globe. Red numbers 4 through 12 are placed along this blue line, indicating the geographic location of the launch events. The map includes a legend identifying the blue line as the "Launch Vehicle / Spacecraft Groundtrack."
+
+The overall purpose of the image is to illustrate the flight profile of the Mars 2020 mission launch, showing the rocket's ascent, stage separations, and the resulting orbital trajectory. The diagram provides a visual correlation between the timing of launch events and their corresponding positions in space and on Earth.

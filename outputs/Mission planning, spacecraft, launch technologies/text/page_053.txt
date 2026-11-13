@@ -1,0 +1,31 @@
+# MOXIE
+
+Is about the size of a car battery and weighs about 38 pounds (17 kilograms).
+
+Is designed to produce 0.022 pounds of oxygen per hour (10 grams of oxygen per hour).
+
+# PIXL (Planetary Instrument for X-ray Lithochemistry)
+
+# Principal Investigator:
+
+Abigail Allwood, JPL
+
+Located on the end of Perseverance's robotic arm, PIXL aims a tiny but powerful X-ray beam at rocks. This produces a different "glow," or fluorescence, depending on the rock's elemental chemistry. PIXL creates postage stamp-sized maps, revealing how and where these chemicals are positioned relative
+
+to each other as well as to a rock's textures and structures. That information can help scientists determine how these features formed, including whether they were biological in nature.
+
+# PIXL
+
+Can detect over 20 chemical elements.
+
+Takes just 10 seconds to perform a highly accurate analysis of a single point as small as a grain of sand.
+
+Uses a hexapod (six motorized legs) to scan the instrument and ensure accurate positioning.
+
+# RIMFAX (Radar Imager for Mars' Subsurface Experiment)
+
+Principal Investigator:
+
+Svein-Erik Hamran, University of Oslo
+
+RIMFAX is the first ground-penetrating radar to be carried by a rover or lander to Mars. Such radars have been used by orbiting spacecraft, but bringing them to the surface offers much higher-resolution data. RIMFAX determines how different layers of the Martian surface formed over time.

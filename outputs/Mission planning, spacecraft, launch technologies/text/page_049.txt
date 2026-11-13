@@ -1,0 +1,11 @@
+# Why This Mission
+
+Billions of years ago, Earth and Mars were much more similar than they are today. Both had liquid water at the surface; both had magnetic fields to protect their surface from the Sun's radiation. If life developed on Earth at that time, could it have also developed on Mars?
+
+NASA has sent rovers, landers and orbiters to investigate that key astrobiological question at the
+
+Red Planet. Scientists can study rocks and sediment on the Martian landscape to learn when liquid water disappeared, and when the atmosphere started to thin. This record can reveal when Mars had the ideal conditions for life.
+
+But Perseverance will be different: It's the first Mars rover designed to collect samples that could one day be returned to Earth. Despite all of the rover's immense technical capabilities, there are far more powerful laboratories and science tools on our planet than we could hope to send to Mars. As with the Moon samples returned by the Apollo missions, Mars samples can benefit future generations of scientists who will use technology that hasn't been invented yet.
+
+The Mars 2020 mission will also look ahead to the day when astronauts travel to Mars. Perseverance carries a new experiment called MOXIE that will test technology to convert carbon dioxide in the Martian atmosphere into oxygen that could be used for rocket propellant or breathing. The rover will also test new automated technologies that will be useful for landing humans or equipment on Mars. These efforts will feed into NASA's plans for sending humans to Mars, with the Artemis program returning astronauts to the Moon as the first step.

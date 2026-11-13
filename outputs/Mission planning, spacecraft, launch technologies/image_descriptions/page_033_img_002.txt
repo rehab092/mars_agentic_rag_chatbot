@@ -1,0 +1,5 @@
+The image displays a close-up view of a white, structural component, identified as the aft crossbeam of the Perseverance rover. Mounted on the top surface of this beam is a black, rectangular plate secured by four bolts.
+
+The plate features a white line drawing depicting a central sun emitting rays that connect to two circles representing Earth and Mars. The text "Explore as one" is visible in the rays of the sun. Embedded within the plate are three small, rectangular silicon chips. The text "10.9M" is visible near the top right of the plate, corresponding to the number of names on the chips.
+
+On the side of the white beam, the blue NASA logo and the red JPL (Jet Propulsion Laboratory) logo are clearly visible, along with the text "California Institute of Technology." The background shows blurred mechanical structures and wiring, indicating the component is part of a larger assembly.

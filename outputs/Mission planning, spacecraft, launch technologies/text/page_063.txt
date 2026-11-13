@@ -1,0 +1,13 @@
+Mars Global Remote Sensing Orbiter and Small Rover (Huoxing-1): China; expected summer 2020; orbiter and rover
+
+Emirates Mars Mission (Hope): United Arab Emirates; expected summer 2020; orbiter
+
+# Future
+
+The European Space Agency and Russia's space agency (Roscosmos) plan to launch the ExoMars 2022 mission in 2022 to deliver a European rover (Rosalind Franklin) and a Russian surface platform (Kazachok).
+
+NASA and the European Space Agency (ESA) are solidifying concepts for a Mars Sample Return campaign after NASA's Perseverance rover collects rock and sediment samples, storing them in sealed tubes to be left on the planet's surface for future retrieval and return to Earth.
+
+According to the current concept, NASA will deliver a lander with a NASA rocket (the Mars Ascent Vehicle) and ESA's Sample Fetch Rover. The fetch rover will gather the cached samples and carry them to the lander for transfer to the ascent vehicle; samples could also be delivered by Perseverance.
+
+ESA will put a spacecraft in orbit at Mars. The ascent vehicle will then launch a special container holding the samples into Mars orbit. The orbiter will rendezvous with and capture the orbiting samples in order to return them to Earth. NASA will provide the payload module for the orbiter, performing the capture and containment of the orbiting samples at Mars and landing the samples on Earth.

@@ -1,0 +1,19 @@
+# Launch Activities
+
+# Why This Launch Period?
+
+As Earth and Mars race around the Sun, with Earth on the inside track, Earth laps Mars about once every 26 months. Launch opportunities to Mars occur at the same frequency, when the planets are positioned so that a spacecraft launched from Earth will be on a relatively short track to Mars (on the order of several months). This planetary
+
+clockwork, plus the launch vehicle's lift capability, the spacecraft's mass, and the desired geometry and timing for the landing on Mars were all factors in determining the range of possible launch dates.
+
+One priority for choosing a launch period within the range of possible dates was scheduling the landing to occur when NASA orbiters at Mars are passing over the landing site. Such scheduling aims to allow the orbiters to receive radio transmissions from the spacecraft carrying Perseverance during its descent through the atmosphere and landing. Landing on Mars is always difficult, and NASA prioritizes communications during landing so that engineers know what is happening at each stage.
+
+# Launch Period and Window
+
+Update: As of June 24, the launch is targeted for no earlier than July 22, 2020. Additional updates can be found on the mission's launch page.
+
+The launch period is the range of days when a launch is possible to achieve the designated mission goal - in this case, successfully landing at Mars' Jezero Crater. The launch period for Perseverance to do that is targeted to begin July 20 and extend to Aug. 11, 2020.
+
+The launch window is the time period on a given day during which the rocket must be launched to achieve its designated mission goal. The targeted launch window for Perseverance extends from 9:15 to 11:15 a.m. EDT (6:15 to 8:15 a.m. PDT) on July 20 - the first day of the launch period. On the last day of the launch period, Aug. 11, the window extends from 8:55 a.m. to 9:25 a.m. EDT (5:55 a.m. to 6:25 a.m. PDT).
+
+The window of time for each day of the launch period can be found on the mission website's launch page.

@@ -1,0 +1,35 @@
+Mars 3: USSR; May 28, 1971; orbiter and lander; arrived Dec. 3, 1971; lander operated on surface for 20 seconds before failing
+
+Mariner 9: U.S.; May 30, 1971; orbiter; operated in orbit Nov. 13, 1971 to Oct. 27, 1972; returned 7,329 photos
+
+Mars 4: USSR; July 21, 1973; orbiter; flew past Mars Feb. 10, 1974 and collected some data, but did not achieve Mars orbit
+
+Mars 5: USSR; July 25, 1973; orbiter; arrived Feb. 12, 1974, lasted a few days
+
+Mars 6: USSR; Aug. 5, 1973; flyby module and lander; arrived March 12, 1974, lander failed due to fast impact
+
+Mars 7: USSR; Aug. 9, 1973; flyby module and lander; arrived March 9, 1974, lander missed the planet
+
+Viking 1: U.S.; Aug. 20, 1975; orbiter and lander; entered orbit June 19, 1976, and operated until Aug. 7, 1980; landed July 20, 1976, and operated until Nov. 11, 1982
+
+Viking 2: U.S.; Sept. 9, 1975; orbiter and lander; entered orbit Aug. 7, 1976, and operated until July 25, 1978; landed Sept. 3, 1976, and operated until April 11, 1980; combined, the Viking orbiters and landers returned more than 50,000 photos
+
+Phobos 1: USSR; July 7, 1988; Mars orbiter and Phobos lander; lost August 1988 en route to Mars
+
+Phobos 2: USSR; July 12, 1988; Mars orbiter and Phobos lander; lost March 1989 near Phobos
+
+Mars Observer: U.S.; Sept. 25, 1992; orbiter; lost just before Mars arrival Aug. 21, 1993
+
+Mars Global Surveyor: U.S.; Nov. 7, 1996; orbiter; arrived Sept. 12, 1997; mapped in high detail through January 2000, completed its third extended mission in September 2006 and last communicated Nov. 2, 2006
+
+Mars 96: Russia; Jan. 16, 1996; orbiter, two landers, and two penetrators; launch vehicle failed
+
+Mars Pathfinder: U.S.; Dec. 4, 1996; lander and rover; landed July 4, 1997, completed prime mission and began extended mission Aug. 3, 1997, and last communicated Sept. 27, 1997
+
+Nozomi: Japan; July 4, 1998; orbiter; failed to enter orbit December 2003
+
+Mars Climate Orbiter: U.S.; Dec. 11, 1998; orbiter; lost upon arrival Sept. 23, 1999
+
+Mars Polar Lander/Deep Space 2: U.S.; Jan. 3, 1999; lander and two penetrators; lost on arrival Dec. 3, 1999
+
+Mars Odyssey: U.S.; March 7, 2001; orbiter; entered orbit Oct. 24, 2001, completed prime mission Aug. 24, 2004, currently conducting extended mission of science collection and communication relay Mars Express/Beagle 2: Europe; June 2, 2003; orbiter and lander; orbiter completed prime mission November 2005, currently in extended mission; lander lost on arrival Dec. 25, 2003

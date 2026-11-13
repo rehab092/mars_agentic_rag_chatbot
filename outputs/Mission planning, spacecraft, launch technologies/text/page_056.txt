@@ -1,0 +1,7 @@
+# Landing Site
+
+Perseverance will land in Jezero Crater, located on the western edge of Isidis Planitia, a giant impact basin just north of the Martian equator at about 18 degrees latitude, 77 degrees longitude. Perseverance's core goal is astrobiological - to seek signs of ancient microbial life - and the rover will be landing in a
+
+place with high potential for finding these signs. Western Isidis presents some of the oldest and most scientifically interesting landscapes Mars has to offer. Mission scientists believe the 28-mile-wide (45kilometer) crater was home to a lake 3.5 billions of years ago - the word "Jezero" in several slavic languages means "lake" - as well as to an ancient river delta. Together, they could have collected and preserved ancient organic molecules and other potential signs of microbial life from the water and sediments that flowed into the crater billions of years ago.
+
+Jezero Crater's ancient lake-delta system offers many promising sampling targets of at least five kinds of rock. Scientists are particularly eager to explore the rim of Jezero Crater: Parts of Jezero are especially rich in carbonates, minerals that, on Earth, help preserve fossilized signs of ancient life. And new landing technologies will allow Perseverance to touch down even closer to the most promising locations than any Mars mission before it.

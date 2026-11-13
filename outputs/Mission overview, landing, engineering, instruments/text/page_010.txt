@@ -1,0 +1,23 @@
+# Live Landing Feed
+
+A live video feed of key landing activities and commentary from the mission control areas at JPL will be broadcast. This live commentary show is expected to begin at 2:15 p.m. EST (11:15 a.m. PST) and last for about two hours.
+
+A Spanish-language simulcast will also be available on the NASA en Español YouTube channel.
+
+# On-Site Media Logistics
+
+News media representatives who would like to cover the Mars 2020 Perseverance landing in person at JPL must be accredited in advance.
+
+Due to the ongoing COVID-19 pandemic, JPL will be credentialing a limited number of media for on-site access. State and local restrictions, as well as federal guidelines, will determine the scope of and rules for inperson activities and are subject to change. Only U.S. citizens or green card holders representing U.S. media outlets and U.S.-based reporters for international outlets will be considered for credentials. Requests must have been submitted by Jan. 14, 2021, to Rexana Vizza, rexana.v.vizza@jpl.nasa.gov.
+
+NASA will provide ample opportunities for members of the media to cover the landing remotely, including virtual participation in news briefings.
+
+Members of the media interested in in-person interviews (subject to coronavirus restrictions) may call the JPL newsroom at 818-354-5011.
+
+# How to Watch (Live and On Demand)
+
+News briefings and landing commentary will be streamed on NASA TV, NASA.gov/live, and YouTube. com/NASA. (On-demand recordings will also be available after the live events have finished on YouTube.) Any additional feeds or streams will be listed in the Watch Online section of the Mars 2020 Perseverance mission website.
+
+NASA TV channels are digital C-band signals carried by QPSK/DVB-S modulation on satellite Galaxy-13, transponder 11, at 127 degrees west longitude, with a downlink frequency of 3920 MHz, vertical polarization, data rate of 38.80 MHz, symbol rate of 28.0681 Mbps and 3/4 FEC. A Digital Video Broadcast-compliant Integrated Receiver Decoder is needed for reception. For more information about NASA TV's programming schedule, visit http://www.nasa.gov/ntv.
+
+A clean feed of mission activities will also be available on the NASA TV media channel and YouTube.com/JPLRaw.

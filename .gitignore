@@ -1,21 +1,7 @@
 # Secrets
 .env
 
-# Python
+# Python environment (too large for GitHub; recreate with requirements.txt)
 venv/
 __pycache__/
 *.pyc
-
-# Generated pipeline data (rebuild with run_pipeline.py)
-outputs/
-structured/
-chunked/
-embeddings/
-chroma_storage/
-
-# Source PDFs (large)
-input_pdfs/
-
-# Runtime data
-conversations.db
-eval_results.json

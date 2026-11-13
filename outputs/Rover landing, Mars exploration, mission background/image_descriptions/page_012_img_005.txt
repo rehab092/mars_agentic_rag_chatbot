@@ -1,0 +1,13 @@
+The image displays a vertical timeline diagram illustrating the Entry, Descent, and Landing (EDL) sequence of a spacecraft on the surface of Mars. The background depicts a gradient sky transitioning from deep red at the top to a lighter orange near the horizon, with a textured, reddish-brown planetary surface at the bottom. A location marker labeled "Jezero Crater" is positioned on the left side of the surface.
+
+The diagram traces the descent path of a spacecraft from the upper atmosphere to the ground using a dashed white line. Along this path, various stages of the landing are marked with text labels and corresponding data points.
+
+At the top of the sequence, labeled "Cruise Stage Separation," a spacecraft is shown in a capsule shape. As the descent continues, the vehicle is depicted entering the atmosphere, followed by a phase labeled "Peak Heating" where the capsule is shown with a glowing underside.
+
+Further down the timeline, the spacecraft is shown deploying large, conical parachutes with red and white striped patterns. This stage is labeled "Parachute Deploy" and includes data for time, altitude, and velocity. The descent continues with the deployment of smaller, circular parachutes, labeled "Backshell Separation."
+
+As the vehicle approaches the surface, it is shown separating into two distinct parts: a "Sky Crane" and a "Rover." The Sky Crane is depicted hovering above the ground with a tether extending downward to the rover. The rover is shown on the surface with its wheels deployed.
+
+The final stages of the landing are labeled "Rover Separation," "Mobility Deploy," and "Touchdown," each accompanied by specific measurements for altitude, velocity, and time. The diagram concludes with the rover stationary on the surface.
+
+The image illustrates the step-by-step process of a spacecraft landing on Mars, highlighting the various stages of descent, parachute deployment, and the separation of the rover from the landing vehicle. The diagram provides a visual representation of the complex sequence of events required for a safe touchdown on the Martian surface.

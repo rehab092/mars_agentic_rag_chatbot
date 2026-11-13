@@ -1,0 +1,15 @@
+National Aeronautics and Space Administration
+
+# Mars Helicopter
+
+When NASA's Mars 2020 rover lands on February 18, 2021, it will be carrying a passenger onboard: the first helicopter ever designed to fly in the thin Martian air.
+
+The Mars Helicopter is a small, autonomous aircraft that will be carried to the surface on the Red Planet attached to the belly of the Mars 2020 rover. Its mission is experimental in nature and completely independent of the Mars 2020 science mission. In the months after landing, the helicopter will be placed on the surface to test – for the first time ever – powered flight in the thin Martian air. Its performance during these experimental test flights will help inform decisions relating to considering small helicopters for future Mars missions, where they could perform in a support role as robotic scouts, surveying terrain from above, or as full standalone science craft carrying instrument payloads. Taking to the air would give scientists a new perspective on a region's geology and even allow them to peer into areas that are too steep or slippery to send a rover. In the distant future, they might even help astronauts explore Mars.
+
+The project is solely a demonstration of technology; it is not designed to support the Mars 2020 mission, which is searching for signs of ancient life and collecting samples of rock and sediment in tubes for potential return to Earth by later missions.
+
+Download this fact sheet
+
+Watch trailer
+
+# NASAfacts

@@ -1,0 +1,23 @@
+The MMRTG also charges two lithium-ion batteries, which are used during daily operations and when the demand temporarily exceeds the usual electrical output levels. Perseverance's power demand can reach 900 watts during science activities.
+
+The MMRTG, located at the aft of the rover, weighs about 99 pounds (45 kilograms) altogether. It contains 10.6 pounds (4.8 kilograms) of plutonium dioxide as its heat source.
+
+The two batteries weigh a total of 58.4 pounds (26.5 kilograms) and each has a capacity of about 43 amp-hours.
+
+More details on the MMRTG can be found on the mission's electrical power page and NASA's radioisotope power systems website.
+
+# Why Does This Mission Use an MMRTG?
+
+The Perseverance rover needs to operate extremely efficiently to accomplish its prime mission. An MMRTG allows the rover to work free of limitations associated with solar panels, such as the daily and seasonal variations of sunlight on Mars and the accumulation of fine Martian dust.
+
+The advantages of MMRTG power give Perseverance greater mobility over a range of lighting conditions at different latitudes and surface locations. It also provides engineers with valuable flexibility in operating the rover (e.g., communications, mobility, or science throughout the day and night).
+
+Overall, the MMRTG enables the Perseverance team to maximize the operational capabilities of the rover and its science instruments.
+
+# How Reliable Is an MMRTG?
+
+Perseverance's power system is identical to the one that the Curiosity rover has been using successfully since its launch in 2011.
+
+The MMRTG is expected to operate for at least 14 years, significantly beyond Perseverance's prime mission duration (at least one Mars year, or about two Earth years).
+
+NASA has used similar radioisotope thermoelectric generators (RTGs) successfully for five decades, including on the Apollo missions to the Moon and the Viking missions to Mars. They have also been used on spacecraft that flew to the outer planets and Pluto, such as during the Pioneer, Voyager, Ulysses, Galileo, Cassini, and New Horizons missions.

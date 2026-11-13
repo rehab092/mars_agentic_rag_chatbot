@@ -1,0 +1,27 @@
+# Ingenuity Mars Helicopter
+
+Weighing just about 4.0 pounds (1.8 kilograms), the Ingenuity Mars Helicopter is a small, autonomous rotorcraft designed to test - for the first time - powered flight in the thin Martian atmosphere. This lightweight helicopter does not carry any science instruments.
+
+Ingenuity's performance during its experimental test flights will help NASA make decisions about small helicopters for future Mars missions, where they could perform in a support role as robotic scouts, surveying terrain from above, or as full standalone science craft carrying instrument payloads. Taking to the air would give scientists a new perspective of a region's geology and allow them to peer into areas too steep or slippery to send a rover. In the distant future, they might even help astronauts explore Mars.
+
+The Mars Helicopter Delivery System holds the Ingenuity Mars Helicopter to the underside of Perseverance. Image credit: NASA/JPL-Caltech
+
+The Mars Helicopter Delivery System - designed collaboratively by Lockheed Martin Space and JPL's Mars 2020 and helicopter teams - attaches the helicopter to the belly of the rover for their journey to the Red Planet. This system protects Ingenuity from debris during landing and will deploy the helicopter onto the Martian surface roughly two-and-a-half months later.
+
+# Key Objectives
+
+Demonstrate powered flight in the thin atmosphere of Mars.
+
+The Red Planet has lower gravity (about one-third that of Earth) but its atmosphere is only 1% as thick, making it much harder to generate lift.
+
+The first test flight is expected to take place in the spring of 2021 after about six sols of activities to check out the helicopter.
+
+The helicopter could fly as high as 15 feet (5 meters) in altitude and as far as 160 feet (50 meters) downrange.
+
+The longest that engineers will try to fly the helicopter on each flight will be 90 seconds.
+
+# Demonstrate miniaturized flying technology on another planet.
+
+To fly in the thin atmosphere, Ingenuity was limited to a total mass of about 4.0 pounds (1.8 kilograms).
+
+The rotor system, solar panel, landing gear, fuselage and other components must be very lightweight.

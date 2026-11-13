@@ -1,0 +1,65 @@
+Source PDF: Mission overview, landing, engineering, instruments.pdf
+Page Number: 33
+Table Number: 1
+
+Row 1:
+CameraType: EDL Camera Suite
+Number: 7
+ColororBW: 6 color 1 black
+, -
+and -white
+Resolution: 13or31
+. .
+megapixels
+Location: On back shell descent
+,
+stage and rover
+,
+
+Row 2:
+CameraType: Parachute Uplook
+Cameras (PUC)
+Number: 3
+ColororBW: Color
+Resolution: 13megapixel
+.
+Location: Back shell
+
+Row 3:
+CameraType: Descent Stage
+Downlook Camera
+(DDC)
+Number: 1
+ColororBW: Color
+Resolution: 31megapixel
+.
+Location: Descent stage
+
+Row 4:
+CameraType: RoverUplookCamera
+(RUC)
+Number: 1
+ColororBW: Color
+Resolution: 13megapixel
+.
+Location: Roverdeck
+
+Row 5:
+CameraType: RoverDownlook
+Camera(RDC)
+Number: 1
+ColororBW: Color
+Resolution: 13megapixel
+.
+Location: Frontleftcorner
+beneathrover
+
+Row 6:
+CameraType: LanderVisionSystem
+Camera(LCAM)
+Number: 1
+ColororBW: Black -and -white
+Resolution: 13megapixel
+.
+Location: Frontrightcorner
+beneathrover

@@ -1,0 +1,23 @@
+# Perseverance Rover
+
+Weight: About 2,260 pounds (1,025 kilograms) on Earth, including the robotic arm with a 99-pound (45-kilogram) turret at the end, and about 866 pounds (393 kilograms) on Mars.
+
+Dimensions: About 10 feet long (not including the arm), 9 feet wide, and 7 feet tall (about 3 meters long, 2.7 meters wide, and 2.2 meters tall); the robotic arm is about 7 feet (2.1 meters) long.
+
+Payload Instruments: 130 pounds (59 kilograms) for seven instruments: Mastcam-Z, Mars Environmental Dynamics Analyzer (MEDA), Mars Oxygen In-Situ Resource Utilization Experiment (MOXIE), Planetary
+
+Image credit: NASA/JPL-Caltech
+
+Instrument for X-ray Lithochemistry (PIXL), Radar Imager for Mars' Subsurface Experiment (RIMFAX), Scanning Habitable Environments with Raman & Luminescence for Organics & Chemicals (SHERLOC), and SuperCam.
+
+Sample Caching System: One bit carousel with 9 drill bits for sample acquisition and surface abrasion, one 1.6-foot-long (0.5-meters-long) internal sample handling arm, and 43 sample collection tubes, including 5 "witness" tubes.
+
+Power: Multi-Mission Radioisotope Thermoelectric Generator (MMRTG) provided by the U.S. Department of Energy that uses the heat from the radioactive decay of plutonium-238 to generate a steady flow of about 110 watts of electricity. Two lithium-ion rechargeable batteries are available to meet power and energy demands during rover activities and are recharged by the MMRTG's electrical output during quiescent periods.
+
+Microphones: One on SuperCam to support instrument science and one on the port side of the rover for entry, descent, and landing, surface engineering, and public engagement.
+
+# Cameras
+
+The Mars 2020 mission is ferrying 25 cameras to the Red Planet - the most ever flown in the history of deep-space exploration. Twenty-three are part of the Mars 2020 spacecraft and 2 are on the Ingenuity Mars Helicopter.
+
+Image credit: NASA/JPL-Caltech

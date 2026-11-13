@@ -1,0 +1,11 @@
+The back shell with the parachute will separate from what is known as the powered descent vehicle (which includes the rover and the descent stage, a rocket-powered structure that helps the spacecraft land) about 60 seconds before touchdown.
+
+The aeroshell also features the MEDLI2 sensor suite to collect data during EDL. More on this suite can be found in the Experimental Technologies section.
+
+# Descent Stage
+
+Image credit: NASA/JPL-Caltech
+
+Think of the descent stage as a kind of jetpack with eight engines that safely lowers the spacecraft to the ground. The descent stage slows down until it's hovering over the surface, then slowly winches Perseverance down with nylon cords as part of the sky crane maneuver.
+
+When the rover is safely on the ground, pyrotechnically activated blades will cut the cords connecting it to the descent stage. The descent stage flies off to make its own uncontrolled landing on the surface a safe distance away from Perseverance.

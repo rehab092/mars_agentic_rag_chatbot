@@ -1,0 +1,56 @@
+Source PDF: Mission overview, landing, engineering, instruments.pdf
+Page Number: 20
+Table Number: 1
+
+Row 1:
+Milestone: Cruise stage separation
+EST: 3:38 p m
+. .
+PST: 12:38 p m
+. .
+
+Row 2:
+Milestone: Atmospheric entry
+EST: 3:48 p m
+. .
+PST: 12:48 p m
+. .
+
+Row 3:
+Milestone: Peak heating
+EST: 3:49 p m
+. .
+PST: 12:49 p m
+. .
+
+Row 4:
+Milestone: Parachute deployment
+EST: 3:52 p m
+. .
+PST: 12:52 p m
+. .
+
+Row 5:
+Milestone: Heat shield separation
+EST: 3:52 p m
+. .
+(20 seconds after
+parachute deployment)
+PST: 12:52 p m
+. .
+(20 seconds after
+parachute deployment)
+
+Row 6:
+Milestone: Back shell separation
+EST: 3:54 p m
+. .
+PST: 12:54 p m
+. .
+
+Row 7:
+Milestone: Rovertouchdown
+EST: 3:55pm
+. .
+PST: 12:55pm
+. .

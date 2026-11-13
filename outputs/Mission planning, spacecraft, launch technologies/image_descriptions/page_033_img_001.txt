@@ -1,0 +1,7 @@
+The image displays a detailed technical illustration of the Perseverance rover, showing its chassis, wheels, and various scientific instruments. The rover is depicted in a side profile view with specific camera locations labeled by orange lines pointing to their respective positions.
+
+The main visible objects include the six large wheels with tread patterns, the central body of the rover, a robotic arm extending from the right side, and a mast structure rising from the center. Several instruments are labeled, including the SuperCam (Remote Micro-Imager) located at the top of the mast, two Mastcam-Z cameras positioned on the mast, two Navcam cameras on the mast, a SHERLOC instrument labeled as (WATSON) on the robotic arm, and a PIXL (Micro-Context Camera) also on the arm. Additionally, labels point to the Rear Hazcams on the back of the rover and the Front Hazcams near the front wheels.
+
+In the bottom right corner, there is a summary of camera counts: Total cameras: 23, Engineering cameras: 9, Science cameras: 7, and Entry, descent and landing cameras: 7.
+
+The image illustrates the distribution and types of cameras on the Perseverance rover, highlighting both science and engineering instruments. The relationships between components are shown through the placement of instruments on the mast, arm, and body, indicating their roles in capturing images from different angles and distances.

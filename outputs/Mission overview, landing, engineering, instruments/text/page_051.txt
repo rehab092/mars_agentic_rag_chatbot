@@ -1,0 +1,7 @@
+The Mars Helicopter Delivery System - designed collaboratively by Lockheed Martin Space and JPL's Mars 2020 and helicopter teams - attaches the helicopter to the belly of the rover for the journey to the Red Planet. This system protects Ingenuity from debris during landing and will deploy the helicopter onto the Martian surface in the months after landing.
+
+Image credit: NASA/JPL-Caltech
+
+Also installed in Perseverance is the Mars Helicopter Base Station. This station carries computers that monitor and regulate helicopter systems while it is attached to the rover and the communications gear that - once the helicopter deploys to the surface - stores and routes communications between Ingenuity, Perseverance, and Earth.
+
+For more on Ingenuity, read the Ingenuity press kit.

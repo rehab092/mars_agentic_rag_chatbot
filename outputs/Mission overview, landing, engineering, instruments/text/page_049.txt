@@ -1,0 +1,11 @@
+# MEDLI2 (Mars Entry, Descent, and Landing Instrumentation 2)
+
+Image credit: LMS
+
+Based on an instrument flown on NASA's Mars Science Laboratory (MSL) mission, which landed the Curiosity rover in 2012, MEDLI2 is a next-generation sensor suite that collects temperature, pressure, and heating measurements on the heat shield and back shell during entry, descent, and landing. Data collected by MEDLI2 will help engineers validate their models for designing future systems (both robotic and crewed) for entry, descent, and landing systems.
+
+MEDLI2 is a Game Changing Development project led by NASA's Space Technology Mission Directorate, with support from the Human Exploration and Operations Mission Directorate and Science Mission Directorate. The project is managed at NASA Langley Research Center in Hampton, Virginia, and implemented in partnership with NASA's Ames Research Center in California's Silicon Valley and NASA's Jet Propulsion
+
+Laboratory in Southern California.
+
+Find more information about MEDLI2 in this story.

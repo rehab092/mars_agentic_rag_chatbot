@@ -1,0 +1,7 @@
+The image displays the underside of a large, complex robotic rover, identified by the context as the Perseverance Mars rover. The rover is suspended in a laboratory environment, indicated by the white walls, lighting fixtures, and mechanical arms visible in the background.
+
+The main visible object is the rover's chassis, which features a gold-colored solar array panel on the lower right side. Several large, cylindrical components wrapped in silver thermal insulation with yellow bands are mounted on the upper section of the rover. These appear to be the main propulsion engines. The rover has six large wheels with yellow treads visible on the left side.
+
+A red circle highlights a specific area on the underside of the rover, near the center. Inside this circle, a small, box-like device is mounted on a bracket. This device is the Ingenuity Mars Helicopter, attached to the rover via a deployment mechanism. The helicopter is oriented vertically, with its rotor blades folded upwards. The text confirms this is the "Mars Helicopter Delivery System" which holds the helicopter to the underside of the rover.
+
+The image illustrates the relationship between the rover and the helicopter, showing how the helicopter is secured to the rover for transport to Mars. The text explains that this system protects the helicopter during landing and will deploy it onto the Martian surface later. The visual evidence supports the caption's description of the helicopter being held to the underside of the rover.

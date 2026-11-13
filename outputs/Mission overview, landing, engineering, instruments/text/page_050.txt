@@ -1,0 +1,9 @@
+# Ingenuity Mars Helicopter
+
+Image credit: NASA/JPL-Caltech
+
+Weighing just about 4 pounds (1.8 kilograms), the Ingenuity Mars Helicopter is a small, autonomous rotorcraft designed to test - for the first time - powered, controlled flight in the thin Martian atmosphere. This lightweight helicopter does not carry any science instruments.
+
+Ingenuity's performance during its experimental test flights will help NASA make decisions about small helicopters for future Mars missions, where they could perform in a support role as robotic scouts, surveying terrain from above, or as full standalone science craft carrying instrument payloads. Taking to the air would give scientists a new perspective of a region's geology and allow them to peer into areas too steep or slippery to send a rover. In the distant future, they might even help astronauts explore Mars.
+
+The Mars Helicopter Delivery System holds the Ingenuity Mars Helicopter to the underside of Perseverance | Image credit: NASA/JPL-Caltech

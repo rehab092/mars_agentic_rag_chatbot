@@ -1,0 +1,9 @@
+# Experimental Technologies
+
+Several brand new or next-generation technologies will be riding on the rocket to Mars. Two of these are officially designated technology demonstrations - experiments that seek to prove a first-of-their-kind capability, with limited scope. Previous examples of these groundbreaking experimental technologies are the Mars Pathfinder mission and its rover (Sojourner), the Mars Cube One (MarCO) CubeSats that flew by Mars, and the NASA-sponsored rocket planes and lifting body vehicles that paved the way for the space shuttle. The success of these technology demonstrations is not connected to the overall success of the Perseverance rover and the Mars 2020 mission.
+
+# MOXIE (Mars Oxygen ISRU Experiment)
+
+Located inside the body of the Perseverance rover, MOXIE will test technology that converts carbon dioxide in the Martian atmosphere into oxygen. The "I" in MOXIE stands for "in situ resource utilization," or ISRU - the concept of using resources found where a spacecraft lands rather than bringing those resources from Earth.
+
+MOXIE also serves as one of Perseverance's payload instruments; more information is available in the Payload Instruments section of this press kit.

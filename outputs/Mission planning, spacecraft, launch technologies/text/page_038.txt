@@ -1,0 +1,15 @@
+# Power
+
+# What Is an MMRTG?
+
+Perseverance's power system works essentially like a nuclear battery. The MMRTG converts heat from the natural radioactive decay of plutonium-238 into a steady flow of electricity. The power system will reliably produce about 110 watts (similar to a light bulb) at the start of Perseverance's mission, declining a few percent each year in a very predictable way. The MMRTG doesn't just power the rover; excess heat from it keeps the rover's tools and systems at their correct operating temperatures.
+
+The MMRTG also charges two lithium-ion batteries, which are used during daily operations and when the demand temporarily exceeds the usual electrical output levels. Perseverance's power demand can reach 900 watts during science activities.
+
+The MMRTG, located on the aft of the rover, weighs about 99 pounds (45 kilograms) altogether. It contains 10.6 pounds (4.8 kilograms) of plutonium dioxide as its heat source.
+
+The two batteries weigh a total of 58.4 pounds (26.5 kilograms) and each has a capacity of about 43 amp-hours.
+
+More details on the MMRTG can be found on this electrical power page.
+
+The Perseverance rover requires electrical power to operate. The dependable flow of electricity for the rover comes from a power system known as a MultiMission Radioisotope Thermoelectric Generator (MMRTG), provided to NASA by the U.S. Department of Energy (DOE).

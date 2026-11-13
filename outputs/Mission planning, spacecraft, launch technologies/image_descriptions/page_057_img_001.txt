@@ -1,0 +1,7 @@
+The image displays a color-coded topographic map of a large, circular geological feature on Mars, identified as Jezero Crater. The map uses a color gradient to represent elevation, with green areas indicating higher elevations on the surrounding rim and lower, flatter regions in the center shown in shades of purple and blue.
+
+A black circle is drawn on the western side of the crater's interior, highlighting a specific area of interest. This circled region contains several small, dark, irregular shapes that appear to be distinct from the surrounding flat terrain.
+
+In the bottom left corner, a white scale bar is present with the number "10" and the unit "km" next to it, indicating that the length of the bar represents ten kilometers. The scale bar is positioned over the green rim area.
+
+The overall structure shows a classic impact crater morphology with a raised rim and a relatively flat floor. The circled area is located within the crater floor, near the western edge. The purpose of the image is to illustrate the landing site of the Mars 2020 rover, specifically showing the location of the rover's intended landing spot within the crater.

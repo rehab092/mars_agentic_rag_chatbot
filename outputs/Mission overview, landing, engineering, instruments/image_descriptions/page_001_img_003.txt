@@ -1,0 +1,13 @@
+The image displays a graphic logo consisting of white text on a solid black background.
+
+1. Main Visible Objects: The primary object is typographic text arranged in two lines. There are no diagrams, photographs, or mechanical equipment visible.
+
+2. Structure and Components: The design features a large, stylized word at the top and a smaller, standard word below it. The top line uses a geometric sans-serif font with sharp angles and uniform stroke width. The bottom line uses a standard sans-serif font with uniform stroke width.
+
+3. Readable Labels and Information:
+* The top line reads "MARS" in large, capital letters. The letter "A" is stylized with a sharp, angular peak.
+* The bottom line reads "PERSEVERANCE" in smaller, capital letters.
+
+4. Relationships Between Components: The word "PERSEVERANCE" is positioned directly beneath the word "MARS," centered horizontally relative to the text above it. The font size of "MARS" is significantly larger than "PERSEVERANCE," creating a visual hierarchy.
+
+5. Purpose Illustrated: The image serves as a title or branding element for the Mars Perseverance mission. It identifies the specific spacecraft or program associated with the document context.

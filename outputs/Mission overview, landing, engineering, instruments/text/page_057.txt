@@ -1,0 +1,17 @@
+# MOXIE (Mars Oxygen ISRU Experiment)
+
+# Principal Investigator:
+
+# Michael Hecht, Massachusetts Institute of Technology, Cambridge
+
+MOXIE is a technology demonstration that will show whether such technology could be used to help launch rockets off the surface of Mars in the future. (The "I" in MOXIE stands for "in-situ resource utilization," or ISRU - the concept of using resources found where a spacecraft lands rather than bringing those resources from Earth.) MOXIE converts carbon dioxide in the Martian atmosphere into oxygen, which is required in massive quantities in order to launch rockets. To burn enough rocket fuel to launch themselves back to Earth, future astronauts will require tens of metric tons of liquid oxygen. The MOXIE experiment aboard Perseverance is about the size of a car battery and can produce enough oxygen to sustain a small dog. A system that produces breathing oxygen for human missions would need to be about 200 times larger.
+
+This set of sensors was built by an international team led by Spain's Centro de Astrobiología.
+
+# MOXIE
+
+Weighs about 38 pounds (17 kilograms).
+
+Is designed to produce 0.022 pounds of oxygen per hour (10 grams of oxygen per hour).
+
+Image credit: NASA/JPL-Caltech

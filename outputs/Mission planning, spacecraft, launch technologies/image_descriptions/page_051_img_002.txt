@@ -1,0 +1,7 @@
+The image displays a close-up view of the Remote Sensing Mast, also known as the "head," of the Perseverance rover. The primary focus is on the Mastcam-Z instrument assembly, which is highlighted by blue circles and a text label.
+
+The Mastcam-Z consists of a pair of zoomable cameras mounted side-by-side on a white, box-like housing. The housing features a large, circular aperture at the top, likely for a telescope or sensor. Below this, the two camera units are visible, each containing a dark, rectangular lens or sensor area. The text label "Mastcam-Z" points directly to these two camera units.
+
+Surrounding the camera assembly are various mechanical components, including gears, linkages, and wiring, indicating the complex machinery required for the zooming and panning functions of the cameras. To the right of the camera housing, there is a cylindrical component with a ribbed texture, possibly part of the mast's structure or another sensor. The background is a plain, light-colored surface, suggesting the image was taken in a controlled environment, such as a clean room or laboratory.
+
+The image provides a clear view of the Mastcam-Z's physical structure, emphasizing its role as the primary scientific "eyes" of the Perseverance rover. The detailed view of the mechanical components highlights the precision engineering involved in the instrument's design.

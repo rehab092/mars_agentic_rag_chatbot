@@ -1,0 +1,9 @@
+# Overview
+
+The Mars 2020 mission spacecraft that includes the Perseverance rover will launch to the Red Planet in July or August 2020 from Cape Canaveral, Florida. With the help of celestial mechanics, the spacecraft will arrive at Mars about seven months later. The date Perseverance lands on Mars - Feb. 18, 2021 - remains the same regardless of the launch date.
+
+Key phases of the Mars 2020 mission are launch, cruise, arrival (also known as entry, descent and landing) and Mars surface operations.
+
+During a prime mission that will last at least one Mars year (about 687 Earth days), Perseverance's exploration of Jezero Crater will address high-priority science goals for Mars exploration, including key questions about the potential for life on Mars. The rover's astrobiology mission will search for signs of ancient microbial life, characterize the planet's climate and geology and collect samples for future return to Earth. Perseverance will also gather knowledge about, and demonstrate the viability of, technologies that address the challenges of future human expeditions to Mars.
+
+The Ingenuity Mars Helicopter, a technology demonstration, will also ride along to Mars, attached to the belly of the Perseverance rover. More information about its mission is in the Experimental Technologies section.

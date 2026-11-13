@@ -1,0 +1,25 @@
+Cameras circled in white.
+
+# Launch
+
+2 cameras on Ingenuity: 1 color with an oblique view for terrain images and 1 black-and-white for navigation
+
+Update: As of June 24, the launch is targeted for no earlier than July 22, 2020. Additional updates can be found on the mission's launch page.
+
+Targeted Launch Period: no earlier than July 20 to Aug. 11, 2020
+
+Targeted Launch windows: 9:15 a.m.-11:15 a.m. EDT (6:15 a.m.-8:15 a.m. PDT) on July 20, with additional times listed on the mission's launch page
+
+Launch site: Space Launch Complex 41, Cape Canaveral Air Force Station, Florida
+
+Launch vehicle: Atlas V 541 from United Launch Alliance
+
+Earth-Mars distance on July 20, 2020: 65 million miles (105 million kilometers)
+
+Spacecraft's distance traveled, Earth to Mars (July 20 launch): 309 million miles (497 million kilometers)
+
+# Surface Mission
+
+Time of Mars landing: Feb. 18, 2021, shortly after 3:30 p.m. EST (12:30 p.m. PST), to be made more precise depending on the launch date and time. If launch is July 20, 2020, the time of day at the landing site will be 3:46 p.m. local mean solar time
+
+Landing site: Jezero Crater, about 18 degrees latitude, 77 degrees longitude One-way light time (the time it takes radio signals to travel): Mars to Earth, on Feb. 18, 2021: about 10.5 minutes Perseverance mission duration: At least one Mars year (about 687 Earth days)

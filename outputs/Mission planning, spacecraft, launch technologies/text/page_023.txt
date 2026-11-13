@@ -1,0 +1,11 @@
+# Launch
+
+A two-stage United Launch Alliance (ULA) Atlas V 541 launch vehicle will lift the Mars 2020 spacecraft from Launch Complex 41 at Cape Canaveral Air Force Station, Florida. The numbers "541" in the launch vehicle's designation signify a 5-meter (17foot) short payload fairing, four solid-rocket boosters, and a one-engine Centaur upper stage. It stands at 197 feet (60 meters) tall.
+
+This will be the 11th Mars launch on an Atlas rocket, and the fifth by the Atlas V following NASA's Mars Reconnaissance Orbiter in 2005, Curiosity rover in 2011, MAVEN orbiter in 2013 and InSight lander in 2018.
+
+The spacecraft will ride into the sky inside a protective payload fairing atop the Atlas' Centaur stage. Approximately 50 to 60 minutes after launch (depending on when liftoff actually occurs), the Mars 2020 spacecraft will separate from the launch vehicle and complete the rest of its journey to Mars on its own.
+
+The spacecraft will start communicating with the ground between 70 and 90 minutes after launch (again depending on when liftoff occurs). The variability in communication time is due to how long the spacecraft is in the Earth's shadow for each launch opportunity. The Earth's shadow blocks light from reaching the spacecraft's solar panels, which charge batteries that power the communications radio. Mission controllers don't want to turn on the radio while the spacecraft is in shadow because this would draw down the batteries when they can't recharge.
+
+United Launch Alliance hoists its Atlas V first stage onto the mobile launch platform at Launch Complex 41, Cape Canaveral Air Force Station, about a month and a half before Perseverance is set to launch. Image Credit: ULA

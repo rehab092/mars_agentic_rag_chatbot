@@ -1,0 +1,9 @@
+# New EDL Technologies
+
+During EDL, Range Trigger will autonomously update the deployment time for the parachute based on navigation position. It will calculate the spacecraft's distance to the landing target and open the parachute at the ideal time for the spacecraft to hit its mark. The result: a smaller, more precise landing ellipse, or target landing area. The landing ellipse for Perseverance is 10 times smaller in area than the Curiosity rover's in 2012 and almost 300 times smaller than that of the first Mars rover, Sojourner, in 1997.
+
+Image credit: NASA/JPL-Caltech
+
+The parachute, which is 70.5 feet (21.5 meters) in diameter, deploys about 240 seconds after entry, at an altitude of about 7 miles (11 kilometers) and a velocity of about 940 mph (1,512 kph). Twenty seconds after parachute deployment, the heat shield separates and drops away, revealing a radar and cameras that feed into the other new landing technology, called Terrain-Relative Navigation. Terrain-Relative Navigation is a kind of autopilot that can quickly figure out the spacecraft's location over the Martian surface and select the best reachable safe landing target.
+
+Image credit: NASA/JPL-Caltech

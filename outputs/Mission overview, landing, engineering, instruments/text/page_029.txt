@@ -1,0 +1,9 @@
+# Heavier and More Capable
+
+The car-size Perseverance rover is about 10 feet long (not including the robotic arm arm), 9 feet wide, and 7 feet tall (about 3 meters long, 2.7 meters wide, and 2.2 meters tall). It weighs about 2,260 pounds (1,025 kilograms) on Earth.
+
+The Perseverance rover and other major Mars 2020 mission hardware (such as the cruise stage, descent stage, back shell, and heat shield) build upon the success of NASA's Curiosity rover (part of the Mars Science Laboratory mission) and include many heritage components. So how much bigger and heavier is Perseverance than Curiosity? Perseverance's chassis is about 5 inches (3 centimeters) longer, and the rover is about 278 pounds (126 kilograms) heavier than Curiosity.
+
+Image credit: NASA/JPL-Caltech
+
+Curiosity is equipped with a robotic arm that extends 7 feet (2 meters) and wields a rotating 65-pound (30-kilogram) turret - a kind of robotic "hand" equipped with a scientific camera, chemical analyzers, and rock drill. Like Curiosity, Perseverance's robotic arm is equipped with a rotating turret, which includes a rock drill, science instruments, and a camera. But while Perseverance's arm is 7 feet (2 meters), just like Curiosity's, its turret weighs more - 99 pounds (45 kilograms) - because it carries larger instruments and a larger drill, which will cut intact rock cores. Those cores will then be placed in sample tubes via a complex storage system. (Curiosity, on the other hand, pulverizes rock for its instruments to study.)
